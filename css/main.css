@@ -3,11 +3,14 @@
 body {
     margin: auto;
     font-family: 'Fjord One', serif;
-    max-width: 60%vw;
+    max-width: 60vw;
     line-height: 1.6;
     font-size: smaller;
     color: #444;
     text-align: center;
+}
+div {
+  width: 50vw;
 }
 nav ul, footer ul {
     font-family: 'Fira Sans', sans-serif;
