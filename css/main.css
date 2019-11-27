@@ -3,7 +3,7 @@
 body {
     margin: 40px auto;
     font-family: 'Fjord One', serif;
-    max-width: 56%;
+    max-width: 56%vw;
     line-height: 1.6;
     font-size: smaller;
     color: #444;
