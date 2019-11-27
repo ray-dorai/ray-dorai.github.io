@@ -1,7 +1,4 @@
-<style>
-@import url('https://fonts.googleapis.com/css?family=Fjord+One&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Fira+Sans&display=swap');
-</style> 
+ 
 
 body {
     margin: 40px auto;
@@ -50,3 +47,7 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+<style>
+@import url('https://fonts.googleapis.com/css?family=Fjord+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans&display=swap');
+</style>
