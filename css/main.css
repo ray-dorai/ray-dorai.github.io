@@ -1,13 +1,17 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Fjord+One&display=swap');
+</style> 
+
 body {
     margin: 40px auto;
-    font-family:'Droid Serif';
+    font-family: 'Fjord One', serif;
     max-width: 56%;
     line-height: 1.6;
     font-size: medium;
     color: #444;
 }
 nav ul, footer ul {
-    font-family:'Droid Sans Mono';
+    font-family: 'Fjord One', serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
