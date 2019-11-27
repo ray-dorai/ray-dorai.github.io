@@ -7,6 +7,7 @@ body {
     line-height: 1.6;
     font-size: smaller;
     color: #444;
+    transform: translate(-50%, -50%)
 }
 nav ul, footer ul {
     font-family: 'Fira Sans', sans-serif;
