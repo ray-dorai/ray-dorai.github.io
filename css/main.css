@@ -1,5 +1,6 @@
 <style>
 @import url('https://fonts.googleapis.com/css?family=Fjord+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans&display=swap');
 </style> 
 
 body {
@@ -11,7 +12,7 @@ body {
     color: #444;
 }
 nav ul, footer ul {
-    font-family: 'Fjord One', serif;
+    font-family: 'Fira Sans', sans-serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
