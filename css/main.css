@@ -30,6 +30,7 @@ h1 {
     font-size: 3em;
     font-family: 'Fira Sans', sans-serif;
     text-align: center;
+    max-width: 50vw;
 }
 p {
     font-size: 1.5em;
