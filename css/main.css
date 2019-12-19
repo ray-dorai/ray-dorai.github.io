@@ -2,7 +2,7 @@
 body {
     margin: 0 auto;
     font-family: 'Fjord One', serif;
-    width: 60% content-box;
+    max-width: 60% content-box;
     line-height: 1.4;
     color: #444;
 }
