@@ -4,7 +4,6 @@ body {
     font-family: 'Fjord One', serif;
     width: 60% content-box;
     line-height: 1.5;
-    font-size: smaller;
     color: #444;
 }
 
@@ -44,7 +43,6 @@ footer {
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
-    width: 60% content-box;
 }
 
 ul.posts li {
