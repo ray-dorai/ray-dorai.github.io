@@ -1,7 +1,7 @@
 
 body {
     margin: 10vw;
-    font-family: 'Fjord One', serif;
+    font-family: 'Sorts Mill Goudy', serif;
     width: 45em;
     font-size: smaller;
     line-height: 1.4;
@@ -9,7 +9,7 @@ body {
 }
 
 nav ul, footer ul {
-    font-family: 'Fjord One', serif;
+    font-family: 'Sorts Mill Goudy', serif;
     padding: 40px;
     list-style: none;
     font-weight: bold;
@@ -52,4 +52,5 @@ ul.posts li {
 <style>
 @import url('https://fonts.googleapis.com/css?family=Fjord+One&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Fira+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Sorts+Mill+Goudy&display=swap');
 </style>
