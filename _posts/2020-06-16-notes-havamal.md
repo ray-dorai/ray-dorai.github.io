@@ -4,7 +4,7 @@ title: "Notes: Hávamál"
 date: 2020-06-16
 ---
 
-In modern urban warfare, pie-ing involves sectioning off the dead (space unoccupied by objects or walls) space in every room and corridor to clear it of possible threats. The Norse had something similar, advising travelers to check every room thoroughly before they entered. [[havamal]] [[norse]] [[odin]]
+In modern urban warfare, pie-ing involves sectioning off the dead (space unoccupied by objects or walls) space in every room and corridor to clear it of possible threats. The Norse had something similar, advising travelers to check every room thoroughly before they entered.
 
 "At every door-way,
 ere one enters,
