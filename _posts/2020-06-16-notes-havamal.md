@@ -16,7 +16,7 @@ for uncertain is the witting
 that there be no foeman sitting,  
 within, before one on the floor"
 
-The Havamal suggest that gifting travelers is a norm to be followed, but it is nonetheless up to the traveler to be careful and canny about his behavior. The traveler is a guest, and a guest is at the mercy of his host. Wit is praised as a virtue- wit will find you friends.  
+The Havamal suggests that gifting travelers is a norm to be followed, but it is nonetheless up to the traveler to be careful and canny about his behavior. The traveler is a guest, and a guest is at the mercy of his host. Wit is praised as a virtue- wit will find you friends.  
 
 The first step in an OODA loop is to observe, and for the Norse it was no different:  
 "Let the wary stranger who seeks refreshment  
