@@ -4,6 +4,8 @@ title: "Notes: Hávamál"
 date: 2020-06-16
 ---
 
+The Hávamál is advice from the Icelandic codex, attributed to Odin as a "Song of the High One". 
+
 In modern urban warfare, pie-ing involves sectioning off the dead (space unoccupied by objects or walls) space in every room and corridor to clear it of possible threats. The Norse had something similar, advising travelers to check every room thoroughly before they entered.
 
 "At every door-way,  
@@ -46,7 +48,7 @@ nor the words which a woman says;
 for their hearts were shaped on a whirling wheel  
 and falsehood fixed in their breasts."  
 
-For a woman's love, use soft words and wealth. Don't blame anything on anyone you love. Love makes intelligent men stupid. Love is the worst sickness for the wise. Women are fickle, know the part you're playing when you try to wife one up.  
+For a woman's love, use soft words and wealth. Don't blame anything on anyone you love. Love makes intelligent men stupid. Love is the worst sickness for the wise. Women are fickle, know the part you're playing when you try to wife one up. It is important to note that when Odin went after Billing's daughter, he failed to seduce her, while when he went after the mead of poetry, he seduced Gunloth. When his purpose was clear (and was not primarily seduction of a woman), he was successful. When he made his purpose a woman, he was not successful.
 
 
 Don't show those you don't trust your pain. __Friendship is when you can share your whole mind with another__. No one is so good that they don't have things about them you dislike, and no one is so bad that they can't be useful to someone. Share your wealth, or people will want to destroy you.  
