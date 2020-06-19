@@ -30,7 +30,7 @@ Stay with silence, until you have to speak the right word.[^3]
 
 Those who wander most (breadth of experience) can tell when someone is wise. Fools consume more than they can process. Insomnia is a sign of a lack of wisdom, sleeping well is a sign of wisdom. Proper questions and answers are a mark of wisdom. When people are not proved (without skin in the game)[^4], they seem wise. A guest is only welcome for a time. Stay past that time and you will be unwelcome.  
 
-Your own house is best, no matter how tiny. Be prepared to fight everywhere (see: self-reliance).  
+Your [own house is best](https://en.wikipedia.org/wiki/Castle_doctrine#In_the_early_United_States), no matter how tiny. Be prepared to fight everywhere (see: self-reliance).  
 
 Everyone likes gifts. Those who give and keep on giving have the longest relationships. If you don't trust someone, laugh with them, bring them cheer, but do not share your thoughts with them. "Man is the joy of man." Live free enough to keep giving abundantly, and don't feed your grief.  
 
