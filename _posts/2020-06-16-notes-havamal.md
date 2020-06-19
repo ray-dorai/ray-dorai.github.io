@@ -61,6 +61,6 @@ This was written while listening to [Heilung](https://heilung.bandcamp.com/).
 
 [^1]: See anything about Military Operations in Urban Terrain. A quick primer is also [here](https://tgace.wordpress.com/category/tactical-preschool/).
 [^2]: You might see parallels in [Daoism](https://ttc.tasuki.org/display:Code:gff,sm,jhmd,jc,rh) and [Sufism](https://www.azquotes.com/author/12768-Rumi/tag/silence).
-[^3]: Compare with: ['A bet is a tax on bullshit'](http://mason.gmu.edu/~rhanson/futarchy.pdf) (as well as my 'A fight is a tax on bullshit), Taleb's popularization of 'skin in the game', and Teddy Roosevelt's ['Man in the Arena'](https://en.wikipedia.org/wiki/Citizenship_in_a_Republic).
+[^3]: Compare with: ['A bet is a tax on bullshit'](http://mason.gmu.edu/~rhanson/futarchy.pdf) (as well as my 'A fight is a tax on bullshit'), Taleb's popularization of 'skin in the game', and Teddy Roosevelt's ['Man in the Arena'](https://en.wikipedia.org/wiki/Citizenship_in_a_Republic).
 
 
