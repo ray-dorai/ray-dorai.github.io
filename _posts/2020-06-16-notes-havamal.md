@@ -28,7 +28,7 @@ Self-reliance is praised- a man who wins status for himself is happy (or secure)
 
 Stay with silence, until you have to speak the right word.  
 
-Those who wander most (breadth of experience) can tell when someone is wise. Fools eat more than they can digest. Insomnia is a sign of a lack of wisdom, sleeping well is a sign of wisdom. Proper questions and answers are a mark of wisdom. When people are not proved (without skin in the game), they seem wise. A guest is only welcome for a time. Stay past that time and you will be unwelcome.  
+Those who wander most (breadth of experience) can tell when someone is wise. Fools consume more than they can process. Insomnia is a sign of a lack of wisdom, sleeping well is a sign of wisdom. Proper questions and answers are a mark of wisdom. When people are not proved (without skin in the game), they seem wise. A guest is only welcome for a time. Stay past that time and you will be unwelcome.  
 
 Your own house is best, no matter how tiny. Be prepared to fight everywhere (see: self-reliance).  
 
