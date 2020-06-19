@@ -22,7 +22,19 @@ keep silent with sharpened hearing;
 with his ears let him listen, and look with his eyes;  
 thus each wise man spies out the way."  
 
-Self-reliance is praised- a man who wins status for himself is happy (or secure). A man who relies on others to win status for him is uneasy (or insecure). Intelligence/awareness (wit) is shown as an ally of the poor, and is suggested to provide more use than wealth itself. It is for this reason that alcohol is denigrated- a man who drinks has less of his wit. Stay with silence, until you have to speak the right word. Those who wander most (breadth of experience) can tell when someone is wise. Fools eat more than they can digest. Insomnia is a sign of a lack of wisdom, sleeping well is a sign of wisdom. Proper questions and answers are a mark of wisdom. When people are not proved (skin in the game), they seem wise. A guest is only welcome for a time. Stay past that time and you will be unwelcome. Your own house is best, no matter how tiny. Be prepared to fight everywhere. Everyone likes gifts. Those who give and keep on giving have the longest relationships. If you don't trust someone, laugh with them, bring them cheer, but do not share your thoughts with them. "Man is the joy of man." Live free enough to keep giving abundantly, and don't feed your grief. Watch out if you find yourself becoming too wise. If you know too much of many things, you won't be happy. Humans are formed by talking to other humans, and they become opaque through isolation. Careful what you say in public. Everything dies but memory. Wealth or a woman's love multiplies stupidities. Silence is best.  
+Self-reliance is praised- a man who wins status for himself is happy (or secure). A man who relies on others to win status for him is uneasy (or insecure). Intelligence/awareness (wit) is shown as an ally of the poor, and is suggested to provide more use than wealth itself. It is for this reason that alcohol is denigrated- a man who drinks has less of his wit.  
+
+Stay with silence, until you have to speak the right word.  
+
+Those who wander most (breadth of experience) can tell when someone is wise. Fools eat more than they can digest. Insomnia is a sign of a lack of wisdom, sleeping well is a sign of wisdom. Proper questions and answers are a mark of wisdom. When people are not proved (without skin in the game), they seem wise. A guest is only welcome for a time. Stay past that time and you will be unwelcome.  
+
+Your own house is best, no matter how tiny. Be prepared to fight everywhere (see: self-reliance).  
+
+Everyone likes gifts. Those who give and keep on giving have the longest relationships. If you don't trust someone, laugh with them, bring them cheer, but do not share your thoughts with them. "Man is the joy of man." Live free enough to keep giving abundantly, and don't feed your grief.  
+
+Watch out if you find yourself becoming too wise. If you know too much of many things, you won't be happy. Humans are formed by talking to other humans, and they become opaque through isolation. Careful what you say in public. Everything dies but memory. Wealth or a woman's love multiplies stupidities.  
+
+Silence is best.  
 
 Praise things after you've experienced them, not before or during- praise a wife when she's dead, and a weapon after it's used in combat.  
 
@@ -37,7 +49,7 @@ and falsehood fixed in their breasts."
 For a woman's love, use soft words and wealth. Don't blame anything on anyone you love. Love makes intelligent men stupid. Love is the worst sickness for the wise. Women are fickle, know the part you're playing when you try to wife one up.  
 
 
-Don't show those you don't trust your pain. Friendship is when you can share your whole mind with another. No one is so good that they don't have things about them you dislike, and no one is so bad that they can't be useful to someone. Share your wealth, or people will want to destroy you.  
+Don't show those you don't trust your pain. __Friendship is when you can share your whole mind with another__. No one is so good that they don't have things about them you dislike, and no one is so bad that they can't be useful to someone. Share your wealth, or people will want to destroy you.  
 
 Odin hung on a tree for many nights- this strikes me as an example of a Dark Night of the Soul, or a desert period in mysticism.  
 
