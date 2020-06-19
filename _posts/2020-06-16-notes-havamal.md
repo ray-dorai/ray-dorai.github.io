@@ -26,7 +26,7 @@ thus each wise man spies out the way."
 
 Self-reliance is praised- a man who wins status for himself is happy (or secure). A man who relies on others to win status for him is uneasy (or insecure). Intelligence/awareness (wit) is shown as an ally of the poor, and is suggested to provide more use than wealth itself. It is for this reason that alcohol is denigrated- a man who drinks has less of his wit.  
 
-Stay with silence, until you have to speak the right word.  
+Stay with silence, until you have to speak the right word.[^2]
 
 Those who wander most (breadth of experience) can tell when someone is wise. Fools consume more than they can process. Insomnia is a sign of a lack of wisdom, sleeping well is a sign of wisdom. Proper questions and answers are a mark of wisdom. When people are not proved (without skin in the game), they seem wise. A guest is only welcome for a time. Stay past that time and you will be unwelcome.  
 
@@ -60,5 +60,6 @@ It is better to ask for too little than to offer to give too much.
 This was written while listening to Heilung.
 
 [^1]: See anything about Military Operations in Urban Terrain. A quick primer is also [here](https://tgace.wordpress.com/category/tactical-preschool/).
+[^2]: You might see parallels in [Daoism](https://ttc.tasuki.org/display:Code:gff,sm,jhmd,jc,rh) and [Sufism](https://www.azquotes.com/author/12768-Rumi/tag/silence).
 
 
