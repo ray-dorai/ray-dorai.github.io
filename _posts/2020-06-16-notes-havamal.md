@@ -6,12 +6,12 @@ date: 2020-06-16
 
 In modern urban warfare, pie-ing involves sectioning off the dead (space unoccupied by objects or walls) space in every room and corridor to clear it of possible threats. The Norse had something similar, advising travelers to check every room thoroughly before they entered.
 
-"At every door-way,
-ere one enters,
-one should spy round,
-one should pry round
-for uncertain is the witting
-that there be no foeman sitting,
+"At every door-way,  
+ere one enters,  
+one should spy round,  
+one should pry round  
+for uncertain is the witting  
+that there be no foeman sitting,  
 within, before one on the floor"
 
 The Havamal suggest that gifting travelers is a norm to be followed, but it is nonetheless up to the traveler to be careful and canny about how his behavior. The traveler is a guest, and a guest is at the mercy of his host. Wit is praised as a virtue- wit will find you friends.  
