@@ -6,7 +6,7 @@ date: 2020-06-16
 
 The [Hávamál](https://www.pitt.edu/~dash/havamal.html) is advice from the Icelandic codex, attributed to Odin as the "Song of the High One". 
 
-In modern urban warfare, pie-ing involves sectioning off the dead (space unoccupied by objects or walls) space in every room and corridor to clear it of possible threats. The Norse had something similar, advising travelers to check every room thoroughly before they entered.
+In modern urban warfare, pie-ing[^1] involves sectioning off the dead (space unoccupied by objects or walls) space in every room and corridor to clear it of possible threats. The Norse had something similar, advising travelers to check every room thoroughly before they entered.
 
 "At every door-way,  
 ere one enters,  
@@ -18,7 +18,7 @@ within, before one on the floor"
 
 The Havamal suggests that gifting travelers is a norm to be followed, but it is nonetheless up to the traveler to be careful and canny about his behavior. The traveler is a guest, and a guest is at the mercy of his host. Wit is praised as a virtue- wit will find you friends.  
 
-The first step in an OODA loop is to observe, and for the Norse it was no different:  
+The first step in an [OODA loop](https://en.wikipedia.org/wiki/OODA_loop) is to observe, and for the Norse it was no different:  
 "Let the wary stranger who seeks refreshment  
 keep silent with sharpened hearing;  
 with his ears let him listen, and look with his eyes;  
@@ -57,6 +57,8 @@ Odin hung on a tree for many nights- this strikes me as an example of a Dark Nig
 
 It is better to ask for too little than to offer to give too much.  
 
+This was written while listening to Heilung.
 
+[^1]: See anything about Military Operations in Urban Terrain. A quick primer is also [here](https://tgace.wordpress.com/category/tactical-preschool/).
 
 
