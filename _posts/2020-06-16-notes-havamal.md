@@ -4,7 +4,7 @@ title: "Notes: Hávamál"
 date: 2020-06-16
 ---
 
-The Hávamál is advice from the Icelandic codex, attributed to Odin as a "Song of the High One". 
+The [Hávamál](https://www.pitt.edu/~dash/havamal.html) is advice from the Icelandic codex, attributed to Odin as the "Song of the High One". 
 
 In modern urban warfare, pie-ing involves sectioning off the dead (space unoccupied by objects or walls) space in every room and corridor to clear it of possible threats. The Norse had something similar, advising travelers to check every room thoroughly before they entered.
 
