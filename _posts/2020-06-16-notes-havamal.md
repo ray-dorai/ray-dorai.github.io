@@ -57,7 +57,7 @@ Odin hung on a tree for many nights- this strikes me as an example of a Dark Nig
 
 It is better to ask for too little than to offer to give too much.  
 
-This was written while listening to Heilung.
+This was written while listening to [Heilung](https://heilung.bandcamp.com/).
 
 [^1]: See anything about Military Operations in Urban Terrain. A quick primer is also [here](https://tgace.wordpress.com/category/tactical-preschool/).
 [^2]: You might see parallels in [Daoism](https://ttc.tasuki.org/display:Code:gff,sm,jhmd,jc,rh) and [Sufism](https://www.azquotes.com/author/12768-Rumi/tag/silence).
