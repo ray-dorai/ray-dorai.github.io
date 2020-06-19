@@ -51,7 +51,7 @@ and falsehood fixed in their breasts."
 For a woman's love, use soft words and wealth. Don't blame anything on anyone you love. Love makes intelligent men stupid. Love is the worst sickness for the wise. Women are fickle, know the part you're playing when you try to wife one up. It is important to note that when Odin went after Billing's daughter, he failed to seduce her, while when he went after the mead of poetry, he seduced Gunloth. When his purpose was clear (and was not primarily seduction of a woman), he was successful. When he made his purpose a woman, he was not successful.
 
 
-Don't show those you don't trust your pain. __Friendship is when you can share your whole mind with another__. No one is so good that they don't have things about them you dislike, and no one is so bad that they can't be useful to someone. Share your wealth, or people will want to destroy you.  
+Don't show those you don't trust your pain. __Friendship is when you can share your whole mind with another__[^10]. No one is so good that they don't have things about them you dislike, and no one is so bad that they can't be useful to someone. Share your wealth, or people will want to destroy you.  
 
 Odin hung on a tree for many nights- this strikes me as an example of a Dark Night of the Soul, or a desert period in mysticism.  
 
@@ -63,5 +63,6 @@ This was written while listening to [Heilung](https://heilung.bandcamp.com/).
 [^2]: Whoever sang this song first would likely agree with much of Ralph Waldo Emerson's [Self-Reliance](https://www.gutenberg.org/files/16643/16643-h/16643-h.htm#SELF-RELIANCE).
 [^3]: You might see parallels in [Daoism](https://ttc.tasuki.org/display:Code:gff,sm,jhmd,jc,rh) and [Sufism](https://www.azquotes.com/author/12768-Rumi/tag/silence).
 [^4]: Compare with: ['A bet is a tax on bullshit'](http://mason.gmu.edu/~rhanson/futarchy.pdf) (as well as my 'A fight is a tax on bullshit'), Taleb's popularization of 'skin in the game', and Teddy Roosevelt's ['Man in the Arena'](https://en.wikipedia.org/wiki/Citizenship_in_a_Republic).
+[^10]: Brainfucking, if you prefer.
 
 
