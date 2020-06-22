@@ -59,10 +59,14 @@ It is better to ask for too little than to offer to give too much.
 
 This was written while listening to [Heilung](https://heilung.bandcamp.com/).
 
-_Comments:_
+_Comments:_  
+
 > [Mako](http://aboutmako.makopool.com/) asked, "the only part I didnt get is _It is better to ask for too little than to offer to give too much_. Why are these things being compared. Interested in _don't show your pain to people you don't trust_. I think it is rarely the case that they could exploit you for seeing it. But it does make them uncomfortable. Why is it."  
+>
 > I replied, "Asking too much=letting others step up to take responsibility for themselves. Asking too little=not expecting others to have lots of agency. Often people are most upset at the people they think have the most agency ([Colin](https://twitter.com/cpopell) addresses this in explaining how expectations relate to love). Not expecting others to have agency saves you from expectations that are more likely to be unmet. When everything is offered, you hand people things on a plate with a silver spoon, which may lead them to undervalue the way.  
+>
 > An underlying model for me interpreting all of this is prestige-based social learning, which follows the general virtue-advice in various cultures that is basically 'do your own thing, if it follows the Way, others will follow without realizing they're following'. It typically makes them uncomfortable because they also contain the pain, such that your pain forces them to confront their own pain. As soon as this happens, if they are 'weak', they will shift the blame for the pain on you or on their preferred outgroup.  
+>
 > So they may not exploit your pain, but it may hinder you from better exploiting them, since pain will put them on the defensive- the funny thing about the Norse pantheon is that even though we remember Loki as the trickster, almost all of them are tricksters in some way, and Odin is a big trickster himself- so the advice here is [ABF](https://en.wikipedia.org/wiki/Maneuver_warfare), always be flanking. If you don't trigger their pain, you leave some moves open to you that would otherwise be closed to you. 
 
 [^1]: See anything about Military Operations in Urban Terrain. A quick primer is also [here](https://tgace.wordpress.com/category/tactical-preschool/).
