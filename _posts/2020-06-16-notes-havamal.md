@@ -53,7 +53,7 @@ For a woman's love, use soft words and wealth. Don't blame anything on anyone yo
 
 Don't show those you don't trust your pain. __Friendship is when you can share your whole mind with another__[^5]. No one is so good that they don't have things about them you dislike, and no one is so bad that they can't be useful to someone. Share your wealth, or people will want to destroy you.  
 
-Odin hung on a tree for many nights- this strikes me as an example of a Dark Night of the Soul, or a desert period in mysticism.  
+Odin hung on a tree for many nights- this strikes me as an example of a [Dark Night of the Soul](https://en.wikipedia.org/wiki/Existential_crisis), or a desert period in mysticism.  
 
 It is better to ask for too little than to offer to give too much.  
 
