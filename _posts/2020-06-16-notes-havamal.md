@@ -59,7 +59,7 @@ It is better to ask for too little than to offer to give too much.
 
 &#127932; This was written while listening to [Heilung](https://heilung.bandcamp.com/).
 
-_Comments:_  
+### _Comments:_  
 
 > [Mako](http://aboutmako.makopool.com/) asked, "the only part I didnt get is _It is better to ask for too little than to offer to give too much_. Why are these things being compared. Interested in _don't show your pain to people you don't trust_. I think it is rarely the case that they could exploit you for seeing it. But it does make them uncomfortable. Why is it."  
 >
