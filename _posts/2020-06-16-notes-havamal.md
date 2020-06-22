@@ -57,7 +57,7 @@ Odin hung on a tree for many nights- this strikes me as an example of a Dark Nig
 
 It is better to ask for too little than to offer to give too much.  
 
-This was written while listening to [Heilung](https://heilung.bandcamp.com/).
+&#127932; This was written while listening to [Heilung](https://heilung.bandcamp.com/).
 
 _Comments:_  
 
