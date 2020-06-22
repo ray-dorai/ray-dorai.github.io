@@ -32,7 +32,7 @@ Those who wander most (breadth of experience) can tell when someone is wise. Foo
 
 Your [own house is best](https://en.wikipedia.org/wiki/Castle_doctrine#In_the_early_United_States), no matter how tiny. Be prepared to fight everywhere (see: self-reliance).  
 
-Everyone likes gifts. Those who give and keep on giving have the longest relationships. If you don't trust someone, laugh with them, bring them cheer, but do not share your thoughts with them. "Man is the joy of man." Live free enough to keep giving abundantly, and don't feed your grief.  
+Everyone likes gifts. Those who give and keep on giving have the longest relationships. If you don't trust someone, laugh with them, bring them cheer, but do not share your thoughts with them. "Man is the joy of man". Live free enough to keep giving abundantly, and don't feed your grief.  
 
 Watch out if you find yourself becoming too wise. If you know too much of many things, you won't be happy. Humans are formed by talking to other humans, and they become opaque through isolation. Careful what you say in public. [Everything dies but memory](https://youtu.be/ByvtBQoCbGE). Wealth or a woman's love multiplies stupidities.  
 
