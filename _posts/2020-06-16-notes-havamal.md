@@ -62,7 +62,7 @@ It is better to ask for too little than to offer to give too much.
 ### _Comments:_  
 
 > [Mako](http://aboutmako.makopool.com/) asked, 
->> "the only part I didnt get is _It is better to ask for too little than to offer to give too much_. Why are these things being compared. Interested in _don't show your pain to people you don't trust_. I think it is rarely the case that they could exploit you for seeing it. But it does make them uncomfortable. Why is it."  
+>> the only part I didnt get is 'It is better to ask for too little than to offer to give too much'. Why are these things being compared. Interested in 'don't show your pain to people you don't trust'. I think it is rarely the case that they could exploit you for seeing it. But it does make them uncomfortable. Why is it.  
 >
 > I replied, 
 >> Asking too much=letting others step up to take responsibility for themselves. Asking too little=not expecting others to have lots of agency. Often people are most upset at the people they think have the most agency ([Colin](https://twitter.com/cpopell) addresses this in explaining how expectations relate to love). Not expecting others to have agency saves you from expectations that are more likely to be unmet. When everything is offered, you hand people things on a plate with a silver spoon, which may lead them to undervalue the way.  
