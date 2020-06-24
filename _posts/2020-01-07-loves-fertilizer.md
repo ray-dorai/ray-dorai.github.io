@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Love's Fertilizer"
+title: "Pith: Love's Fertilizer"
 date: 2020-01-07
 ---
 
