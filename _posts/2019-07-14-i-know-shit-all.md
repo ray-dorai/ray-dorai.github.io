@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I Know Shit All"
+title: "Pith: I Know Shit All"
 date: 2019-07-14
 ---
 
