@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Monstrosities"
+title: "Pith: My Monstrosities"
 date: 2020-01-02
 ---
 
