@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mindbender"
+title: "Pith: Mindbender"
 date: 2018-11-15
 ---
 
