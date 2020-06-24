@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why Guess Passwords?"
+title: "Pith: Why Guess Passwords?"
 date: 2020-01-15
 ---
 
