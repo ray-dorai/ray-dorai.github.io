@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Propagation Now"
+title: "Pith: Propagation Now"
 date: 2019-11-08
 ---
 
