@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Haunted Saunter"
+title: "Pith: Haunted Saunter"
 date: 2019-11-28
 ---
 
