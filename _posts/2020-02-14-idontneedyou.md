@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pith: Pith: I Don't Need You"
+title: "Pith: I Don't Need You"
 date: 2020-02-14
 ---
 
