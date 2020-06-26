@@ -4,11 +4,11 @@ title: "Atomic Habits as an OODA loop"
 date: 2020-06-26
 ---
 
-**Observe** the **Cue** that starts the habit. This is the trigger that sets of the process of your behavior.
+**Observe** the **Cue** that starts the habit. This is the trigger that sets of the process of your behavior.  
 _When I go into the office in the morning..._  
 
 
-**Orient** toward the **Craving**. Notice if you are attracted or repelled by it. 
+**Orient** toward the **Craving**. Notice if you are attracted or repelled by it.  
 _I notice I crave a Mocha Monster energy drink. I am attracted to it because caffeine is 'good' at work._  
 
 **Decide** if you want the habit (does it fit with your strategic direction?). If you want it, make it attractive. If you don't want it, make it unattractive.  
