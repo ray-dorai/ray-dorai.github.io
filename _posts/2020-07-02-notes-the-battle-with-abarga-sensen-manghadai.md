@@ -32,7 +32,7 @@ Geser hardens himself with his journey.
 
 "He brought down heat hot enough to boil horse shit".
 
-When it's hot, Geser pretends to play by a lake (guessing that Abarga Sesen Mangadhai will show up there, given the heat). Manghadhai, thinking him harmless and unskiled, challenges him to shoot a piece of horse shit off his head. Geser shoots him in an eye. 
+When it's hot, Geser pretends to play by a lake (guessing that Abarga Sesen Mangadhai will show up there, given the heat). Manghadhai, thinking him harmless and unskilled, challenges him to shoot a piece of horse shit off his head. Geser shoots him in an eye. 
 
 Manghadhai rushes to his new wife (none other than Tumen Jargalan, Geser's first wife) for help. She recognizes the arrow and tells Manghadhai to ignore it (you can take an arrow in the eye, can't you, big guy?), feigning incompetence. She then suggests she needs a hammer to get it out, and citing his pain, asks him to let her tie him up so that he doesn't lash out at her when she gets the arrow out. After he's tied up, she hammers the arrow in such a way that further incapacitates him. 
 
@@ -48,6 +48,7 @@ Geser's three sisters feel like something is up, so they go looking for him. He'
 
 Meanwhile, Geser's other wife, Alma Mergen, has grown jealous because of the amount of time Geser has spent rescuing Tumen and such. Alma gives Geser the silent treatment, and his seven-year-old daughter informs him that her mother is angry with him. He figures she wants a divorce, so he tells his daughter to tell her mom that he's gone, and proceeds to hide nearby. She notices him and shoots him with an arrow, but misses. This makes her more angry. Alma breaks her bow and then kills her daughter for helping her father. 
 
+You win some, you lose some.
 
 
 
