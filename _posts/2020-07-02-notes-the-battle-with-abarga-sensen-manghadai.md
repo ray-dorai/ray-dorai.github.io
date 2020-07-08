@@ -6,7 +6,9 @@ date: 2020-07-02
 
 [Geser Khan](https://en.wikipedia.org/wiki/Epic_of_King_Gesar) is an epic cycle of Central Asia. Here's one story, pulled from a Mongolian source.
 
-Hara Zutan is the Uncle of Geser Khan. He's jealous of Geser's first wife, Tumen Jargalan. She was originally set to be his wife, but was "ugly" (I assume this mean he did not see the beauty in her, and that her situation did not immediately reveal her beauty) due to some illness or defect. Geser capitalized on this to marry her, and she turned "beautiful" (where Geser provides an environment that lets her flourish) after the marriage. Hara Zutan regretted this for a long time, and eventually makes a series of attempts to bed her. He fails, and hatches a plan to ruin the marriage. His plan succeeds by situationally holding Geser's stability hostage. In order to save Geser, Geser's wife caves in and goes to marry another (a reputably powerful demon) man, with the secret hope that her husband will eventually rescue her. 
+Hara Zutan is the Uncle of Geser Khan. He's jealous of Geser's first wife, Tumen Jargalan. Tumen was going to be Zutan's wife, but was "ugly"[^ugly] due to some illness or defect. Geser capitalized on this to marry her, and she turned "beautiful" (where Geser provides an environment that lets her flourish) after the marriage. Hara Zutan regretted this for a long time, and eventually makes a series of attempts to bed her. He fails, and hatches a plan to ruin the marriage. His plan succeeds by situationally holding Geser's stability hostage. In order to save Geser, Geser's wife caves in and goes to marry another (a reputably powerful demon) man, with the secret hope that her husband will eventually rescue her. 
+
+[^ugly]: I assume this mean he did not see the beauty in her, and that her situation did not immediately reveal her beauty.
 
 What kind of man takes?
 What kind of man allows anyone else to take from him?
