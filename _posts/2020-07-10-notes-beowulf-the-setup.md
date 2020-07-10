@@ -18,7 +18,7 @@ Grendel, from a group living in scarcity due to exclusion[^savages], starts prey
 
 Grendel's aim is punishment, and he will not negotiate with the Danes. Hrothgar's (relatively) soft life has not prepared him to face the likes of Grendel. 
 
-The coalition of elders of the Geats do not try to stop Beowulf from helping[^helping] Hrothgar. In fact, they encourage him to leave. It may be that they're trying to get rid of someone as dominant as Beowulf. Beowulf's men, as hardened as they are, show up in full battle-rattle without asking Hrothgar permission. This is a breach of manners, like the United States sending a Quick Reaction Force to the UK without letting them know and negotiating in advance. 
+The coalition of elders of the Geats do not try to stop Beowulf from helping[^helping] Hrothgar. In fact, they encourage him to leave. It may be that they're trying to get rid of someone as dominant as Beowulf. Beowulf's men, as hardened as they are, show up in full battle-rattle without asking Hrothgar permission. This is a breach of manners, like the United States sending a Quick Reaction Force to the UK without letting them know in advance. 
 
 [^helping]: No doubt an expensive military expedition.
 
