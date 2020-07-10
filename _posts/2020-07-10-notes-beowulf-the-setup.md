@@ -12,7 +12,7 @@ As a young prince, Shield's heir is known for giving. While his father lives, hi
 
 [^coalitions]: This matches the importance of coalitional support for any action, as seen in [The Logic of Political Survival](https://mitpress.mit.edu/books/logic-political-survival) and [Interaction Ritual Chains](https://en.wikipedia.org/wiki/Randall_Collins).
 
-Grendel, from a group living in scarcity due to exclusion[^savages], starts preying on Hrothgar's decadent (Hrothgar's aim was to build a great mead-hall, a center of entertainment- he is known as 'give of rings', a bestower of material wealth) territory. His first attack occurs when Hrothgar's people (ostensibly warriors) are caught drunk and sleeping with no one on watch.
+Grendel, from a group living in scarcity due to exclusion[^savages], starts preying on Hrothgar's decadent (Hrothgar's aim was to build a great mead-hall, a center of entertainment- he is known as 'giver of rings', a bestower of material wealth) territory. His first attack occurs when Hrothgar's people (ostensibly warriors) are caught drunk and sleeping with no one on watch.
 
 [^savages]: We can think of the line of Cain (Grendel is said to be a descendant of the Biblical first murderer, Cain) as Khaldun's desert savages, or undomesticated and illiterate tribal peoples who do not live under a formal legal system.
 
