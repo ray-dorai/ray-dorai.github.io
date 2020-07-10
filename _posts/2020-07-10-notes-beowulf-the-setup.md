@@ -30,7 +30,7 @@ We find that past warriors who vowed to defeat Grendel often partied in Hrothgar
 
 Unferth, who might be one of the biggest fish in Hrothgar's pond, feels threatened by Beowulf's presence. To protect his position, he attempts to downplay Beowulf's achievements- including a swimrace with Breca. Since Unferth isn't strong enough to take on Grendel, no one can be. 
 
-Beowulf suggests that Unferth is too drunk, and clarifies that he and Breca are longtime friends who consistently challenge each other to do better. Beowulf clarifies that he killed creatures of the sea in order to win that race, and in the end Breca and Unferth are both sore losers. Beowulf points out that Unferth's wins are against his own people, and that if we was strong enough then Grendel wouldn't be doing as much damage as he's doing. 
+Beowulf suggests that Unferth is too drunk, and clarifies that he and Breca are longtime friends who consistently challenge each other to do better. Beowulf clarifies that he killed creatures of the sea in order to win that race, and in the end Breca and Unferth are both sore losers. Beowulf points out that Unferth's wins are against his own people. If Unferth was strong enough, Grendel wouldn't be doing as much damage as he's doing. 
 
 "a daunting man, dangerous in action and eager for it always"
 
