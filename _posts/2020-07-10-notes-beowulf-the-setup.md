@@ -42,6 +42,8 @@ Hrothgar cedes responsibility to Beowulf, and promises Everything.
 
 Beowulf knows he's on reality's side. 
 
-Grendel is from the wild[^desert] and does not fight with modern tools of war. Beowulf decides to fight Grendel on his own terms, so that the victory is decisive. If Beowulf wins through superior equipment, his victory will be worth less.
+Grendel is from the wild[^desert] and does not fight with modern tools of war. Beowulf decides to fight Grendel on his own terms, so that the victory is decisive. If Beowulf wins through superior equipment, his victory will be worth less. If Beowulf in circumstances that are different from the ones past warriors lost in, his victory will be worth less. This is why he sleeps in the meadhall, instead of setting up an ambush for Grendel. 
+
+Civilization, for all its softness, is superior- this is the message that Beowulf intends to send.
 
 [^desert]: Ibn Khaldun's 'desert'. 
