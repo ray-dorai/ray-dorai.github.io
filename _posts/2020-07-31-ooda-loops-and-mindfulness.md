@@ -10,9 +10,9 @@ Mindfulness can be thought of as a scaling of meditation, providing a framework 
 
 Given that OODA loops are themselves a scaling device for behavior[^acro], they can be paired with the mindfulness version of what uncluttered observation techniques grant. Namely, RAIN:
 
-Recognize what is.
-Accept everything just as it is.
-Investigate with a curious, caring touch.
+Recognize what is.  
+Accept everything just as it is.  
+Investigate with a curious, caring touch.  
 Naturally aware, without identifying with whatever is.  
 
 Recognize and Accept fall neatly under 'Observe'. Investigation falls under 'Orient'. Maintaining a Natural awareness is also under 'Orient', to prepare for a more information-rich[^identification] decision.
