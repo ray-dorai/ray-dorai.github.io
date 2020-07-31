@@ -22,4 +22,4 @@ Recognize and Accept fall neatly under 'Observe'. Investigation falls under 'Ori
 
 
 [^dicho]: These map neatly onto imagistic and doctrinal ritual in the world of religious anthropology, as well as Nietzsche's Dionysian and Apollonian modes.
-[^acro]: Anything involving an acronym is.
+[^acro]: Anything involving an acronym is a scaling device, susceptible to creating canned behavior.
