@@ -4,7 +4,7 @@ title: "OODA Loops and Mindfulness"
 date: 2020-07-31
 ---
 
-Any sort of meditation such as open-eyed Zen sitting or Vajayana Shi-Ne hones the ability to observe. An OODA loop is an action loop consisting of Observation, Orientation, Decision, and Action. The latter three all depend on a clear awareness, to take in as much data as possible for the resulting action. 
+Any sort of meditation such as open-eyed Zen sitting or Vajrayana Shi-Ne hones the ability to observe. An OODA loop is an action loop consisting of Observation, Orientation, Decision, and Action. The latter three all depend on a clear awareness, to take in as much data as possible for the resulting action. 
 
 Mindfulness can be thought of as a scaling of meditation, providing a framework that a large collective can distribute and assess. This is the difference[^dicho] between an animistic dance calling to the spirits and a hymn recital. One is spontaneous, clearly impossible to replicate. The other is designed to replicate, like pretty boxes filling out flattened land in suburbia. Each has its place.
 
