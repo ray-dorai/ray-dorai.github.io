@@ -8,7 +8,7 @@ Any sort of meditation such as open-eyed Zen sitting or Vajrayana Shi-Ne hones t
 
 Mindfulness can be thought of as a scaling of meditation, providing a framework that a large collective can distribute and assess. This is the difference[^dicho] between an animistic dance calling to the spirits and a hymn recital. One is spontaneous, clearly impossible to replicate. The other is designed to replicate, like pretty boxes filling out flattened land in suburbia. Each has its place.
 
-Given that OODA loops are themselves a scaling device for behavior[^acro], they can be paired with the mindfulness version of what uncluttered observation techniques grant. Namely, RAIN:
+Given that OODA loops are themselves a scaling device for behavior[^acro], they can be paired with the mindfulness version of what uncluttered observation techniques grant. Namely, RAIN:  
 
 **R**ecognize what is.  
 **A**ccept everything just as it is.  
