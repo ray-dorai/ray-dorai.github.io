@@ -12,7 +12,7 @@ He decides to focus on Raghu's bloodline.
 
 The people they ruled over were satisfied. Those who deserved to be punished were punished. Any wealth they gained, they gained to redistribute among their people. They didn't proclaim much. They went to war for prestige, not for material gain. They were good lovers in their youth, and detached themselves from it in their old age. They Won with their deaths.
 
-The poet positions himself as a simple conveyor of truth- it is the Raghus who deserve the prestige, not him. 
+The poet positions himself as a [simple conveyor of truth](http://classicprose.com/)- it is the Raghus who deserve the prestige, not him. 
 
 The first Raghu was Manu, known for wisdom. Manu sets the standard, establishing the values of the line.
 
