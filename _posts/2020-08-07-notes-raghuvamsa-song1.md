@@ -32,7 +32,9 @@ Heaven is won by giving, self-control, and purity.
 
 Dilipa mourns his lack of children, and asks, "aren't you also sad about my lack of children, Vacishtha?" The King says that every man owes three debts, and this debt (the debt- the duty of giving a child to this world) is not paid. 
 
-The sage tells Dilipa that he is infertile because he was not properly grateful to a sacred cow, in the past. Vacishtha instructs Dilipa to learn from the cow, to mimic her until he learns what she has to teach him. 
+The sage tells Dilipa that he is infertile because he was not properly grateful to a sacred cow, in the past. Vacishtha instructs Dilipa to learn from the cow, to mimic her[^animal] until he learns what she has to teach him. 
+
+[^animal]: This is not unlike animal work in acting, where actors take on the role of animals to hone their relationships with themselves.
 
 Divine grace only comes from constant effort.
 
