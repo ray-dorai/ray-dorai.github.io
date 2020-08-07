@@ -24,7 +24,7 @@ Other kings grew depressed because they could not live up to his standard.
 
 Sudakshina was Dilipa's wife. She was a Queen who matched his values. Nonetheless, they did not have children, and this worried them. To find fertility, Dilipa turns his attention away from his kingdom and finds a sage, Vacishtha. 
 
-As the couple go to the forest to find Vacishtha, animals follow their rhythm. The couple are united (think joint attention) in the same way that the animals are with each other, and this attracts the animals to them. Their journey is aided by the enthusiastic help of their people, grateful to their rulers. This made the journey pass by quickly, since everyone is having fun.
+As the couple go to the forest to find Vacishtha, animals follow their rhythm. The couple are united (think [joint attention](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C13&q=joint+attention&btnG=)) in the same way that the animals are with each other, and this attracts the animals to them. Their journey is aided by the enthusiastic help of their people, grateful to their rulers. This made the journey pass by quickly, since everyone is having fun.
 
 The hermits are aided by the Sacred Fire- the fire of life. The sage himself glows with this inner fire. The sage asks Dilipa what's up, and King Dilipa answers by saying that everything's going splendid. Dilipa gives Vacishtha credit for this- it is the sage's spiritual defense that keeps the land prosperous and the people healthy. Dilipa is 'merely' the man who does the fighting.
 
