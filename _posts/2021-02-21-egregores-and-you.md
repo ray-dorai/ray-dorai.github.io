@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Egregores & You"
+title: "Egregores and You"
 date: 2021-02-21
 ---
 
