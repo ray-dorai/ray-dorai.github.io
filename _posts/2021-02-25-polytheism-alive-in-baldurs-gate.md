@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Polytheism: Alive in Baldur's Gate"
+title: "Polytheism Alive in Baldur's Gate"
 date: 2021-02-25
 ---
 
