@@ -39,4 +39,5 @@ by Mishima, Gwern, and my mother's belt
 
 When they ask  
 Tell them  
-I was perfectly Normal
+I was perfectly  
+Normal
