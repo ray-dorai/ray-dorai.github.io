@@ -18,7 +18,7 @@ so my eyes could try
 all the time   
 and I forgot  
 that my feet  
-is what does   
+are what does   
 the walking.  
   
 I forgot  
