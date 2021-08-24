@@ -24,7 +24,7 @@ We have a little more of it. And just like it was really hard for us to get here
 
 Our place is not exit. It is leadership. We are not here to form communes and monasteries separate from the world. We are here to go out into the world and form strong clans, families, and communities. Strong families, families that will show everyone else that it is safe to live like a family again, that it is safe to depend on yourself again, that it is safe to dye your own clothes again, that it is safe to think your own thoughts again.  
 
-This is in the water. All you have to do is watch a Fast and Furious movie. And that's the model. All you have to do is watch a Marvel Cinematic Universe movie. And that's the model. It's what people want- that’s why that media has such mass appeal But they don't feel safe yet.  
+This is in the water. All you have to do is watch a _Fast and Furious_ movie. And that's the model. All you have to do is watch a _Marvel Cinematic Universe_ movie. And that's the model. It's what people want- that’s why that media has such mass appeal But they don't feel safe yet.  
 
 So that's why we're here. That's why you’re here. That’s why you’re going to lead this world, to look at the person next to you and say “follow me.”  
 
