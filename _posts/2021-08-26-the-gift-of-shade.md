@@ -13,7 +13,7 @@ The Autokrator looked down at the man, evaluating, as he evaluated everything. T
 "The sun was in my eye, and you gave me shade."  
 Another long moment, enough for the watchers to murmur and twitch with the worry of not knowing what to do or say.  
 "I think I'll come with you," said Diogenes.  
-"Very well," agreed Alexander with a wide and beautous smile.
+"Very well," agreed Alexander with a wide and beauteous smile.
 
 ***
 
