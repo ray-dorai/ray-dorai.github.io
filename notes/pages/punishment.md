@@ -1,0 +1,1 @@
+- Mete out [[collective]] punishment only when the collective is not working together.

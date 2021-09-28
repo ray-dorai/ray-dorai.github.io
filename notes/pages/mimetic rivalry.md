@@ -1,0 +1,1 @@
+- There may be a lack of [[continuity]] in [[self]] due to mimetic rivalry.

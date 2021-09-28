@@ -1,0 +1,1 @@
+- "No schoolhouse that required adherence to [[fixed]] ideas, reduced airplanes to numbers, or considered its instructors as [[priests]] could ever be [[Top Gun]] in our book."

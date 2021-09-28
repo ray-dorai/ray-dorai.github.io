@@ -1,0 +1,12 @@
+- When there is a lot of [[surprise]], there is a lot of [[energy]].
+- To try to [[control]] it will make it bounce back against you. To call a negative thing positive is an attempt to control it.
+- Sit with the [[energy]] to figure out where it wants to go. This is how you [[listen]] and see more options.
+- See [[choice]] less angle. [[Relate]] with things as they are to include all the [[options]].
+- When you are not expressing yourself, you are not [[free]]. So, you begin to [[struggle]]. This struggle creates a [[routine]], which you then use as a [[response]] instead of responding to what is.
+- [[Truth]] has no tomorrow- it is beyond [[time]].
+  Do not recreate yesterday's truth today.
+- [[Concentration]] is a form of [[selection]]. Selection implies a selector- a thinker. This selector creates the [[contradiction]].
+- Concentration is [[selective]] [[attention]]- it focuses on one thing by making everything else lesser. Whole [[awareness]] does not select, and so includes everything.
+- [[Awareness]] is surrendering to [[Everything]].
+- The moment, NOW, is timeless.
+- The shortest possible line between two points is the [[simple]]st path.

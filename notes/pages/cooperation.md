@@ -1,0 +1,1 @@
+- Many things people say are [[moral]] commands directed at themselves.

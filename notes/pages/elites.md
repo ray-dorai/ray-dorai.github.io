@@ -1,0 +1,1 @@
+- Who is both [[master]] and [[slave]] of our elites?

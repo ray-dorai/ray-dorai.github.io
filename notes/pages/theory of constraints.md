@@ -1,0 +1,14 @@
+- [[Throughput]]: rate at which the [[system]] generates [[money]] through [[sales]].
+- [[Inventory]]: all the [[money]] the [[system]] has invested in purchasing things which it intends to sell.
+- Operational expense: all the money the system spends in order to turn [[inventory]] into [[throughput]].
+- [[Inventory]] is sellable, [[expense]] is not.
+- The goal is not to reduce operational expense by itself. The goal is not to improve one measurement in [[isolation]]. The goal is to reduce operational expense and reduce inventory while increasing throughput.
+- Accumulation of [[diversity]].
+  [[Dependency]] limits the [[opportunities]] for higher [[variance]].
+- Whoever is [[moving]] slowest in a ruck governs throughput. "You're only as fast as your slowest Joe".
+- Look at the [[system]] as a whole, don't try to maximize [[local]]ly.
+- [[Bottleneck]] resource: any resource whose [[capacity]] is equal to or less than the [[demand]] placed on it.
+- Non-bottleneck [[resourceful]] : Any resource whose capacity is greater than the demand placed on it.
+- Activating a resource is not the same as utilizing a resource. A resource is utilized when its activation advances toward the Goal.
+- A [[system]] of [[local]] optima is not an optimal system. (Do not attempt to optimize every resource.)
+- Anchor inventory to bottlenecks.

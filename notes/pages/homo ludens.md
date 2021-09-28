@@ -1,0 +1,63 @@
+- [[Play]] is older than humanity. We may know this by looking at puppies and other [[animals]]. They pretend to bite and such without doing too much damage, and appear to have [[fun]].
+- [[Play]] is an essential function in many [[animals]].
+- [[Fun]] is very hard to define. Huizinga says it is a recent word, and may be unique to [[English]].
+- [[Play]] is evidence of a [[mind]].
+- [[Language]], since it necessitates metaphor and changes frequently, has an element of [[play]] to it.
+- [[Play]] can be very [[serious]].
+- Huizinga seems to think that [[animals]] can't [[joke]] or [[laugh]], and uses the fact that people don't laugh at dogs playing as evidence of this. I wonder how he would've reacted to the culture of this time.
+- [[Play]] is always voluntary. If it is [[forced]], it is hard for people to play
+- [[Play]] requires [[freedom]].
+- [[Play]] is known to be a [[simulation]] by the players.
+- [[Play]] both serves and [[shapes]] [[culture]]. Play helps the group stay lively.
+- [[Play]] is typically constrained in [[time]] and [[space]]. Is there anyone who is always playing? Within a playground, play creates [[order]]. [[Constraints]] are created within the play, such as rules of a game, and the players stick with those constraints.
+- By [[withdrawal]], a player may 'spoil' a game. That is, by revealing the [[play]] as [[limited]] and not practical to the player who leaves the [[constraints]] of the game, the player ends the play- like di[[spell]]ing an [[enchantment]]. Such a player is [[banished]] for destroying the game. You might call this [[heresy]]. [[Heretics]] may leave the game and [[create]] their own game with constraints they prefer, launching a [[revolution]].
+- Once people have played together, they stay together (even if just in parallel) long after the [[play]] is ended, because they have created a small world together, a world  they carry within them wherever they go. Part of play is a feeling that this playing is for the players here and now- for 'us' and not 'them'.
+- Wearing a [[mask]] or [[costume]] often aids [[play]]- allowing us to play a part, to be someone else- to be someone new.
+- [[Drama]] comes from the word _dromenon_ , which means [[action]]. The act represents the way of the world, the cosmic process. This [[representation]] allows the actors and viewers to [[identify]] with the way of the world as experienced in the drama.
+- The [[ritual]] of the [[drama]] allows everyone in it to participate in the process of [[creation]]. This is mithectic, not [[mimetic]]. An improvisation in which everyone participates in the copying.
+- [[Vedic]] [[ritual]], whatever the ritual, plays out a process to tempt the gods into continuing that process on a larger scale. You see how this makes [[play]] of utmost importance. Every ritual is a [[summoning]].
+- The ancients [[play]]ed out the way of nature that was imprinted in their [[mind]]s.
+- Leo Frobenius asserts that man created [[time]] and [[space]] to bring [[order]] to the universe.
+- In some ancient societies, the [[King]] played the [[sun]], and so meets the fate of the [[sun]] in a [[ritual]] death- as the sun goes down every day. 
+  collapsed:: true
+	- See the killing of the [[Irish]] Kings of [[Tara]].
+	- See [[The Golden Bough]] by Sir [[James George Frazer]].
+- We use '[[instinct]]' to explain what we don't yet understand.
+- According to Frobenius, ancient man was seized, taken, pushed and pulled by existence. [[Play]] comes from being seized- [[creativity]] comes from being seized in this way. Something is [[beginning]], and something is [[ending]], and the individual is seized by this to play it out, to to [[transform]]. Play helps a [[cosmic]] happening [[flow]].
+- In [[play]], we figure out where we are in the [[sacred]] process.
+- [[Ritual]] is built on [[play]].
+- [[Plato]] says, "What, then, is the right way of living? [[Life]] must be lived as [[play]], playing certain [[games]], making [[sacrifices]], [[singing]] and [[dancing]], and then a man will be able to propitiate the [[gods]] and defend himself against his enemies, and [[win]] in the contest.”
+- [[Plato]] says, "They don’t realize that if [[children]] introduce novelties into their [[games]], they’ll end up as adults who are quite different from the previous generation, looking for a different way of life—which means new [[laws]] and
+  new social [[institutions]] and, as I said earlier, disastrous consequences
+  for [[society]] as a whole."
+- The ancient [[Greek]] word 'padeia' has the same root as the word 'paidia'. One has to do with learning, the other with leisure, but they both come from [[play]].
+- [[Xenophon]] says, “I believe that it is not only the serious actions of distinguished men which are of interest, but also those done in [[play]].”
+- [[Play]] allows you to be [[move]]d by the rest of existence.
+- Both [[play]] and the [[sacred]] required constraints to set them apart from the rest of life.
+- [[Play]] may [[end]] through external interference, a breaking of the rules, or inhibition from within.
+- A difference between [[play]] and [[ritual]] may be in whether the participant is willing to acknowledge the limits of the activity. A player knows they are in a [[simulation]], a ritualist may not acknowledge the simulation.
+- By getting absorbed into playing a part, we give the [[play]] more [[power]].
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-

@@ -1,0 +1,3 @@
+- On MIT's [[magical incubator]]:
+  collapsed:: true
+	- "You know that if you want to run a wire from one room to another, you don't call physical planning, you don't plunk down a thousand dollars to call an electrician and the carpenter, instead you get out a power drill or screwdriver and you jam it through the wall and you string the wire and you take care of things right away and you do it one afternoon rather than waiting six months for a purchase order to come through."

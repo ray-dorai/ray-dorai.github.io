@@ -1,0 +1,33 @@
+- Did you buy in to the [[training]]? Do  you believe that you need it?
+- Do you enjoy the training? Without these two factors, you will stop training.
+- Do you like variety? Do you like consistency? Do you like milestones? Change your program to suit your preferences.
+- Feel how the bar moves in your hand. Feel how that [[movement]] feels in your back. In your hips. In your glutes. In your feet. In your shoulders. Simply notice.
+- Weights must be light enough that you can easily maintain [[balance]].
+- Usually .60 of your 1 rep max.
+- If you don't know what that is, try about 15% less than the heaviest weight you feel comfortable lifting.
+- In the beginning, avoid training to failure. You should be at least 3 reps away from failure, when you area newbie lifter.
+- Check with videos of how [[competitive]] lifters do it. Use a variety of sources, different body types will lift a little differently.
+- Training to lift 2-4 times a week is best in the beginning, since it gives you time to [[recover]].
+- Muscle [[protein]] synthesis takes about 36-48 hours for new lifters (to contrast with 24ish for experienced lifters or 12ish with steroids). This is how long recovery takes.
+- Pay [[attention]] to where your [[body]] is in [[space]].
+- Be [[aware]] of what each of your muscles are doing. If some group is compensating for one muscle, find a way to isolate and build strength in that muscle.
+- If you are fat, a smaller percentage of your gains will be [[muscle]]. For this reason it is often better to cut first and then focus on bulking only after you've cut to a healthy [[body]] composition, like at least as low as 12-5% if you're male or 20-25% if you're female.
+- A good rule of thumb for the [[aerobic]] base that you need for lifting is if your resting heart rate is in the low 60s or lower. If it is higher you'll need to work on improving your cardio. About 20mins of light [[cardio]] per day is good for lifting otherwise, preferably after you lift rather than before.
+- [[Sleep]] as long as your body needs. If you're not sleeping well, you're not building muscle.
+- Stick with your beginner's routine until it is beginning hard to add weight. This is usually 2-6 months.
+- *After this point you're ready to lift in Brodin's hall, and you'll need to handcraft a program for your body.*
+- To dominate in [[powerlifting]], you're going to need [[mass]]. Not like a bodybuilder necessarily (more well-rounded than that), but muscle mass per unit of height.
+- Muscle mass is potential strength.
+- Your goal would be to get as heavy as possible while maintaining 15% (20% for females) body fat or less and protecting the joints as much as possible.
+- "Weight classes are height classes in disguise."
+- 3 goals for intermediate lifting:
+  1) get jacked
+  2) protect [[joints]]
+  3) maintain or increase skill with lifts
+- -Increase intensity of main lifts from .60 of 1repmax to .75-80.
+  -Include more variation in main lifts. For example, instead of just doing a squat, do paused squats, front squats, hammer squats, etc.
+  -keep volume of main lifts low to moderate, stay at least 1 or 2 reps shy of failure at all times.
+  -Get the bulk of your training volume from accessory lifts for all major muscle groups, with sets of 6-15 reps, training each muscle/movement 2-3 times per week for 4-6 sets (or 40-70 total reps) per session.  
+  -shoot for small personal records (PRs) every four weeks at first. When that fails, go to 8 weeks, then 12 weeks.
+  -have a bulk and a cut phase. Bulk to around 22%fat for males, 28% for females. Cut back down to 15% or 20%.
+- This part would take 3-8 years. You would put on 3-5lbs of muscle every year. Once you don't put on 3lbs of muscle in a year, it's time to go Brohalla and start focusing on upping your [[Personal Record]]s drastically.

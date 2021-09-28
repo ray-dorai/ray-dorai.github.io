@@ -1,0 +1,1 @@
+- Direct communication triggers [[defense]] if there is no [[trust]].
