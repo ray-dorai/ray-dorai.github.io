@@ -1,7 +1,7 @@
 
 body {
     margin: 0 auto;
-    font-family: 'Sorts Mill Goudy', serif;
+    font-family: 'Goudy Bookletter 1911', serif;
     width: 500px;
     font-size: smaller;
     line-height: 1;
@@ -11,7 +11,7 @@ body {
 }
 
 nav ul, footer ul {
-    font-family: 'Sorts Mill Goudy', serif;
+    font-family: 'Goudy Bookletter 1911', serif;
     padding: 1px;
     list-style: none;
     font-weight: bold;
@@ -57,4 +57,5 @@ ul.posts li {
 @import url('https://fonts.googleapis.com/css?family=Fjord+One&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Fira+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Sorts+Mill+Goudy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Goudy+Bookletter+1911&display=swap');
 </style>
