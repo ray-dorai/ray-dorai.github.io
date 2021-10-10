@@ -4,7 +4,7 @@ title: "Proper Propaganda: Liminal's Offer or 'What To Do About The Boxes'"
 date: 2021-10-10
 ---
 
-For the last part of the _Proper Propaganda_ series, [Liminal Warmth](https://liminalwarmth.com/) gave me _Industrial Society and Its Future_ as the article and the values and ideology of Confucianism.  
+For the last part of the _Proper Propaganda_ series, [Liminal Warmth](https://liminalwarmth.com/) gave me _Industrial Society and Its Future_ by Theodore Kaczynski as the article and the values and ideology of Confucianism as the view to appeal to.
 
 Some time ago we started to work very hard to make many things the same way, so there are more things that are almost the same as each other, and to make lots and lots of those things again and again, it made a world full of boxes. We made many boxes of things until we filled the land and our minds with boxes. We found these things nice because they gave us more food and things than ever before, but it also changed some things for good. When this happened we became very many, and very big. Big things are slower, and when one part of a big thing talks to another part of a big thing, it is slower and more confusing than when one part of a small thing talks to another part of a small thing.   
 
