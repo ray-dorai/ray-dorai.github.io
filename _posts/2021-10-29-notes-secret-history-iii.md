@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Notes: The Secret History of the Mongols III"
+date: 2021-10-29
+---
+Temujin goes to Ong Qan, who was at that time camped out in the Black Forest by the Tuul River. He asks Ong Qan for help, and Ong Qan basically says 'why would you even ask, I agreed to unite everyone for you when you gave me the sable coat'. If you recall, Temujin got the sable coat from his father-in-law, and he re-gifted it to Ong Qan- a sable coat around then and there would've been worth a fortune. Roughly speaking, enough for one man to retire comfortably on. On top of that, Ong Qan was supported by Temujin's father when Temujin's father was advised to help Ong Qan's enemies- who were Ong Qan's enemies because Ong Qan killed his brother to take his place. He suggests they also get help from Temujin's bro, Jamukha, so they send Belgutei and Qasar to Jamukha basically saying, 'we got dissed, we know you got our back', and Jamukha replies basically saying, 'we'll kill them all'.    
+
+Jamukha tells them to get ten thousand men together and bring them to meet near a river. They go back, and Ong Qan provides twenty thousand men, split in two, with his brother leading the other contingent. Temujin gathers his bros. They all meet by the river, where Jamukha had been waiting for three days. Jamukha appeals to a norm, saying 'yes' is equivalent to a Mongol swearing an oath, but someone didn't have a good enough 'yes'. Apparently, peeved about Ong Qan, Temujin, &co being late. Ong Qan, who's the ranking dude, says something equivalent to 'sure, you handle the punishment'.  
+
+They ambush one of the Merkit leaders, Toktoa Bekti, and kill everyone they don't enslave. Some hunters and fishermen nearby spot this and report it to the other Merkits.  
+
+The Merkits begin fleeing, but Ong Qan, Temujin, Jamukha, &co catch up to them. As everyone is in the middle of killing and looting, Temujin searches for his wife and finally finds her. They hug, and Temujin tells Jamukha that he got what he came her for, so they camp for the night.  
+
+They hunt down what remains of the Merkit and kill all of the men who hunted Temujin around the mountain, and free Temujin's mother. Temujin thanks father Heaven and mother Earth. They kill the rest of the Merkit men, and take their women. As they're doing this, they find a boy, about five years old, who has fire in his eyes. They like that, so they give him to Temujin's mother to raise.  
+
+On the way back to the Black Forest, Ong Qan hunts wild game. Jamukha and Temujin declare their love for each other again. They play with dice, and practice archery together. Jamukha makes a whistling arrow and gives it to Temujin. Temujin gives Jamukha a heavy arrow. They declare their love again, and vow never to abandon each other. They give each other horses and belts. They declare their love for each other again, and party, and sleep under the same blanket together.  
+
+After a year and a half like this, Jamukha says they should camp by another river, where there is enough food. Temujin is confused by this, so he goes to his mom for advice. Before she answers, his wife, Borte, answers. She lets him know that Jamukha gets tired of his friends after awhile, and is basically saying that Temujin and his family have outstayed their welcome. So instead of camping that night, Temujin's party continues traveling, leaving Jamukha's group.   
+
+In the middle of the night they run across some of the Tangut, who panic and flee toward Jamukha's people. In the confusion, they leave a boy. This boy is given to Lady Hoelun to care for. Brothers, cousins, in-laws, and associated friends of the people that Temujin has come from various tribes to join Temujin. Among these are the Urunkai brothers of Jelme, which include Subutai.  
+
+ Qorci, who is a step-brother of Jamukha, along with others previously in Jamukha's party, also join Temujin. Qorci says this is because they saw an omen, where a fallow cow hit his tent with her horns, broke one of her horns, and asked Jamukha to fetch him her broken horn. An ox without horns then pulled the tent and said 'Temujin will be what joins Heaven and Earth'. Qorci asks what Temujin would do if his prediction is true- Temujin tells him that he would make him a leader of a tumen- ten thousand warriors.  Qorci says he wants a little more- he wants his pick of beautiful girls, so that he can have thirty wives.  
+
+More people join Temujin- including more from Jamukha's camp. Three of these men, who were formerly with Jamukha, tell Temujin they'll make him a Khan. They tell him they'll hunt down his enemies and bring him their tents, their horses, their women, and wild game. They tell him that if they disobey him or give him shit advice, he may separate them from their wives and their belongings, and banish them into the wilderness. So they swore these things, and made him Chinggis Khan.  
+
+Now that he's a Khan, Temujin gives everyone new assignments. Basically everyone is better armed- more alert, and they talk about how well they'll do their new jobs. Some are assigned to take care of his body (stewards), one offers to take care of his sheep, another offers to take care of his servants, others are his arrows (raiders), others are his swords (punishers), and masters of horse. Subutai says he'll be the guy that shores everyone and everything else up, filling in the gaps. Bo'orcu and Jelme, meanwhile, are his first warlords, since they were loyal to him when there was no reason to be, and offered their friendship when he was practically alone and penniless.  
+
+The men let Ong Qan know that they've made Temujin Chinggis, Khan of the Mongols. Ong Qan says this is good, but tells them never to forget that they agreed to this.
