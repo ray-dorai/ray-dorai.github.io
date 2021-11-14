@@ -1,0 +1,186 @@
+Name:  Kaoson Talboy
+Race/Ancestry/Heritage: Wereboar (Human Lycanthrope)
+Class & Level: Cleric 18 (Domain of War)
+Background: Outlander
+Alignment: Chaotic Evil
+Experience: 286,200 xp
+
+
+ABILITY SCORES & ABILITIES
+(* includes +6 proficiency bonus; ** includes expertise, if any)
+
+Strength 17
++3 ... Strength Ability Checks
++3 ... Strength Saving Throws
++9 ... Athletics Skill  *
+255 lbs. ... Maximum Carrying Capacity
+510 lbs. ... Max. Push or Drag (Speed -5 ft.)
+510 lbs. ... Maximum Lift
+
+Dexterity 8
+-1 ... Dexterity Ability Checks
+-1 ... Dexterity Saving Throws
+-1 ... Acrobatics Skill
+-1 ... Sleight of Hand Skill
+-1 ... Stealth Skill  (Disadv.)
+
+
+Constitution 18
++4 ... Constitution Ability Checks
++4 ... Constitution Saving Throws
+
+Intelligence 11
++0 ... Intelligence Ability Checks
++0 ... Intelligence Saving Throws
++0 ... Arcana Skill
++0 ... History Skill
++0 ... Investigation Skill
++0 ... Nature Skill
++6 ... Religion Skill  *
+
+Wisdom 20
++5 ... Wisdom Ability Checks
++11 ... Wisdom Saving Throws *
++5 ... Animal Handling Skill
++5 ... Insight Skill
++11 ... Medicine Skill  *
++5 ... Perception Skill
++11 ... Survival Skill  *
+
+Charisma 12
++1 ... Charisma Ability Checks
++7 ... Charisma Saving Throws *
++1 ... Deception Skill
++1 ... Intimidation Skill
++1 ... Performance Skill
++1 ... Persuasion Skill
+
+COMBAT [PHB p. 189]
+
+15 ... Passive Perception
+-1 ... Initiative Modifier
+
+Armor Class 15 ... Armor worn: scale mail, shield
+
+30 ft. Speed ... Base distance per move
+
+165 hit points ... 18d8 Hit Dice
+
+
+Mace. Melee Weapon Attack: +9 to hit, reach 5 ft. Hit: 1d6+3 bludgeoning damage.
+
+
+Light Crossbow. Ranged Weapon Attack: +5 to hit. Hit: 1d8-1 piercing damage. (Normal range to 80 ft.; disadvantage long range 81 to 320 ft. Must be used two-handed, reloading limits to only one attack per round regardless of extra attacks.)
+
+
+Sacred Flame Cantrip. Ranged Spell Attack: Targets creature within 60 feet that you can see. That creature makes a DC 19 Dexterity saving throw or takes 4d8 radiant damage. (No damage if made save.)
+
+
+FEATURES, TRAITS, SPECIAL ABILITIES
+
+Outlander Background [PHB p. 136]
+
+• Feature: Wanderer.
+
+• Traits: Friends with an old werebear. Honest nature.
+
+• Ideal: Laws don't make justice. Only random chaos is truly fair.
+
+• Bond: Dreams with nature spirits during rests.
+
+• Flaw: Never forgives an insult.
+
+
+Proficiencies & Languages
+• Proficiency Bonus: +6
+• Armor: light armor, medium armor, heavy armor, shields
+• Weapons: simple weapons, martial weapons
+• Tools: musical instrument (flute)
+• Saving Throws: Wisdom, Charisma
+• Skills: Athletics, Medicine, Religion, Survival
+• Languages: Common, Dwarvish, Orc
+
+
+Wereboar Traits [MM p. 207]
+
+• Age: 47 years old
+
+• Medium Size (5' 8", 166 lbs.)
+
+• Damage Immunities (bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons)
+
+• Shapechange (as action, polymorph betw. human, hybrid and boar forms; equipment isn't transformed)
+
+• Relentless (once betw. rests, if 14 or less damage reduces to 0 h.p., drop to 1 h.p.)
+
+When in Boar or Hybrid Form...
+
+• Speed (40 ft.)
+
+• Languages (can't speak in boar form)
+
+• Natural Armor (add +1 to AC)
+
+• Tusks (+9 to hit, reach 5 ft. Hit: 2d6+3 slashing dmg. and target must DC 18 Con. save or gain lycanthropy)
+
+• Charge (if 15 ft. move, tusks do +2d6 damage, target DC 17 Con. save or knocked prone)
+
+
+Cleric Class Features [PHB p. 57]
+
+• Ritual Casting
+
+• War Priest (if attack action, add attack as bonus action, up to uses per day)
+
+• Channel Divinity (3 uses betw. short or long rests)
+
+• Channel Divinity: Turn Undead (within 30 ft., Wisdom save or turned 1 min. or until damaged)
+
+• Channel Divinity: Guided Strike (+10 to attack)
+
+• Destroy Undead (CR 4 or lower)
+
+• Channel Divinity: War God's Blessing (+10 to attack to ally)
+
+• Divine Strike (+2d8 damage once per turn)
+
+• Avatar of Battle (resistance to nonmagical bludgeoning, piercing, slashing damage)
+
+Sacred Flame Cantrip. Ranged Spell Attack: Targets creature within 60 feet that you can see. That creature makes a DC 19 Dexterity saving throw or takes 4d8 radiant damage. (No damage if made save.)
+
+
+Spellcasting [PHB p. 201]
+
+Spell Attack Modifier +11
+Spell Save DC 19
+Cantrips Known: Guidance, Light, Resistance, Sacred Flame, Thaumaturgy
+
+
+Prepared Spells
+1st Level (4 slots): Divine Favor*, Shield Of Faith*, Cure Wounds, Command, Bane
+
+2nd Level (3 slots): Magic Weapon*, Spiritual Weapon*, Lesser Restoration
+
+3rd Level (3 slots): Crusader's Mantle*, Spirit Guardians*, Dispel Magic, Remove Curse
+
+4th Level (3 slots): Freedom Of Movement*, Stoneskin*, Control Water, Banishment
+
+5th Level (3 slots): Flame Strike*, Hold Monster*, Commune, Raise Dead, Contagion
+
+6th Level (1 slot): Heal, Blade Barrier, Heroes' Feast
+
+7th Level (1 slot): Resurrection, Symbol, Fire Storm
+
+8th Level (1 slot): Control Weather, Antimagic Field, Holy Aura
+
+9th Level (1 slot): True Resurrection, Astral Projection, Mass Heal
+
+
+EQUIPMENT & TREASURE
+
+
+Carried Gear (PHB, p. 143): scale mail (AC 14), shield (AC +2), mace, belt pouch, set of traveler's clothes, hunting trap, a staff, trophy from a slain animal. (This load is about 135 lbs.; add 1 lb. per 50 coins carried.)
+
+
+Coins & Gems: 22,512 gold pieces (gp); 45 silver pieces (sp); 62 copper pieces (cp); 4 gems (worth 1,000 gp each)
+
