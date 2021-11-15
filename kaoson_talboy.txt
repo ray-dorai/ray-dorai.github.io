@@ -179,8 +179,8 @@ Prepared Spells
 EQUIPMENT & TREASURE
 
 
-Carried Gear (PHB, p. 143): dogskin scale mail (AC 18), shield (AC +2), mace of the crowning sun, belt pouch, set of traveler's clothes, hunting trap, a staff, trophy from a slain animal. (This load is about 135 lbs.; add 1 lb. per 50 coins carried.)
+Carried Gear (PHB, p. 143): dogskin scale mail (AC 18), sentinel shield (AC +2), mace of the crowning sun, ring of protection (AC+1), cloak of protection (AC+1), ioun stone: protection (AC+1), gorgon's girdle (stone to flesh x3), belt pouch, set of traveler's clothes, hunting trap, a staff, trophy from a slain animal. (This load is about 135 lbs.; add 1 lb. per 50 coins carried.)
 
 
-Coins & Gems: 50,512 gold pieces (gp); 45 silver pieces (sp); 62 copper pieces (cp); 4 gems (worth 1,000 gp each)
+Coins & Gems: 12 gold pieces (gp); 45 silver pieces (sp); 62 copper pieces (cp); 2 gems (worth 1,000 gp each)
 
