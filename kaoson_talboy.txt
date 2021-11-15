@@ -9,34 +9,34 @@ Experience: 286,200 xp
 ABILITY SCORES & ABILITIES
 (* includes +6 proficiency bonus; ** includes expertise, if any)
 
-Strength 17
-+3 ... Strength Ability Checks
-+3 ... Strength Saving Throws
-+9 ... Athletics Skill  *
-255 lbs. ... Maximum Carrying Capacity
-510 lbs. ... Max. Push or Drag (Speed -5 ft.)
-510 lbs. ... Maximum Lift
+Strength 18
++4 ... Strength Ability Checks
++4 ... Strength Saving Throws
++10 ... Athletics Skill  *
+300 lbs. ... Maximum Carrying Capacity
+610 lbs. ... Max. Push or Drag (Speed -5 ft.)
+610 lbs. ... Maximum Lift
 
-Dexterity 8
--1 ... Dexterity Ability Checks
--1 ... Dexterity Saving Throws
--1 ... Acrobatics Skill
--1 ... Sleight of Hand Skill
--1 ... Stealth Skill  (Disadv.)
+Dexterity 15
++1 ... Dexterity Ability Checks
++1 ... Dexterity Saving Throws
++1 ... Acrobatics Skill
++1 ... Sleight of Hand Skill
++1 ... Stealth Skill  (Disadv.)
 
 
 Constitution 18
 +4 ... Constitution Ability Checks
 +4 ... Constitution Saving Throws
 
-Intelligence 11
-+0 ... Intelligence Ability Checks
-+0 ... Intelligence Saving Throws
-+0 ... Arcana Skill
-+0 ... History Skill
-+0 ... Investigation Skill
-+0 ... Nature Skill
-+6 ... Religion Skill  *
+Intelligence 16
++2 ... Intelligence Ability Checks
++2 ... Intelligence Saving Throws
++2 ... Arcana Skill
++2 ... History Skill
++2 ... Investigation Skill
++2 ... Nature Skill
++2... Religion Skill  *
 
 Wisdom 20
 +5 ... Wisdom Ability Checks
@@ -47,13 +47,13 @@ Wisdom 20
 +5 ... Perception Skill
 +11 ... Survival Skill  *
 
-Charisma 12
-+1 ... Charisma Ability Checks
-+7 ... Charisma Saving Throws *
-+1 ... Deception Skill
-+1 ... Intimidation Skill
-+1 ... Performance Skill
-+1 ... Persuasion Skill
+Charisma 17
++3 ... Charisma Ability Checks
++8 ... Charisma Saving Throws *
++3 ... Deception Skill
++3 ... Intimidation Skill
++3 ... Performance Skill
++3 ... Persuasion Skill
 
 COMBAT [PHB p. 189]
 
