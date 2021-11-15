@@ -67,7 +67,7 @@ Armor Class 15 ... Armor worn: scale mail, shield
 165 hit points ... 18d8 Hit Dice
 
 
-Mace of the Black Crown. Melee Weapon Attack: +10 to hit, reach 5 ft. Hit: 1d6+3 bludgeoning damage, +1d6 fire damage.
+Mace of the Crowning Sun. Melee Weapon Attack: +12 to hit, reach 5 ft. Hit: 1d6+6 bludgeoning damage, +2d6 fire damage. Summon Bearded Devil. Resistance to Poison.
 
 
 Light Crossbow. Ranged Weapon Attack: +5 to hit. Hit: 1d8-1 piercing damage. (Normal range to 80 ft.; disadvantage long range 81 to 320 ft. Must be used two-handed, reloading limits to only one attack per round regardless of extra attacks.)
@@ -179,7 +179,7 @@ Prepared Spells
 EQUIPMENT & TREASURE
 
 
-Carried Gear (PHB, p. 143): scale mail (AC 14), shield (AC +2), mace, belt pouch, set of traveler's clothes, hunting trap, a staff, trophy from a slain animal. (This load is about 135 lbs.; add 1 lb. per 50 coins carried.)
+Carried Gear (PHB, p. 143): dogskin scale mail (AC 18), shield (AC +2), mace of the crowning sun, belt pouch, set of traveler's clothes, hunting trap, a staff, trophy from a slain animal. (This load is about 135 lbs.; add 1 lb. per 50 coins carried.)
 
 
 Coins & Gems: 50,512 gold pieces (gp); 45 silver pieces (sp); 62 copper pieces (cp); 4 gems (worth 1,000 gp each)
