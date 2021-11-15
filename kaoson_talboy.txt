@@ -182,5 +182,5 @@ EQUIPMENT & TREASURE
 Carried Gear (PHB, p. 143): scale mail (AC 14), shield (AC +2), mace, belt pouch, set of traveler's clothes, hunting trap, a staff, trophy from a slain animal. (This load is about 135 lbs.; add 1 lb. per 50 coins carried.)
 
 
-Coins & Gems: 22,512 gold pieces (gp); 45 silver pieces (sp); 62 copper pieces (cp); 4 gems (worth 1,000 gp each)
+Coins & Gems: 50,512 gold pieces (gp); 45 silver pieces (sp); 62 copper pieces (cp); 4 gems (worth 1,000 gp each)
 
