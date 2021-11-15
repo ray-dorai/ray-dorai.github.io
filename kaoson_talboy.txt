@@ -67,7 +67,7 @@ Armor Class 15 ... Armor worn: scale mail, shield
 165 hit points ... 18d8 Hit Dice
 
 
-Mace. Melee Weapon Attack: +9 to hit, reach 5 ft. Hit: 1d6+3 bludgeoning damage.
+Mace of the Black Crown. Melee Weapon Attack: +10 to hit, reach 5 ft. Hit: 1d6+3 bludgeoning damage, +1d6 fire damage.
 
 
 Light Crossbow. Ranged Weapon Attack: +5 to hit. Hit: 1d8-1 piercing damage. (Normal range to 80 ft.; disadvantage long range 81 to 320 ft. Must be used two-handed, reloading limits to only one attack per round regardless of extra attacks.)
