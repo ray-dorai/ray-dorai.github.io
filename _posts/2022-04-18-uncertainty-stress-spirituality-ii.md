@@ -36,17 +36,17 @@ Looking at the page on Dukka, we find:
 And maybe the word 'Duhka' comes from talking about the feeling of having a bumpy chariot ride, like your car having a flat tire. Let's also call it 'friction'.  
 
 Now we'll revisit the Four Noble Truths in simpler terms:
-  1. Life is heavy. Dying is heavy. Getting sick is heavy. Being joined with what you don't like is heavy. Being away from what you like is heavy. Not getting what you want is heavy. Holding on to "I" is heavy. Holding on to the way your body is, the way things are, and the way you see things is heavy.  
-  2. Wanting things to be a few ways is what makes things heavy.   
-  3. So closing your wants allows you to let go of what is heavy.  
-  4. So this is the way to let go of what is heavy.  
+  First, Life is heavy. Dying is heavy. Getting sick is heavy. Being joined with what you don't like is heavy. Being away from what you like is heavy. Not getting what you want is heavy. Holding on to "I" is heavy. Holding on to the way your body is, the way things are, and the way you see things is heavy.  
+  Second, wanting things to be a few ways is what makes things heavy.   
+  Third, closing your wants allows you to let go of what is heavy.  
+  Fourth: So this is the way to let go of what is heavy.  
 
 In terms of Peters, McEwen, Friston, Carhart-Harris, & company, we might say the Four Noble Truths go like this:  
 
-  1. You are uncertain, so you are surprised. This surprise causes stress. Surprise at surprise and stress leads to more stress, which leads to pain and disease. In turn, this leads you to further weight certain priors that rule all information, which lead to even more stress later.  
-  2. You have expectations, or priors (what we called 'stories' earlier) about how the world will go. When those expectations are not met, you are more surprised. Having stronger priors leads to bigger surprises that result in more stress.  
-  3. If you relax your priors, you will be less stressed.  
-  4. So this is how you deal with uncertainty.
+  First, you are uncertain, so you are surprised. This surprise causes stress. Surprise at surprise and stress leads to more stress, which leads to pain and disease. In turn, this leads you to further weight certain priors that rule all information, which lead to even more stress later.  
+  Second, you have expectations, or priors (what we called 'stories' earlier) about how the world will go. When those expectations are not met, you are more surprised. Having stronger priors leads to bigger surprises that result in more stress.  
+  Third, if you relax your priors, you will be less stressed.  
+  Fourth: So this is how you deal with uncertainty.
 
 What about something like the _Heart Sutra_? 
 
