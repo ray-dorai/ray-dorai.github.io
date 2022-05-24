@@ -5,6 +5,7 @@ body {
     margin: 0 auto;
     font-family: 'Goudy Bookletter 1911', serif;
     font-size: smaller;
+    width: auto;
     line-height: 1;
     color: #444;
     padding-left:0.3em;
