@@ -14,21 +14,6 @@ body {
     background-repeat: repeat;
 }
 
-@media (max-width: 615px) {
- .navbar {   
-    flex-direction: column;
-    text-align: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
-  }
-}
-
-@media (min-width: 700px) {
-  body {
-    width: 500;
-  }
-}
-
 nav ul, footer ul {
     font-family: 'Uncial Antiqua', cursive;
     padding: 1px;
@@ -72,4 +57,17 @@ ul.posts li {
     list-style: none;
 }
 
+@media (max-width: 615px) {
+ .navbar {   
+    flex-direction: column;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+}
 
+@media (min-width: 700px) {
+  body {
+    width: 500;
+  }
+}
