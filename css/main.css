@@ -22,7 +22,7 @@ body {
   }
 }
 
-@media screen and (min-width: 720px) {
+@media (min-width: 720px) {
   body {
     width: 500;
   }
