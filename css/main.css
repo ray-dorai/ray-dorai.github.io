@@ -57,7 +57,7 @@ ul.posts li {
     list-style: none;
 }
 
-@media (max-width: 615px) {
+@media only screen and (max-width: 615px) {
  .navbar {   
     flex-direction: column;
     text-align: center;
@@ -66,7 +66,7 @@ ul.posts li {
   }
 }
 
-@media (min-width: 700px) {
+@media only screen and (min-width: 700px) {
   body {
     width: 500;
   }
