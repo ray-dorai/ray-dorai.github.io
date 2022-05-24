@@ -13,7 +13,7 @@ body {
     background-repeat: repeat;
 }
 
-@media (max-width: 715px) {
+@media (max-width: 615px) {
  .navbar {   
     flex-direction: column;
     text-align: center;
@@ -22,7 +22,7 @@ body {
   }
 }
 
-@media (min-width: 720px) {
+@media (min-width: 700px) {
   body {
     width: 500;
   }
