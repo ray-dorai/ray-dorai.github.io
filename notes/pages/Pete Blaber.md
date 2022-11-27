@@ -1,0 +1,10 @@
+- [[Helicopter]] [[assaults]] are usually a [[costly]] [[signal]]. Anything approaching [[symmetry]] in [[force]] would make them a huge [[tactical]] [[liability]]. So they're more about [[policing]] than they are about [[fighting]] a [[war]] .
+- "Bad [[weather]] is the best time to [[attack]] a [[target]] [on [[foot]]]".
+- Every [[rigid]] [[hierarchy]] is an enemy's [[opportunity]].
+- When is someone trying to tell you what they [[know]], rather than telling you what to do? [[leading]]
+- "Like most staffs [in a TOC], their first instinct was that they had to Do something. They had to start planning and issuing [[orders]]. Arrayed like a [[college]] lecture hall..." [[command]]
+- "The predator view is [[narrow]] [[angle]], described as 'looking at the world through a soda straw.' Through a soda straw, you're never really sure what's going on around your image." [[perception]]
+- "From a HHQ perspective, the [[radio]] is a means to issue [[orders]] and provide [[direction]] to subordinates. For the men on the ground, the radio was our primary method of [[networking]] ideas and [[sharing]] [[information]]. As such it was our lifeline." [[decentralization]]
+- "[[Communication]] short-circuits seem innocuous at first, but [over time] they turn into [[decision]]-making errors that slowly begin to accrue. [[Compounding]] one on top of the other."
+- "Precisely because it [the Predator feed] was one dimensional, it could never be [[correct]]. And it because it was never shared, it could never be corrected."
+- "The [commanding General] had grossly over-estimated the omnipotence of [[technology]]. He failed to understand that the reality of the [[situation]] could only be understood and accessed through the collective omniscience of the guys on the [[ground]]." [[grunt]]

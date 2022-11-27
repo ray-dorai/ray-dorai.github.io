@@ -3,3 +3,7 @@
 - When you don't listen to some of the smallest [[agents]] in the land, you will find interesting larger agents only when they're startled, on guard. To see them relaxed and in their element, you must listen, so you can find them frolicking, enjoying themselves.
 - There is nothing [[random]] about [[behavior]] because life is always at stake.
 - What we use to understand the languages of [[animals]] and [[plants]] are older and more fundamental than what we use to understand our own languages.
+- "Our focus on the five [bird] vocalizations will get pretty microscopic, but the purpose is macroscopic. We want to think about birds and their habitats as anthropologists consider humans and their cultures."
+  Four of these bird vocalizations ([[songs]], companion calls, territorial [[aggression]], adolescent begging) are maintenance behaviors- baseline behavior. What is your subject's [[baseline]] behavior?
+- [[Ravens]] are useful for finding [[caribou]], [[elk]], and [[moose]]. They also often pair up with [[wolves]] during the winter. When ravens fly along a path and make a sudden dip, they are usually spotting something.
+- When birds fly back and forth a lot in a cycle, there's a good chance they have other birds to feed.

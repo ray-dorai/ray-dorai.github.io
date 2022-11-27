@@ -1,0 +1,10 @@
+- In 1959, Boris [[Nikitin]], aeronautical engineer, met Lena, a literature teacher. They found the [[education]] system painful, and wanted to try something else. They applied for funding for a new kind of school, but it fell through.
+	- They started a family, and simply applied the principles they wanted to test to their own lives. Their principle was to let their children play freely and only offer support rather than control.
+	- Their goal wasn't to create geniuses, but just 'decent people'.
+	- Boris and Lena did not stop their kids from trying things. They figured if their kids were told what was dangerous, they would not know how to figure out what is dangerous for themselves.
+	- Lena believed it was better for their kids to get in a little trouble in front of them, rather than for the kids to live in safety. She called it a 'safety vaccine', which you may identify as 'hormesis'.
+	- They let their kids climb and move freely, figuring that they would develop strength and agility more easily if they were allowed to move where they wanted, and the perception to know what was dangerous and what was not when they fell of their own will.
+	- They didn't do any sterile cleaning, and made books, chalkboards, and gymnastics equipment available the children. There were no lessons or mandatory practice, so the children moved between subjects with ease.
+	- Boris and Lena came up with games for their kids to play, and these appear to be accessible in a German-language book. I assume all of this is more accessible in Russian.
+	- The children appeared to get their habits by following their parents example. Later in life, they reported that they had a lot of trouble doing what they did not want to do, which was a difficult adjustment to society. One of them used martial arts to learn this.
+	- Another issue was public attention. Apparently both their parents and the children got a lot of it, though they've gone on to carve out lives for themselves. The children appear to have a 90s-style website now, which documents their family. http://nikitiny.ru/pro-semyu-nikitinyh#Principy

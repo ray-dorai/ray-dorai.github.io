@@ -1,0 +1,2 @@
+- [[wind]] [[power]]
+	- "Have a look at [https://s2.solacity.com/small-wind-turbine-truth/](https://s2.solacity.com/small-wind-turbine-truth/), if that doesn't dissuade you then get a (DIY) [[anemometer]] to (long term) measure/log the windspeed at the intended location/height, plug those numbers into [[Betz's Law]] to get the minimum diameter you need for 10 kW, and TSR for the gear-box you (probably) need."

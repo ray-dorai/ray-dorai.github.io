@@ -94,3 +94,10 @@
 -
 - If you can introduce [[feedback]] from a [[crowd]], you can enable crowd [[emotional]] [[energy]] dynamics.
 - High [[linguistic]] [[diversity]] is a mark of weak [[competition]] between groups. This is most common in thick [[forest]] and high [[mountains]], where geology allows groups to compete against the [[environment]] instead of each other.
+- Self-organization relies on four factors:
+  collapsed:: true
+	- Positive feedback loop from executing basic movement.
+	- Negative feedback to counter positive feedback and stabilize [[collective]].,
+	- Amplification of change by positive feedback. New structures from from [[randomness]], so new solutions come from [[randomness]].
+	- Individuals need multiple, essentially [[redundant]], methods to move together.
+	-

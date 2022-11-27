@@ -37,6 +37,30 @@
 - [[Play]] may [[end]] through external interference, a breaking of the rules, or inhibition from within.
 - A difference between [[play]] and [[ritual]] may be in whether the participant is willing to acknowledge the limits of the activity. A player knows they are in a [[simulation]], a ritualist may not acknowledge the simulation.
 - By getting absorbed into playing a part, we give the [[play]] more [[power]].
+- The [[Greeks]] made [[play]] a central part of their life, but particularly the sort of play that came from pitting players against each other to show everyone the results. A play based on [[conflict]].
+- In [[Sanskrit]], a word for [[play]] also has to do with the [[movement]] of the [[wind]] or the [[waves]]. It grew to include [[dancing]], [[hopping]], and [[throwing]] or casting, which in turn came to mean jesting or mocking. To these were added shining or radiance.
+- [[Chinese]], [[Greek]], and [[Blackfoot]] draw a distinction between [[contest]] and other forms of play. [[Contest]] involves players playing against each other to show who comes out on top to an [[audience]].
+- [[Play]] is associated with rapid [[movement]].
+- One of the older Germanic meanings of play is to vouch for, to guarantee, or to take a risk- to expose oneself to danger for someone or something. Later, there's a definition of taking care of someone, or to bind yourself to someone.
+- "Play and danger, risk, chance, feat—it is all a single field of action where something is at stake." In modern gamers, what was at stake was the ego.
+- Combat, in Anglo-Saxon, is called battle-play, as in swordplay or spearplay. To play here was to struggle with fate within constraints.
+- Play can be deadly- that does not mean it is not play- see 2 Samuel 14.
+- [[Culture]] is workshopped in [[play]], before it is solidified and passed on as culture. Part of it is crytalized as [[ritual]], others parts are [[knowledge]].
+- It mostly [[group]] [[play]] that produces culture.
+- Agonistic competition introduces [[tension]] and [[uncertainty]] to [[group]] [[play]].
+- The more challenging a [[game]] is, the more [[tension]] there will be in the audience.
+- For a [[game]] to be interesting, people have to be [[players]] or an [[audience]] who have accepted the constraints, or premise, of the game.
+- The [[reward]] of [[games]] is [[energy]] from finishing the game under the constraints of what counts for standing first or last. If there are people watching, the [[ritual]] has more energy in it, so it is potentially more rewarding. Winning in the game gives the player energy that can be used anywhere else. If there are [[groups]], then this energy also goes to the group that the player represents.
+- All [[games]] have [[constraints]] and a win condition. This win condition is often represented by a gage, or a symbol of the challenge. This [[object]] is imbued with the ritual of the game.
+- It is the spirit of [[play]] to dare, [[risk]], shoulder [[uncertainty]], and deal with [[tension]].
+- As [[tension]] increases, the [[game]] becomes more important.
+-
+-
+-
+-
+-
+-
+-
 -
 -
 -

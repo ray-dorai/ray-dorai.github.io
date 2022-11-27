@@ -1,0 +1,2 @@
+- When someone's not working, they're either not [[capable]] or not [[motivated]]. Train or motivate.
+-

@@ -1,0 +1,1 @@
+- You can do whatever you want but you don't really want to do things you weren't [[born]] to do.

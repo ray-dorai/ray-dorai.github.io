@@ -1,4 +1,4 @@
-- Trust is a bet that the other will act as they are or as they appear to be.
+- Trust is a [[bet]] that the other will act as they are or as they appear to be.
   Action becomes easier with [[trust]].
 - History teaches familiarity with the world, and [[familiarity]] allows for trust.
 - When one thing is more important than all things, trust is [[fragile]].

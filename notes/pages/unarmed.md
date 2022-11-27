@@ -1,0 +1,49 @@
+- When a [[boxer]] is moving toward you, you may [[create]] [[tension]] by cupping their hands. Once their arm is tense, it's easier to [[parry]] and let the [[energy]] flow you backwards, which you then use to throw a counter [[elbow]] or [[punch]].
+- When you barely [[move]] with the hits, it throws your opponent off [[balance]]. This is like when you stumble because the ground is slightly lower than you thought.
+- Create [[tension]] for your opponent to rest on, then [[move]] out of the way so they lose [[balance]]. A [[feint]] works if it puts tension in your opponent's body.
+- [[Commit]] wholly. Be without need to voice or exclaim.
+- [[Missing]] tires you.
+- By absorbing their [[strikes]], you may take their [[soul]].
+- [[Open]] up as you are attacked. This allows you to absorb the [[attack]] while expanding and loosening yourself, which prepares you to better [[counter]] [[attack]].
+- Just as a tired fighter gives you things, a tense fighter gives you things. You can build [[tension]] in them just like you let them get tired.
+- [[Clinch]] is won by [[pulling]].
+- [[Tension]] is the point of [[strength]] in [[The Way]], the moment before it turns to weakness. [[Timing]] is partially about knowing where you are in time- where you are in this [[cyclic]] [[dance]]. So if your opponent is tense, then you are loose until they're at the peak of their tension.
+- The point of [[pushing]] is to create a moment of [[tension]] which you can use to [[pull]] them further in the way they want to go. This will allow you to help the other person fall and [[surrender]].
+- For [[distance]], stay [[close]] enough to [[attack]] but never any closer than you absolutely need to for your attacks.
+- When what you do fails, don't restart it, do another thing.
+- When you've created forward [[tension]] in your opponent, you may step back (and at an angle) to create space for them to tumble toward. [[Attack]] as they come forward to make use of their forward momentum.
+- Don't wind up, sway into [[attack]].
+- [[Power]] comes from [[flow]].
+- When, where, and what you [[attack]] depends on how your opponent has arranged themselves in [[space]] in relation to you.
+- As you approach, model what your opponent can do to you.
+- You may mark a shoulder to arrest an incoming punch.
+- When someone is punching you, get closer to take the [[power]] out of the [[punch]].
+- If someone is within your [[reach]] when they [[attack]] you, move closer to them.
+- Use your [[parry]] to off [[balance]] your opponent by parrying across their center line. You generally want to parry in, not out.
+- As long as you're on Earth, the [[ground]] is the source of your [[power]].
+- Enforcing a specific [[position]] or [[style]] is a [[weakness]] because it suggests that you cannot go to a place your opponent might be able to go to, or that you cannot bring them to a place that neither of you have gone to.
+- Unlike a linear [[story]], a [[fight]] can go backwards. [[time]]
+- You learn [[BJJ]] so you have a safe way to learn to [[fight]]. You learn to fight so you have a safe way to learn war. You learn [[war]] so you have a safe way to [[die]]. You learn to die so you learn how to [[live]].
+- When you mark someone who is trying to pass you, put your knee in line with your shoulder- a line aligned with your spine and the target.
+- When you're [[passing]], you need to get both hips and their head. Similarly, when you're defending a pass, you need to stop them from getting both hips and your head, or a hip and your head.
+- If you control the legs right below the butt, you control the hips.
+- The quieter you are, the more graceful you may be. You may train [[grace]] by doing things quietly and stealthily.
+- There is some similarity between the rhythmic bounce of [[footwork]] in [[boxing]] and the airborne shuffle.
+- When you swing for a strike, keep your eyes on the target to keep from spinning off [[balance]].
+- Let [[power]] come from [[flow]], forcing power is less powerful.
+- What movements leave [[space]] behind you that you can [[play]] with? What movements take that space away?
+- If you feel overpowered, [[move]].
+- When you're on top, ride like you'd ride an animal or an upside down kayak in the sea.
+- The slight [[bend]] of the wrist when [[boxing]] is for [[alignment]] between the tip of the spear (your front knuckles) and the elbow.
+- For well-balanced kicking, the upper body floats forward while the lower body curves into the strike. The kick comes from the hip, though it flows out from the chest.
+- [[Greco-Roman wrestling]] is for standing takedowns without thick clothing, [[Judo]] is for standing takedowns with thick clothing, [[Freestyle wrestling]] is for staying on top.
+- Stay on top.
+- Train your missing, just like you train to get punched.
+- Against a skilled wrestler, it is hardest to finish a single-leg [[takedown]] while standing. It's easier to finish it against the [[ground]].
+- When you [[block]] an [[attack]], you open up another [[surface]]. What blocks open up what surfaces?
+- How can you tempt them into overreaching? How can you tempt them into moving one slip away from off [[balance]]?
+- Place your [[center of gravity]] in line with your opponent's gap to create an angle of attack- such as lining up your core with your opponent's foot if you're going for  a single leg takedown in wrestling.
+- [[Time]] [[foot]] [[sweep]] for when [[foot]] is in the air, not on the [[ground]].
+- To [[throw]] you, an opponent needs [[grips]] and the ability to move those grips across their center line.
+- You'll have [[power]] from [[skill]] and [[alignment]] through [[speed]], but using [[power]] depletes [[energy]] and brings [[tension]], which makes you more [[legible]] to your opponent.
+- When you [[stretch]] out a limb or over [[reach]], make sure your opponent is off-balance, such as by simultaneously pulling them.

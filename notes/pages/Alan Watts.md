@@ -1,0 +1,5 @@
+- On [[weather]]
+- "...because [[weather]] is so variable from one place to another, the [[observer]] on the spot can do something that the professionals cannot hope to emulate – see the state of the right-[[now]] weather as it affects them."
+- "[[Computers]] are wonderful but they need [[input]]".
+- "Listen to the forecasts, note what they say and then use your own [[knowledge]] to refine the [[details]] for your own area." [[forecasting]]
+- "No [[distance]] at all and yet it can make all the difference between, in this case, the brilliant but not threatening [[storm]] we experienced or a truly terrifying ordeal made doubly bad by local [[flooding]]."
