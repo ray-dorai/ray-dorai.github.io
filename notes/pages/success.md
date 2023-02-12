@@ -1,0 +1,13 @@
+- Albert-Laszlo Barabasi uses the following definition of success: **what we are given by our people for what we do.** "The rewards we earn from the communities we belong to." All of these are [[external]] and [[collective]] in nature- various forms of [[glory]], [[fame]], and [[income]]. These are more [[measurable]] than internal definitions of success. This, he calls '[[performance]]'- the impact of the performance is more easily measurable than the performance itself.
+	- So success is about 'us' rather than 'I' or 'you'.
+	- Doing something well is not enough, you have to be easy to know, and easier to remember. So, the response to the performance must be honed as well as the [[performance]] itself.
+	- To look at how you [[move]] your people, you have to [[look]] and [[listen]] for how they move in response to your moves.
+	- Who knows you matters, because without them, you will not be able to gain from your performance.
+	- How can one part of a [[group]] give the group a reason to claim that part as one of their own, to be proud of that part for being one of them?
+	  collapsed:: true
+		- The part of the [[group]] has to be useful to the group for the group to promote the part.
+	- If someone is useful to a [[network]], they will [[amplify]] that one's success.
+	- How well you do at something drives success, but if there's no clear way for people to tell how well you do at something, then the [[people]] you are connected to are what gives success.
+	- For a [[selective]] program, it's not the program that makes the entrants elite- it's the entrants that make the program elite. That is, [[elite]] students pick elite schools, and elite athletes make for elite [[teams]]. The program itself doesn't typically take lower-achieving individuals and make them high achievers. Rather, it selects for high achievers to call itself an elite program.
+	- As far as Ivy League success goes, all a student had to do was simply apply to an Ivy League school for it to be predictive of future success, even if they got rejected. This suggests that where the student thinks they belong helps tell where they will go.
+-
