@@ -47,3 +47,6 @@
 - To [[throw]] you, an opponent needs [[grips]] and the ability to move those grips across their center line.
 - You'll have [[power]] from [[skill]] and [[alignment]] through [[speed]], but using [[power]] depletes [[energy]] and brings [[tension]], which makes you more [[legible]] to your opponent.
 - When you [[stretch]] out a limb or over [[reach]], make sure your opponent is off-balance, such as by simultaneously pulling them.
+- The [[hip]] heist is important for turning into your opponent, or toward the ground to avoid a bad [[fall]].
+  collapsed:: true
+	- The hip heist uses [[gravity]] on someone behind you, and then the fall itself to slip away from them.
