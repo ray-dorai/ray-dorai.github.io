@@ -21,4 +21,4 @@ an aah! or an ooh!
 something new  
 to spread my view  
 come, give me your mask  
-I'll make it anew.
+I'll make it anew.  
