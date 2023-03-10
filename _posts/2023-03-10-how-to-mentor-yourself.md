@@ -4,7 +4,9 @@ title: "How To Mentor Yourself"
 date: 2023-03-10
 ---
 
-Are you doing something with your life that differs strongly from how everyone around you plans on living their life? If so, read on. This is for you.    
+Are you doing something with your life that differs strongly from how everyone around you plans on living their life? If so, read on. This is for you.  
+
+READING TIME: 13 minutes
 
 ## In a Post-Internet Age, no single person can mentor you  
 
