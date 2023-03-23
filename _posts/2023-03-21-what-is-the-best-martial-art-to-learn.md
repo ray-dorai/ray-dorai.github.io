@@ -7,6 +7,11 @@ date: 2023-03-21
 So you’re interested in learning a martial art. Which one should you learn? Follow these steps and you’ll find something for you.   
 
 [Every Group is Different](#every-group-is-different)
+[What Do You Want From a Martial Art?](#what-do-you-want-from-a-martial-art?)
+[What Is Available Near You?](#what-is-available-near-you?)
+[Try As Many Gyms As You Can](#try-as-many-gyms-as-you-can)
+[Which Place has People You Enjoy Being Around?](#which-place-has-people-you-enjoy-being-around?)
+[Which Skill Do You Find the Most Fun?](#which-skill-do-you-find-the-most-fun?)
 
 READING TIME: 7 minutes  
 
@@ -24,7 +29,7 @@ Now, take five minutes to list out everything you want from a martial art.
 
 Knowing what you want from a martial art will also determine the level of risk that you’re willing to take on. If you primarily want a martial art for Spiritual Development, you know you don’t need to do anything that reliably results in concussions. If you really want to learn to fight, you will have to account for that risk.  
 
-For some common reasons people want to learn a martial art or combat sport, and examples of styles that are most commonly suited to that reason, scroll to the very bottom of the post.   
+For some common reasons people want to learn a martial art or combat sport, and examples of styles that are most commonly suited to that reason, scroll to the [very bottom of the post](#list-of-common-reasons-people-learn-martial-arts).   
 
 ![Bruce Lee Graffiti in Penang](https://github.com/ray-dorai/ray-dorai.github.io/blob/master/assets/yaopey-yong-penang.jpg?raw=true)
 
