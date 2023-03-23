@@ -6,6 +6,8 @@ date: 2023-03-21
 
 So you’re interested in learning a martial art. Which one should you learn? Follow these steps and you’ll find something for you.   
 
+READING TIME: 7 minutes  
+
 ## Every Group is Different  
 Teaching styles, culture, and sports paradigms change from gym to gym, dojo to dojo, and instructor to instructor. While the more physically combative sports tend to be a little more uniform in response to sports competition, they can still vary wildly from place to place. Just as you might want something different from your sport than the person you’re sparring with, an instructor or owner might want something different from their organization than another person, and this tends to be reflected in how they teach. A gym that focuses on a particular competition will differ from a gym that focuses on the traditional culture, and those in turn will differ from one that focuses on self-defense. A gym without local fight competition may focus on certification, exhausting exercise, and perfection of form instead of fighting. Many gyms that focus on self-defense are there to impart a sense of confidence on their members, rather than teach them to fight. Understand that if you want to learn to defend yourself in a fight, you will want to join a gym with a lot of sparring and live interactions. A live interaction is one in which either side can win, rather than one that is scripted and pre-determined. On the other hand, if you want to learn a cool butterfly kick or break some cinder blocks, there will be dojos that are awesome at that.  
 
