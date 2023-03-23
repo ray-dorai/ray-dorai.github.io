@@ -24,14 +24,14 @@ Knowing what you want from a martial art will also determine the level of risk t
 
 Here are some common reasons people want to learn a martial art or combat sport, and examples of styles that are most commonly suited to that reason.   
 
-*Self-defense:* Boxing, Judo, Wrestling, MMA, MilSim, Brazilian Jiu-Jitsu
-*Fitness & health:* Capoeira, Group Boxing/Kickboxing Classes at a Fitness Gym
-*Discipline & Focus:* Karate, Taekwondo, Kenpo, Wushu
-*Cultural Appreciation:* Silat, Shaolin Kung Fu, Kalaripayattu, Kendo, HEMA, Eskrima
-*Personal confidence:* Krav Maga, Aikido, Self-defense Dojos
-*Sport:* Fencing, Taekwondo, Judo, Karate, Wrestling
-*Spiritual growth:* Tai Chi, Systema, Aikido, Baguazhang
-*Fighting:* Muay Thai, Wrestling, MMA, Dog Brothers, Bareknuckle Boxing, Combat Sambo
+*Self-defense:* Boxing, Judo, Wrestling, MMA, MilSim, Brazilian Jiu-Jitsu  
+*Fitness & health:* Capoeira, Group Boxing/Kickboxing Classes at a Fitness Gym  
+*Discipline & Focus:* Karate, Taekwondo, Kenpo, Wushu  
+*Cultural Appreciation:* Silat, Shaolin Kung Fu, Kalaripayattu, Kendo, HEMA, Eskrima  
+*Personal confidence:* Krav Maga, Aikido, Self-defense Dojos  
+*Sport:* Fencing, Taekwondo, Judo, Karate, Wrestling  
+*Spiritual growth:* Tai Chi, Systema, Aikido, Baguazhang  
+*Fighting:* Muay Thai, Wrestling, MMA, Dog Brothers, Bareknuckle Boxing, Combat Sambo  
 
 Of course, _Every Group is Different_. You might find a Kendo club better suited to fighting in your area, or a Boxing gym with a heavy emphasis on spiritual growth.   
 
