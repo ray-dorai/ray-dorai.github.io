@@ -6,6 +6,7 @@ date: 2023-03-21
 
 So you’re interested in learning a martial art. Which one should you learn? Follow these steps and you’ll find something for you.   
 
+[Every Group is Different](#every-group-is-different)
 
 READING TIME: 7 minutes  
 
