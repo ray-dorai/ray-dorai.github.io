@@ -52,7 +52,7 @@ If Fitness is your primary goal, ask yourself if you got a comfortable workout. 
 
 Think broadly about this. Say ‘Humility’ is your goal. Just because a gym talks a lot about respect, discipline, and humility does not mean it teaches humility. To learn humility, you would need to lose in a struggle every time you train. This means you’d need a style that has a big pool of people to spar with in your area. In a big enough pool, there is always someone better than you. Then, you’ll be reminded of your place every time you train.   
 
-Which Place has People You Enjoy Being Around?  
+## Which Place has People You Enjoy Being Around?  
 Among the gyms you’ve visited, which ones had people that you’d like to talk to again? Which ones could you see yourself hanging out with? Most importantly, which instructor could you see yourself learning from?   
 
 A good thing about martial arts gyms is that you often learn you can get along extremely well with a wide variety of people. There’s something about the ring, the mat, the cage, the pit, that does not see politics or creed- especially if they’re more about fighting. However, having people you enjoy will motivate you to advance in ways you wouldn’t if you hated everyone you trained with. The most important matches are your prospective instructors and whoever the lead competitors are. They tend to set the culture for the entire gym.   
