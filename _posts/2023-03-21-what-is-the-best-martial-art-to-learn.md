@@ -74,10 +74,14 @@ Which brings us to the end of your search. Check your list of gyms and add up th
 Your journey has just begun!   
 
 There’s little stopping you from exploring other martial arts later, when your opportunities change.   
-
-
-
-
-
+  
+  
+  
+  
+  
+    
+      
+        
+          
 _Thanks to [@highstrider2254](https://twitter.com/highstrider2254) for test-reading._
 
