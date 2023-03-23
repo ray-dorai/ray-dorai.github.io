@@ -6,12 +6,12 @@ date: 2023-03-21
 
 So you’re interested in learning a martial art. Which one should you learn? Follow these steps and you’ll find something for you.   
 
-[Every Group is Different](#every-group-is-different)
-[What Do You Want From a Martial Art?](#what-do-you-want-from-a-martial-art?)
-[What Is Available Near You?](#what-is-available-near-you?)
-[Try As Many Gyms As You Can](#try-as-many-gyms-as-you-can)
-[Which Place has People You Enjoy Being Around?](#which-place-has-people-you-enjoy-being-around?)
-[Which Skill Do You Find the Most Fun?](#which-skill-do-you-find-the-most-fun?)
+[Every Group is Different](#every-group-is-different)  
+[What Do You Want From a Martial Art?](#what-do-you-want-from-a-martial-art?)  
+[What Is Available Near You?](#what-is-available-near-you?)  
+[Try As Many Gyms As You Can](#try-as-many-gyms-as-you-can)  
+[Which Place has People You Enjoy Being Around?](#which-place-has-people-you-enjoy-being-around?)  
+[Which Skill Do You Find the Most Fun?](#which-skill-do-you-find-the-most-fun?)  
 
 READING TIME: 7 minutes  
 
