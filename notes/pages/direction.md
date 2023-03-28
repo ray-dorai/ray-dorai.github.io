@@ -9,7 +9,7 @@
 				- I want to expand. This is the best-tested method of expansion.
 			- Social environment is prepared for someone who a billion can call on and find an answer. A home is being made for a multi-faceted, highly [[mobile]], swarmlike [[hunting]] [[culture]].
 			- 10 years.
-				- At least fifty thousand [[people]] with critical [[wants]] are being met through my actions.
+				- At least fifty thousand [[people]] with critical [[wants]] being met through my actions.
 				- Live [[Action]] Battle [[Arena]] is a fully-running [[sport]].
 				  collapsed:: true
 					- This is to [[seed]] an [[adaptable]] and [[mobile]] [[hunting]] [[mindset]] in the population.
@@ -20,7 +20,6 @@
 				  collapsed:: true
 					- This is to develop an intuition about what it takes to live.
 				- 5 years.
-				  collapsed:: true
 					- Combat playground running.
 						- This is to prepare for the Live [[Action]] Battle [[Arena]].
 					- Able to [[lift]] double bodyweight for most compound lifts.
@@ -29,9 +28,11 @@
 					- At least 3 amateur fights.
 					  collapsed:: true
 						- Need the experience to appeal to fighters and help launch the Live Action Battle Arena.
-					- [[Land]] to improve.
-					  collapsed:: true
+					- [[Land]] in an inconvenient environment to improve.
 						- Many methods like intercropping and using local, edible plants are not open if depending on the current ag system or working for someone else. So, we will need our own land to [[experiment]]. Socially, most places are hostile to improvement.
+						- An environment that is inconvenient aids in [[alignment]] of the people in that environment.
+							- Harsh [[places]] act as repellent for [[mask]]-fixations.
+								- Mask-fixations are the most common failure-mode for [[alignment]] in groups today.
 					- [[Fiction]] that is generating at least $2000 (adjusted for today's dollar) in [[sales]]/year.
 					  collapsed:: true
 						- Mastering appealing fiction will make it easier to write a unifying text later.
