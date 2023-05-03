@@ -4,12 +4,11 @@
 {
 font-family: IBM VGA 8x16;
 src: url('AcPlus_IBM_VGA_8x16-2x.ttf'),
-url('AcPlus_IBM_VGA_8x16-2x.ttf');
 }
 
 body {
     margin: 0 auto;
-    font-family: 'IBM VGA 8x16', sans-serif;
+    font-family: 'IBM VGA 8x16', serif;
     font-size: smaller;
     width: 30%;
     line-height: 1;
