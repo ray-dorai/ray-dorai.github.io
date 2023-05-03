@@ -1,9 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Sen&family=Source+Code+Pro&display=swap');
 
+  @font-face
+{
+font-family: IBM VGA 8x16;
+src: url('AcPlus_IBM_VGA_8x16-2x.ttf'),
+url('AcPlus_IBM_VGA_8x16-2x.ttf');
+}
 
 body {
     margin: 0 auto;
-    font-family: 'Sen', sans-serif;
+    font-family: 'IBM VGA 8x16', sans-serif;
     font-size: smaller;
     width: 30%;
     line-height: 1;
