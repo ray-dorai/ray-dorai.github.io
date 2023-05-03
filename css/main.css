@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1+Code:wght@500&family=Source+Code+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sen&family=Source+Code+Pro&display=swap');
 
 
 body {
     margin: 0 auto;
-    font-family: 'Source Code Pro', monospace;
+    font-family: 'Sen', sans-serif;
     font-size: smaller;
     width: 30%;
     line-height: 1;
