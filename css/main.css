@@ -38,6 +38,12 @@ h1 {
     max-width: 50vw;
     color: #008686;
 }
+h2 {
+    color: #D0AE00;
+}
+h3 {
+    color: #D0AE00;
+}
 p {
     font-size: 1.5em;
     line-height: 1.4em;
