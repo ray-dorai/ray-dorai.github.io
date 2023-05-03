@@ -3,7 +3,7 @@
   @font-face
 {
 font-family: "IBM VGA 8x16";
-src: url("../assets/fonts/AcPlus_IBM_VGA_8x16-2x.ttf"),
+src: url("https://github.com/ray-dorai/ray-dorai.github.io/blob/master/assets/fonts/AcPlus_IBM_VGA_8x16-2x.ttf"),
 }
 
 body {
