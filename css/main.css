@@ -14,11 +14,11 @@ body {
 }
 
 nav ul, footer ul {
-    font-family: 'M PLUS 1 Code', sans-serif;
+    font-family: 'Source Code Pro', monospace;
     padding: 1px;
     list-style: none;
-    font-weight: bold;
 }
+
 nav ul li, footer ul li {
     display: grid;
     margin-right: 20px;
@@ -32,7 +32,7 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family: 'M PLUS 1 Code', sans-serif;
+    font-family: 'Source Code Pro', monospace;
     text-align: center;
     max-width: 50vw;
     color: #DEE063;
