@@ -7,10 +7,10 @@ body {
     font-size: smaller;
     width: 30%;
     line-height: 1;
-    color: #444;
+    color: #FFFFFF;
     padding-left:0.3em;
     padding-right:0.3em;
-    background-color: black;
+    background-color: #000000;
 }
 
 nav ul, footer ul {
