@@ -4,7 +4,7 @@ title: "Manners for the Masquerade"
 date: 2023-08-15
 ---
 
-**This article is co-authored with [AbstractFairy](https://abstractfairy.brick.do/).**
+**Co-authored with [AbstractFairy](https://abstractfairy.brick.do/).**
 
   
 
