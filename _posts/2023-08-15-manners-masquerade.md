@@ -6,6 +6,8 @@ date: 2023-08-15
 
 **This article is co-authored with [AbstractFairy](https://abstractfairy.brick.do/).**
 
+  
+
 Maybe you’ve seen this comic by [Kevin Simler](https://meltingasphalt.com/personhood-a-game-for-two-or-more-players/).  
 
 ![Kevin Simler's Personhood Comic](https://github.com/ray-dorai/ray-dorai.github.io/blob/master/assets/simler_personhood_comic.png?raw=true)
