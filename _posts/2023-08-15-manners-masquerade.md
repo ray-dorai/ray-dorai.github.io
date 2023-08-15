@@ -4,7 +4,7 @@ title: "Manners for the Masquerade"
 date: 2023-08-15
 ---
 
-Maybe you’ve seen this comic by Kevin Simler.  
+Maybe you’ve seen this comic by [Kevin Simler](https://meltingasphalt.com/personhood-a-game-for-two-or-more-players/).  
 
 ![Kevin Simler's Personhood Comic](https://github.com/ray-dorai/ray-dorai.github.io/blob/master/assets/simler_personhood_comic.png?raw=true)
 
@@ -61,5 +61,5 @@ If we want to get things over a long timescale, we will want people to learn how
 
 ## What You Get  
 
-The better you make people look (while staying honest with reality), the more inclined they will be to help you out. A lot of this may never become conscious, and gets called ‘luck’ in hindsight. Strong weak ties are immensely valuable, and the primary reason why content is not the most important factor in spreading an idea (including the idea of your competence). So if you work for a multinational and want a transfer to another country, or a better job that will take you somewhere that will challenge your skills, make people look good! The good will come back to you eventually, in ways you will almost never predict!  
+The better you make people look (while staying honest with reality), the more inclined they will be to help you out. A lot of this may never become conscious, and gets called ‘luck’ in hindsight. Strong [weak ties are immensely valuable](https://ide.mit.edu/wp-content/uploads/2022/09/abl4476.pdf), and the [primary reason](https://barabasi.com/book/the-formula) why content is not the most important factor in spreading an idea (including the idea of your competence). So if you work for a multinational and want a transfer to another country, or a better job that will take you somewhere that will challenge your skills, make people look good! The good will come back to you eventually, in ways you will almost never predict!  
 
