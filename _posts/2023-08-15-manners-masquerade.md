@@ -34,6 +34,7 @@ These are not just marketing firms, either- consider the value an exceptional re
 We can call these kinds of reputation laundering ‘mask production & maintenance’. If there’s something you want that’s far away, learning how to make and maintain masks for people will help you get what you want- no matter what culture you’re in.  
 
 ![Kathy Sierra's 'Making Users Awesome'](https://github.com/ray-dorai/ray-dorai.github.io/blob/master/assets/kathy_sierra_badass_users.png?raw=true)
+From Kathy Sierra's 'Badass: Making Users Awesome'.
 
 ## Mask Repair as Party Favor  
 
