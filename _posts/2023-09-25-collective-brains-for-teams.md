@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Collective Brains for Teams"
+title: "Note-taking for Teams"
 date: 2023-09-25
 ---
 
