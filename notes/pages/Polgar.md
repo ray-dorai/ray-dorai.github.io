@@ -1,0 +1,18 @@
+- Polgar wanted to prove nurture > nature.
+- Aim for the peak, not the average.
+- How to awaken the child's interests?
+- Praise them for doing that which will help them learn to accomplish the goal.
+- "Every [[child]] is a promise".
+- "It is very important that the [[child]] likes what they are doing; only then will it be possible to inspire a long period of fruitful labor."
+- An interested child spends less [[energy]] while gaining more [[competence]].
+- Create a situation where the lived experience of success is much better than the experience of failure.
+- [[Stress]] makes children less [[calm]].
+- [[Success]] in one area increases a desire to succeed in other areas.
+- Experience of [[winning]] lowers the time needed to do things later.
+- [[Winning]] makes the [[mind]] more [[flexible]].
+- After losing, there is rigidity.
+- For praise, only accurate estimation works well. Praise them too much, and it can be damaging to skill. Praise them too little, and it will be damaging to skill.
+- The point of [[praise]] is to kindle an inner fire to succeed. Relying on external praise results in following a form of a snapshot of success. Doing things for internal desire is more reliable.
+- "The warmth of a sure level of understanding."
+- [[Discipline]] comes from liking the [[goal]], not from external [[punishment]].
+- “The intensity of a child’s [[attention]] is not only not less, but even greater than that of an adult.”

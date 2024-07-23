@@ -1,0 +1,16 @@
+- JG African Ranger Boots - "minimalist, barefoot, felt like wearing nothing after wearing Danner Tachyons, resolable"
+- Africa, a biography of a continent - "I read it twice".
+- First Man in Rome: "McCullough reflected that writing this novel was difficult because the period’s records and histories were so spotty compared to the Republic’s final decades. Her story continues over six further books"
+- The  Incas: "But this massive book is also a work of archaeology and anthropology. Peters delves deep into Andean culture to lay the scene and bring to life his protagonists’ world...a fascinating window on an alien world; civilization without a connection to Greece, Rome, India or China."
+- The Covenant: "seems to begin in prehistoric southern Africa, but soon you realize that James Michener is unspooling the story of South Africa"
+- Emma:
+	- price per unit and "is there free shipping",
+	- when the unit has dimensions in the title,
+	- the material used,
+	- packages/bundles,
+	- custom table runner allowed for the display of the customization as a little app on Amazon itself with three clicks,
+	- Cuisinart- backwards compatibility,
+	- Calibaut chocolate has a "fluidity" rating and packaging says what each fluidity level is good for- essentially graphical documentation for use of the product,
+- MHW-3BOMBER Manual Milk frother: other coffee-related items from the same brand had good reviews, and videos appeared to market toward coffee nerd niche, "stainless steel" because the glass frother broke (and purchase was a reaction to that)
+- Google Pixel 4a - long battery life for new, size (smaller than 6inches)
+  Allen Edmond's Cedar Wood Shoe Tree - "Adjustable toe design makes it perfect for extra wide...feet" also "cedar"
