@@ -6,9 +6,13 @@ date: 2024-08-14
 
 About eight months ago, I woke up with a pain in my throat that felt like strep throat.   
   
-It burned and seemed to radiate from my chest. I guess I just discovered heartburn, but I didn't know it. I went to the doctor for the first time in years, trying to make sure that it wasn't something more serious. I ruled out fungal or bacterial infections.  
+It burned and seemed to radiate from my chest. I had just discovered heartburn, but I didn't know it. I went to the doctor for the first time in years.
+
+Was it something serious?
   
 I even rinsed my throat with clotrimazole. 
+
+Finally, we ruled out fungal and bacterial infections.  
   
 Only to discover it was _just_ indigestion.  
   
