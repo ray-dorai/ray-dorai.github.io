@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Freed from Heartburn'"
+title: "Freed from Heartburn"
 date: 2024-08-14
 ---
 
