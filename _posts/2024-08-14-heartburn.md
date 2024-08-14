@@ -60,7 +60,9 @@ I had a single clue.
   
 ## An Ancient Solution 
   
-That clue was kimchi. You would think that kimchi would be horrible for heartburn, but not for mine.  
+Kimchi.  
+  
+You would think that spicy kimchi would be horrible for heartburn, but not for mine.  
   
 Every time I ate kimchi, my poops came out thick and smooth.  
   
