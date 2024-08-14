@@ -48,7 +48,7 @@ And even if you were to choose one of those probiotics, how would you know it wo
   
 I know many people are reliant on things like insulin or nitroglycerin but to me, becoming reliant on something like that would definitely affect my perception of how close I am to mortality. I've always prized the ability to go anywhere and do anything for a little bit, you know, for at least a couple weeks or months.  
   
-The thought of going to a poor country with a very different microbiome and having to take pills  just to get through a meal was not one I enjoyed.  
+The thought of going to a poor country with a very different microbiome and having to take pills just to get through a meal was not one I enjoyed.  
   
 So I thought about what people used to do and what the general idea of probiotics is. We know that with industrial monoculture farming, a lot of what we eat misses a few things. We've extracted one aspect of the food, maybe the sugars or something like that, and ignored all the rest.  
   
