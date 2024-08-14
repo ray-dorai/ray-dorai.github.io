@@ -28,7 +28,7 @@ But maybe not. Maybe there was a _solution_.
 [An Ancient Solution](#an-ancient-solution)    
 [3 Fermented Foods](#3-fermented-foods)    
   
-READING TIME: 11 minutes
+READING TIME: 6 minutes
 
 ## The Problem with Probiotic Supplements   
 
