@@ -14,12 +14,6 @@
   font-style: normal;
 }
 
-.literata-fonter {
-  font-family: "Literata", serif;
-  font-optical-sizing: auto;
-  font-weight: 450;
-  font-style: normal;
-}
 
 .responsive {
   max-width: 100%;
@@ -28,7 +22,7 @@
 
 body {
     margin: 0 auto;
-    font-family: 'Literata';
+    font-family: 'IBM VGA 8x16';
     font-size: smaller;
     width: 30%;
     line-height: 1;
