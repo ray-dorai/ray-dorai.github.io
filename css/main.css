@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Sen&family=Source+Code+Pro&display=swap');
 
 @font-face {
-  font-family: 'Luciole Regular';
+  font-family: 'Luciole';
   src: url(Luciole-Regular.ttf) format('ttf');
   font-weight: normal;
   font-style: normal;
@@ -30,7 +30,7 @@
 
 body {
     margin: 0 auto;
-    font-family: 'Luciole Regular';
+    font-family: 'Luciole';
     font-size: smaller;
     width: 30%;
     line-height: 1;
