@@ -1,0 +1,27 @@
+---
+layout: default
+title: Word Checker
+---
+
+<div id="word-checker-root"></div>
+
+<!-- Load React -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/react/18.2.0/umd/react.production.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.2.0/umd/react-dom.production.min.js"></script>
+
+<!-- Load Tailwind -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.js"></script>
+
+<!-- Load Babel for JSX -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/7.23.5/babel.min.js"></script>
+
+<!-- Load our React component -->
+<script type="text/babel" src="{{ site.baseurl }}/assets/js/word-checker.js"></script>
+
+<script type="text/babel">
+  // Initialize the React component
+  ReactDOM.render(
+    <WordChecker />,
+    document.getElementById('word-checker-root')
+  );
+</script>
