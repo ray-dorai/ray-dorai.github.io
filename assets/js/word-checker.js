@@ -1,19 +1,22 @@
-import React, { useState, useRef, useCallback } from 'react';
+const WordChecker = ({ wordsPath }) => {
+  const [isLoading, setIsLoading] = React.useState(true);
+  const [error, setError] = React.useState(null);
+  const [wordCount, setWordCount] = React.useState(0);
+  const [isProcessing, setIsProcessing] = React.useState(false);
+  
+  const wordsRef = React.useRef(null);
+  const editorRef = React.useRef(null);
+  const markTimer = React.useRef(null);
 
-const WordChecker = () => {
-  const wordsRef = useRef(null);
-  const editorRef = useRef(null);
-  const markTimer = useRef(null);
-  const [isProcessing, setIsProcessing] = useState(false);
-  const [isLoading, setIsLoading] = useState(true);
-  const [error, setError] = useState(null);
-
-  // Simple stemmer
-  const stem = useCallback((word) => {
+  // Simple stemmer with common English suffixes
+  const stem = React.useCallback((word) => {
     word = word.toLowerCase();
-    if (word.endsWith('ing')) return word.slice(0, -3);
-    if (word.endsWith('ed')) return word.slice(0, -2);
-    if (word.endsWith('s')) return word.slice(0, -1);
+    const suffixes = ['ing', 'ed', 's', 'es', 'ly', 'er', 'est'];
+    for (const suffix of suffixes) {
+      if (word.endsWith(suffix)) {
+        return word.slice(0, -suffix.length);
+      }
+    }
     return word;
   }, []);
 
@@ -39,18 +42,15 @@ const WordChecker = () => {
           }
         }
 
-        // Create new WordSet instance
         wordsRef.current = new WordSet();
         
-        // Fetch the word list file from your repository
-        const response = await fetch('{{ site.baseurl }}/assets/words/1000-most-common-words.txt');
+        // Fetch words from the provided path
+        const response = await fetch(wordsPath);
         if (!response.ok) throw new Error('Failed to load word list');
         
         const text = await response.text();
-        // Split on newlines and filter out empty lines
         const words = text.split('\n').filter(word => word.trim());
         
-        // Add words to our set
         wordsRef.current.add(words);
         setIsLoading(false);
       } catch (err) {
@@ -61,9 +61,9 @@ const WordChecker = () => {
     };
 
     loadWords();
-  }, [stem]);
+  }, [wordsPath, stem]);
 
-  const markWords = useCallback(() => {
+  const markWords = React.useCallback(() => {
     if (markTimer.current) clearTimeout(markTimer.current);
     if (isProcessing || !wordsRef.current) return;
 
@@ -86,13 +86,16 @@ const WordChecker = () => {
         }
         root.normalize();
         
-        // Mark unknown words
+        // Count words and mark unknown ones
+        let totalWords = 0;
         let node;
         const wordReg = /\b\w+\b/g;
+        
         while ((node = walker.nextNode())) {
           let match;
           const text = node.textContent;
           while ((match = wordReg.exec(text)) !== null) {
+            totalWords++;
             const word = match[0];
             if (!wordsRef.current.has(word)) {
               try {
@@ -108,16 +111,28 @@ const WordChecker = () => {
             }
           }
         }
+        
+        setWordCount(totalWords);
       } finally {
         setIsProcessing(false);
       }
     }, 250);
   }, [isProcessing, stem]);
 
+  // Loading spinner component
+  const Spinner = () => (
+    <svg className="animate-spin h-5 w-5" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+      <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
+      <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+    </svg>
+  );
+
   if (error) {
     return (
       <div className="max-w-2xl mx-auto p-4">
-        <div className="text-red-500">{error}</div>
+        <div className="bg-red-50 border border-red-200 rounded p-4 text-red-600">
+          {error}
+        </div>
       </div>
     );
   }
@@ -126,26 +141,37 @@ const WordChecker = () => {
     <div className="max-w-2xl mx-auto p-4 space-y-4">
       <div className="flex gap-4 items-center">
         <h1 className="text-2xl font-bold">Simple Writing Checker</h1>
+        {isProcessing && (
+          <Spinner />
+        )}
       </div>
+      
       {isLoading ? (
-        <div className="text-gray-500">Loading word list...</div>
+        <div className="flex items-center gap-2 text-gray-500">
+          <Spinner />
+          Loading word list...
+        </div>
       ) : (
         <>
           <div
             ref={editorRef}
             contentEditable
             onInput={markWords}
-            className="min-h-48 p-4 border rounded focus:outline-none whitespace-pre-wrap bg-white"
+            className="min-h-48 p-4 border rounded focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent whitespace-pre-wrap bg-white"
             placeholder="Type here..."
           />
-          <div className="text-sm text-gray-500">
-            Words not in the 1000 most common English words will be marked with a red underline.
-            Hover over marked words to see their base form.
+          
+          <div className="flex justify-between items-center text-sm text-gray-600">
+            <div>
+              Words not in the 1000 most common English words will be marked with a red underline.
+              Hover over marked words to see their base form.
+            </div>
+            <div className="font-medium">
+              Words: {wordCount}
+            </div>
           </div>
         </>
       )}
     </div>
   );
 };
-
-export default WordChecker;
