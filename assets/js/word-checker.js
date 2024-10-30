@@ -38,38 +38,67 @@ const WordChecker = ({ wordsPath }) => {
       
       try {
         const root = editor.current;
-        root.normalize();
+        const selection = window.getSelection();
+        const range = selection.getRangeAt(0);
+        const cursorOffset = range.startOffset;
+        const cursorNode = range.startContainer;
+        
+        // Store text content before clearing marks
+        const allText = root.textContent;
         
         // Clear existing marks
         root.querySelectorAll('.word-mark').forEach(mark => {
           mark.replaceWith(document.createTextNode(mark.textContent));
         });
+        root.normalize();
         
+        // Count words and find unknown ones
         let wordCount = 0;
-        const text = root.textContent;
+        const text = allText;
         const regex = /\b\w+\b/g;
         let match;
+        const unknownWords = [];
         
         while ((match = regex.exec(text)) !== null) {
           wordCount++;
           const word = match[0].toLowerCase();
-          
           if (!words.current.has(word)) {
-            const range = document.createRange();
-            const textNode = [...root.childNodes].find(node => 
-              node.nodeType === Node.TEXT_NODE && 
-              node.textContent.includes(match[0])
-            );
+            unknownWords.push({
+              word: match[0],
+              index: match.index,
+              length: match[0].length
+            });
+          }
+        }
+        
+        // Mark unknown words from end to start to preserve text positions
+        for (let i = unknownWords.length - 1; i >= 0; i--) {
+          const { word, index, length } = unknownWords[i];
+          const textNode = root.firstChild;
+          
+          if (textNode && textNode.nodeType === Node.TEXT_NODE) {
+            const markRange = document.createRange();
+            markRange.setStart(textNode, index);
+            markRange.setEnd(textNode, index + length);
             
-            if (textNode) {
-              const start = textNode.textContent.indexOf(match[0]);
-              range.setStart(textNode, start);
-              range.setEnd(textNode, start + match[0].length);
-              
-              const mark = document.createElement('span');
-              mark.className = 'word-mark border-b-2 border-red-500';
-              range.surroundContents(mark);
-            }
+            const mark = document.createElement('span');
+            mark.className = 'word-mark border-b-2 border-red-500';
+            markRange.surroundContents(mark);
+          }
+        }
+        
+        // Restore cursor position
+        if (cursorNode) {
+          const newRange = document.createRange();
+          const newNode = root.firstChild;
+          
+          if (newNode) {
+            const offset = Math.min(cursorOffset, newNode.textContent.length);
+            newRange.setStart(newNode, offset);
+            newRange.setEnd(newNode, offset);
+            
+            selection.removeAllRanges();
+            selection.addRange(newRange);
           }
         }
         
