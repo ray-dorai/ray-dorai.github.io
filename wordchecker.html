@@ -3,36 +3,13 @@ layout: default
 title: Word Checker
 ---
 
-<!-- Word Checker App Container -->
-<div id="word-checker-app-root" class="my-8">
-</div>
+<div id="word-checker-app-root"></div>
 
-<!-- Load Dependencies -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/react/18.2.0/umd/react.production.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.2.0/umd/react-dom.production.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/7.23.5/babel.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.js"></script>
 
-<!-- Styles for word marking -->
-<style>
-  .word-mark {
-    transition: border-color 0.2s ease;
-  }
-  .word-mark:hover {
-    border-color: #ef4444;
-  }
-  
-  [contenteditable]:empty:before {
-    content: attr(placeholder);
-    color: #9ca3af;
-    font-style: italic;
-  }
-</style>
-
-<!-- Load the word checker component -->
 <script type="text/babel" src="{{ site.baseurl }}/assets/js/word-checker.js"></script>
-
-<!-- Initialize the app -->
 <script type="text/babel">
   ReactDOM.render(
     <WordChecker wordsPath="{{ site.baseurl }}/assets/words/1000-most-common-words.txt" />,
