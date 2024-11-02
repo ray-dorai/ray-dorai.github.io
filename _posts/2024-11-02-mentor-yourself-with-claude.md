@@ -14,7 +14,7 @@ And there's a sense in which you still need to do that. But you can get started 
 [Example Checks](#example-checks)  
 [Bonus Pantheon](#bonus-pantheon)
   
-READING TIME: 15 minutes
+READING TIME: 13 minutes
 
 ## Getting Started  
 
