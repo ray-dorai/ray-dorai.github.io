@@ -4,7 +4,11 @@ title: "How to Mentor Yourself with Claude"
 date: 2024-11-02
 ---
 
-Previously, I wrote about [How to Mentor Yourself](https://raydoraisamy.com/blog/2023/03/10/how-to-mentor-yourself). LLMs have changed things. Made things more convenient. I talked about how if you picked a mentor from history, you would need to do a lot of reading. Really dive deep into the context of their times.  
+Previously, I wrote about [How to Mentor Yourself](https://raydoraisamy.com/blog/2023/03/10/how-to-mentor-yourself).  
+  
+LLMs have changed things.  
+  
+Made things more convenient. I talked about how if you picked a mentor from history, you would need to do a lot of reading. Really dive deep into the context of their times.  
   
 And there's a sense in which you still need to do that. But you can get started in an interactive way with AI.    
   
