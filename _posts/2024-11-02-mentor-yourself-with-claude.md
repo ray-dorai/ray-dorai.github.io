@@ -12,15 +12,15 @@ Made things more convenient. I talked about how if you picked a mentor from hist
   
 And there's a sense in which you still need to do that. But you can get started in an interactive way with AI.    
   
-[Getting Started](#getting-started)    
-[Learning from Teachers](#learning-from-teachers)    
+[Roleplay?](#roleplay?)    
+[Getting Coached](#getting-coached)    
 [Using Claude](#using-claude)    
 [Example Checks](#example-checks)  
 [Bonus Pantheon](#bonus-pantheon)
   
 READING TIME: 13 minutes
 
-## Getting Started  
+## Roleplay?
 
 I've been keeping up with all the over-the-counter options.  
   
@@ -30,7 +30,7 @@ That is still somewhat fraught. For example, if you ask it to take on the person
 
 A faster thing you can do is ask it about *what your historical-figure-mentors might have been paying attention to when they were doing the thing that you admire them for doing*.  
 
-## Learning from Teachers  
+## Getting Coached 
 
 I've noticed, traveling all over the world and learning from different grappling coaches, that one of the most difficult things to get out of someone is what they're actually paying attention to. Maybe because the skills for explanation are not necessarily tied to the skills for winning competitions and so on.  
   
