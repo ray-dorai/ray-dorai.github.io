@@ -44,9 +44,11 @@ But then we can even go beyond that to how you evaluate your training, *how you 
   
 So, we might ask a coach something like: "How do you know when you've done it correctly?" And this is where some coaches will have trouble. It'll just be like, "Oh it just feels good."  
   
-I remember when I was in basic training. I was the runt of the pack, so to speak. I asked my buddy— one of the fittest guys there— "How do you run? How do you run effectively?" At the time, I was horrible. He said, "You just put one foot in front of the other."  
+I remember when I was in basic training. I was the runt of the pack, so to speak. I asked my buddy— one of the fittest guys there— "How do you run? How do you run effectively?"  
   
-There is a Zen quality to that. But also—what were you actually paying attention to, dude?  
+He said, "You just put one foot in front of the other."  
+  
+There is a Zen quality to that. But also—what were you actually paying attention to, my dude?  
   
 Years of running long distance later, I can say that what I'm usually paying attention to is the horizon. Where you want to go.  
   
