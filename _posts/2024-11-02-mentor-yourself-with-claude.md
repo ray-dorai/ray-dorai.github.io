@@ -28,7 +28,7 @@ For the moment, Claude most readily takes on other personalities.
   
 That is still somewhat fraught. For example, if you ask it to take on the personality of a skilled Native American or Australian Aboriginal tracker, it will usually refuse due to ethical concerns about representation and cultural appropriation. And so, ironically, the people who are marginalized will be harder for you to learn from. If you enjoy convincing Claude in every new chat, you may, but that's quite a lot of time spent.  
 
-A faster thing you can do is ask it about what your historical-figure-mentors might have been paying attention to when they were doing the thing that you admire them for doing.  
+A faster thing you can do is ask it about *what your historical-figure-mentors might have been paying attention to when they were doing the thing that you admire them for doing*.  
 
 ## Learning from Teachers  
 
