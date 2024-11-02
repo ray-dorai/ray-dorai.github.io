@@ -36,7 +36,7 @@ I've noticed, traveling all over the world and learning from different grappling
   
 But you still get that picture, that the real thing you have to learn from a teacher is not their exact way of doing things.  
   
-It's what they're paying attention to.   
+**It's what they're paying attention to.**   
   
 I'm sure many people have heard about paying attention to the solar plexus of your opponent, when boxing. And using touch and vibrations to pay attention to their limbs. But your eyes, you know, *you put that on the solar plexus*.  
    
