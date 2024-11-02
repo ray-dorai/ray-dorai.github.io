@@ -18,7 +18,9 @@ READING TIME: 13 minutes
 
 ## Getting Started  
 
-I've been keeping up with all the over-the-counter options. And Claude seems to be the one that for the moment most readily takes on other personalities, when you ask it to.  
+I've been keeping up with all the over-the-counter options.  
+  
+For the moment, Claude most readily takes on other personalities.  
   
 That is still somewhat fraught. For example, if you ask it to take on the personality of a skilled Native American or Australian Aboriginal tracker, it will usually refuse due to ethical concerns about representation and cultural appropriation. And so, ironically, the people who are marginalized will be harder for you to learn from. If you enjoy convincing Claude in every new chat, you may, but that's quite a lot of time spent.  
 
