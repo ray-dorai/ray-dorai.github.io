@@ -98,8 +98,6 @@ He was obsessed with realistic training, tactical competence, and unit readiness
   
 ### Napoleon  
   
-**Prompt:** Napoleon?  
-  
 **Response:**  
 "What time is it?"  
   
@@ -111,8 +109,6 @@ This extended from tactical to strategic levels - he was known to keep exhaustiv
   
 ### LBJ  
   
-**Prompt:** LBJ?  
-  
 **Response:**  
 "Who owes who?"  
   
@@ -121,8 +117,6 @@ LBJ's constant focus was on the web of obligations, favors, and leverage between
 *--Checks out--*  
   
 ### Rommel  
-  
-**Prompt:** Erwin Rommel?  
   
 **Response:**  
 "Where is the enemy weakest right now?"  
@@ -135,8 +129,6 @@ His nickname "The Desert Fox" came from this predatory instinct for finding and 
   
 ### Sir William Slim  
   
-**Prompt:** Sir William Slim?  
-  
 **Response:**  
 "How does this benefit my soldier in the mud?"  
   
@@ -148,8 +140,6 @@ He was known for saying that leadership was fundamentally about raising and sust
   
 ### LKY  
   
-**Prompt:** LKY?  
-  
 **Response:**  
 "What is the cold, hard reality - stripped of all wishful thinking - and how do we deal with it?"  
   
@@ -160,8 +150,6 @@ His success in building Singapore came largely from this uncompromising focus on
 *--This seems fuzzier to me- I'm not sure about this one--*  
   
 ### Oliver Sacks  
-  
-**Prompt:** Oliver Sacks?  
   
 **Response:**  
 "What is it like to be this person, in their own inner world?"  
