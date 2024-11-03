@@ -189,14 +189,10 @@ It's as if he was always asking: "Have I shown not the feeling itself, but the m
   
 ### Chad Stahelski  
   
-**Prompt:** What about Chad Stahelski?  
-  
 **Response:**  
 "Does this preserve momentum?"  
   
 ### Digic Pictures  
-  
-**Prompt:** What about Digic Pictures?  
   
 **Response:**  
 Digic Pictures, as a high-end animation studio specializing in game cinematics and trailers, seems to evaluate their work through the lens of "Does this feel weighty?"  
@@ -206,8 +202,6 @@ Their signature style, especially visible in work for games like Assassin's Cree
 The single question they might be asking for each shot could be: "Can you feel the mass?" Whether it's a character landing from a height, a sword connecting with armor, or a cape billowing in wind, they seem to judge their success by whether they've conveyed the proper sense of physical weight and material properties. You can see this especially in how they handle cloth simulation and character movement - there's always a clear sense of gravity and inertia at work.  
   
 ### Jackie Chan  
-  
-**Prompt:** Jackie Chan?  
   
 **Response:**  
 "Can the audience follow this?"  
@@ -222,42 +216,30 @@ Unlike many action directors who might ask "Is this impressive enough?", Chan se
   
 ### Michael Mann  
   
-**Prompt:** Michael Mann?  
-  
 **Response:**  
 "Is this atmospheric distillation authentic?"  
   
 ### Jeremy Saulnier  
   
-**Prompt:** Jeremy Saulnier?  
-  
 **Response:**  
 "Is this as clumsy and desperate as it would really be?"  
   
-### Robert Eggers  
-  
-**Prompt:** Robert Eggers?  
+### Robert Eggers   
   
 **Response:**  
 "Does this feel like a recovered artifact?"  
   
 ### Alex Garland  
   
-**Prompt:** Alex Garland?  
-  
 **Response:**  
 "Is this capturing the exact moment when comprehension breaks?"  
   
 ### Werner Herzog  
   
-**Prompt:** Werner Herzog?  
-  
 **Response:**  
 "Is this touching the ecstatic truth?"  
   
 ### Nicolas Wending Refn  
-  
-**Prompt:** Nicolas Wending Refn?  
   
 **Response:**  
 "Is this moment suspended enough to become myth?"  
@@ -266,84 +248,60 @@ Unlike many action directors who might ask "Is this impressive enough?", Chan se
 
 ### Lee "Flash" Young Ho  
   
-**Prompt:** Lee "Flash" Young Ho  
-  
 **Response:**  
 "What move seizes position in the most lasting way?"  
   
 ### n0tail  
-  
-**Prompt:** n0tail  
   
 **Response:**  
 "What's the actual state of the game right now, not what anyone thinks it is?"  
   
 ### Alexander the Great  
   
-**Prompt:** Alexander the Great?  
-  
 **Response:**  
 "How much further can we go?"  
   
 ### Genghis Khan  
-  
-**Prompt:** Genghis Khan?  
   
 **Response:**  
 "Are the people united or divided?"  
   
 ### Akbar the Great  
   
-**Prompt:** Akbar the Great?  
-  
 **Response:**  
 "How can these differences serve unity?"  
   
 ### Cyrus the Great  
-  
-**Prompt:** Cyrus the Great?  
   
 **Response:**  
 "What would earn their loyalty?"  
   
 ### Shi Huang Di  
   
-**Prompt:** Shi Huang Di?  
-  
 **Response:**  
 "Is it uniform yet?"  
   
 ### Walt Disney  
-  
-**Prompt:** Walt Disney?  
   
 **Response:**  
 "Will this delight them?"  
   
 ### Lionel Messi  
   
-**Prompt:** Lionel Messi?  
-  
 **Response:**  
 "Where's the gap?"  
   
 ### Leonardo Da Vinci  
-  
-**Prompt:** Leonardo Da Vinci?  
   
 **Response:**  
 "How does it flow?"  
   
 ### Abe Silverstein  
   
-**Prompt:** Abe Silverstein?  
-  
 **Response:**  
 "Can we control fire better?"  
   
 ### Ludwig Van Beethoven  
-  
-**Prompt:** Ludwig Van Beethoven?  
   
 **Response:**  
 "Did that move them?"
