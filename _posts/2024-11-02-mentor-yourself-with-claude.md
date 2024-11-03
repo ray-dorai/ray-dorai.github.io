@@ -48,17 +48,17 @@ I remember when I was in basic training. I was the runt of the pack, so to speak
   
 He said, "You just put one foot in front of the other."  
   
-There is a Zen quality to that. But also—what were you actually paying attention to, my dude?  
+There is a Zen quality to that. But also— what were you actually paying attention to, my dude?  
   
 Years of running long distance later, I can say that what I'm usually paying attention to is the horizon. Where you want to go.  
   
-And when I run really well, it was beyond the horizon, right? Like the horizon— a single tiny point on the horizon— was where I was going physically. But simultaneously, I'd be paying attention to the future, what my vision for the future was. And I found that that's when I did my best.  
+And when I ran really well, it was beyond the horizon, right? Like the horizon— a single tiny point on the horizon— was where I was going physically. But simultaneously, I'd be paying attention to the future, what my vision for the future was. And I found that that's when I did my best.  
   
 But when you talk to experts of various kinds, it's often hard to get this out of them.  
   
-Alot of times, you have to have the skill of letting the coach, the instructor, open up to share with you what they pay attention to.  
+A lot of times, you have to have the skill of letting the coach open up to share with you what they pay attention to.  
   
-That's a separate skill actually, from whatever skill they might be using.  
+That's a separate skill, actually, from whatever skill they might be teaching.  
   
 The skill of paying attention to your own attention. Not everyone has that skill. On top of that, the mentors we talked about in our last exploration of this are mostly not accessible.  
   
@@ -74,7 +74,7 @@ AIs like to tell you like, "oh not everything we do is accurate, you have to che
   
 That's actually true for everyone, right?  
   
-What we're doing here is you're getting information= just like you would from another person. Just like you would get information from a mentor.  
+What we're doing here is you're getting information- just like you would from another person.   
   
 You have to check it against your own experience. Your own attempts, your own trials, and failures.  
   
