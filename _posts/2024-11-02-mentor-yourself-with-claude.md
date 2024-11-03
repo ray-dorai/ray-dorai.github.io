@@ -74,7 +74,7 @@ AIs like to tell you like, "oh not everything we do is accurate, you have to che
   
 That's actually true for everyone, right?  
   
-What we're doing here is you're getting information- just like you would from another person.   
+What we're doing here is gathering information- just like you would from another person.   
   
 You have to check it against your own experience. Your own attempts, your own trials, and failures.  
   
