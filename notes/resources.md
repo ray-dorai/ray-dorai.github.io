@@ -1,0 +1,3 @@
+- Where are [[needs]] not being met?
+- Where is [[wealth]] or [[talent]] [[wasted]]?
+- What [[systems]] are failing to connect [[abundance]] with [[scarcity]]?

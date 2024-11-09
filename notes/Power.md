@@ -1,0 +1,18 @@
+- What legitimatized [[authority]] is missing?
+- What [[groups]] lack [[leaders]]?
+- What [[problems]] have no [[owner]]?
+- [[Tomorrow]] will be dictated by those who [[control]]:
+  collapsed:: true
+	- Digital [[identity]] [[verification]].
+	- Quantum [[computing]] access.
+		- Who controls the first [[strong]] [[oracle]].
+		- Who can break [[cryptography]] first.
+		- Who can protect [[communication]] first.
+		- Who can [[scale]] it industrially.
+		- Super [[compute]] [[time]].
+		- [[Truth]] detection.
+	- [[Orbit]].
+	- [[Data]] lake access.
+	- [[Biotech]].
+	- [[Geoengineering]].
+	- [[Neural]] [[links]].
