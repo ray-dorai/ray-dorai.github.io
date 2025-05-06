@@ -6,7 +6,7 @@ date: 2025-04-26
 
 Where once companies relied on physical servers in office closets, they've moved to co-located data centers and now increasingly to cloud services.  
   
-In the vanguard of this evolution is an industry veteran who has witnessed these changes firsthand.  
+In the vanguard of this evolution is [@_its_not_real_](https://x.com/_its_not_real_), who has witnessed these changes firsthand.  
   
 Maybe the industry had an advantage from practical necessity, but between infrastructure challenges, regulatory pressures, and optimization needs, the way people manage industrial software systems has been changing. Recently, even traditionally conservative control systems are adapting to distributed computing models.  
   
