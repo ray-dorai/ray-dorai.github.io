@@ -249,11 +249,11 @@ A Mixed Martial Artist was just someone from a particular lineage who was intere
 It's this culture of exchange that gives people power over others. And you know what? _You can't fake it._  
   
 I bet this is the real advantage, every time:  
-Units that train together constantly  
-Troops who can think on their feet  
-Leaders who aren't afraid to share information  
-Battle practiced until it's second nature  
-Rock hard pride from competition  
+-Units that train together constantly  
+-Troops who can think on their feet  
+-Leaders who aren't afraid to share information  
+-Battle practiced until it's second nature  
+-Rock hard pride from competition  
   
 Instead, back in my day, we had PowerPoint. That, really, was our chief interest.  
   
