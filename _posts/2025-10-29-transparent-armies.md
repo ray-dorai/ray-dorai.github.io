@@ -3,31 +3,6 @@ layout: post
 title: "Transparent Armies"
 date: 2025-10-29
 ---
-
-**PART 1: Why Lions Don't Need to Hide**  
-[The 9/11 Intelligence Failure That Still Haunts Us](#the-problem-with-data-silos)  
-[When Your Enemy Knows Everything and Still Loses](#the-power-of-transparency)  
-[Going After the Friendless and Vicious](#modern-military-strategy)  
-[You Only Hide When You're Weak](#hiding)  
-
-**PART 2: What Khabib Knew That The Pentagon Doesn't**  
-[The Death of Secret Techniques](#lessons-from-martial-arts)  
-[Why Knowing Everything Won't Save You](#excellence-abides)  
-[MMA vs Traditional Martial Arts](#the-power-of-exchange)  
-
-**PART 3: The Fiefdom Problem**  
-[Why Good People Hoard Data](#the-challenge-of-change)  
-[Taking Care of Troops Beyond Paychecks](#building-a-better-system)  
-[Noble Work, Not National Embarrassment](#the-need-for-deeper-appreciation)  
-
-**PART 4: Competition Beats PowerPoint**  
-[From Garrison Boredom to Constant Competition](#competition-and-learning)  
-[Raiders Beat Drill Teams](#cultural-differences-and-adaptation)  
-[The 10,000-Brain Advantage](#the-power-of-collective-learning)  
-[When Hierarchy Kills Excellence](#cultural-barriers-to-learning)  
-
-***
-
 What would it look like if a dominant military had only one purpose- to win wars?  
   
 _I believe it would be transparent._  
@@ -51,6 +26,30 @@ At the moment, our policies for militaries and secrecy often involve the kind of
 We've already made steps toward transparency in the United States, with the publications of most of our military manuals.  
   
 Israel proved the worth of relative openness too, in the Yom Kippur War.  
+  
+**PART 1: Why Lions Don't Need to Hide**  
+[The 9/11 Intelligence Failure That Still Haunts Us](#the-problem-with-data-silos)  
+[When Your Enemy Knows Everything and Still Loses](#the-power-of-transparency)  
+[Going After the Friendless and Vicious](#modern-military-strategy)  
+[You Only Hide When You're Weak](#hiding)  
+
+**PART 2: What Khabib Knew That The Pentagon Doesn't**  
+[The Death of Secret Techniques](#lessons-from-martial-arts)  
+[Why Knowing Everything Won't Save You](#excellence-abides)  
+[MMA vs Traditional Martial Arts](#the-power-of-exchange)  
+
+**PART 3: The Fiefdom Problem**  
+[Why Good People Hoard Data](#the-challenge-of-change)  
+[Taking Care of Troops Beyond Paychecks](#building-a-better-system)  
+[Noble Work, Not National Embarrassment](#the-need-for-deeper-appreciation)  
+
+**PART 4: Competition Beats PowerPoint**  
+[From Garrison Boredom to Constant Competition](#competition-and-learning)  
+[Raiders Beat Drill Teams](#cultural-differences-and-adaptation)  
+[The 10,000-Brain Advantage](#the-power-of-collective-learning)  
+[When Hierarchy Kills Excellence](#cultural-barriers-to-learning)  
+
+***
   
 ## The Problem with Data Silos  
   
