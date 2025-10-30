@@ -48,7 +48,7 @@ It's a surprise that comes from following your own rhythm, not from coming out o
   
 At the moment, our policies for militaries and secrecy often involve the kind of secrecy that is an internal break in rhythm. We're sacrificing our own unity for secrecy, and **that has consequences**.  
 
-We're already made steps toward transparency in the United States, with the publications of most of our military manuals.  
+We've already made steps toward transparency in the United States, with the publications of most of our military manuals.  
   
 Israel proved the worth of relative openness too, in the Yom Kippur War.  
   
