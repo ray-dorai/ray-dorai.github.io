@@ -22,7 +22,7 @@ date: 2025-10-29
 
 **PART 4: Competition Beats PowerPoint**  
 [From Garrison Boredom to Constant Competition](#competition-and-learning)  
-[Why Raiders Beat Drill Teams](#cultural-differences-and-adaptation)  
+[Raiders Beat Drill Teams](#cultural-differences-and-adaptation)  
 [The 10,000-Brain Advantage](#the-power-of-collective-learning)  
 [When Hierarchy Kills Excellence](#cultural-barriers-to-learning)  
 
