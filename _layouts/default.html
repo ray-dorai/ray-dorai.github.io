@@ -18,28 +18,51 @@
 </script>
 	</head>
 	<body>
-		<nav>
-    		<ul>
-        		<li><a href="/">Base</a></li>
-			<li><a href="/books.html">Books</a></li>
-			<li><a href="/services.html">Services</a></li>
-        		<li><a href="/explorations">Blog</a></li>
-			<li><a href="/neighbors.html">Neighbors</a></li>
-			<li><a href="https://anagora.org/@forshaper">Notes</a></li>
-
-
-    		</ul>
-		</nav>
-		<div class="container">
-			
-			{{ content }}
-			
+		<div class="mud-shell">
+			<header class="mud-header">
+				<div class="mud-header__title">Ray Doraisamy</div>
+				<div class="mud-header__subtitle">prose, pith, and more</div>
+			</header>
+			<div class="mud-layout">
+				<aside class="mud-panel mud-panel--left">
+					<nav>
+						<div class="mud-panel__title">Navigation</div>
+						<ul>
+							<li><a href="/">Base</a></li>
+							<li><a href="/books.html">Books</a></li>
+							<li><a href="/services.html">Services</a></li>
+							<li><a href="/explorations">Blog</a></li>
+							<li><a href="/neighbors.html">Neighbors</a></li>
+							<li><a href="https://anagora.org/@forshaper">Notes</a></li>
+						</ul>
+					</nav>
+				</aside>
+				<main class="mud-main">
+					<div class="mud-log">
+						{{ content }}
+					</div>
+				</main>
+				<aside class="mud-panel mud-panel--right">
+					<div class="mud-panel__title">Status</div>
+					<ul class="mud-panel__list">
+						<li>Location: Base</li>
+						<li>Mode: Reader</li>
+						<li>Focus: Wonder</li>
+					</ul>
+					<div class="mud-panel__title">Inventory</div>
+					<ul class="mud-panel__list">
+						<li>Notes</li>
+						<li>Books</li>
+						<li>Services</li>
+					</ul>
+				</aside>
 			</div>
-		<!-- /.container -->
-		<footer>
-    		<ul>
-        		<li><a href="mailto:ray.doraisamy@gmail.com">Say "Hi"</a></li>
-			</ul>
-		</footer>
+			<footer class="mud-footer">
+				<div class="mud-footer__prompt">Command:</div>
+				<div class="mud-footer__command">
+					<a href="mailto:ray.doraisamy@gmail.com">say "hi"</a>
+				</div>
+			</footer>
+		</div>
 	</body>
 </html>
