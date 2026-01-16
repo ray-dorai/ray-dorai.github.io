@@ -130,8 +130,10 @@ ul.posts li {
 .mud-layout {
   display: grid;
   gap: 20px;
-  grid-template-columns: minmax(180px, 220px) minmax(0, 1fr) minmax(180px, 220px);
+  grid-template-columns: minmax(160px, 200px) minmax(0, 1fr);
   align-items: start;
+  max-width: 1100px;
+  margin: 0 auto;
 }
 
 .mud-panel {
@@ -149,17 +151,6 @@ ul.posts li {
   font-size: 0.75rem;
   color: var(--accent-cool);
   margin-bottom: 8px;
-}
-
-.mud-panel__list {
-  list-style: none;
-  padding: 0;
-  margin: 0 0 16px 0;
-}
-
-.mud-panel__list li {
-  margin-bottom: 6px;
-  color: var(--muted);
 }
 
 .mud-main {
@@ -223,18 +214,14 @@ ul.posts li {
 
 @media only screen and (max-width: 900px) {
   .mud-layout {
-    grid-template-columns: minmax(160px, 200px) minmax(0, 1fr);
+    grid-template-columns: 1fr;
     grid-template-areas:
-      "main main"
-      "left right";
+      "main"
+      "left";
   }
 
   .mud-panel--left {
     grid-area: left;
-  }
-
-  .mud-panel--right {
-    grid-area: right;
   }
 
   .mud-main {
