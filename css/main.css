@@ -139,6 +139,7 @@ li { margin-bottom: 0.4em; }
 ul.posts { margin: var(--space-md) 0 var(--space-xl); padding: 0; }
 ul.posts li { list-style: none; padding: 0.3em 0; border-bottom: 1px solid var(--border); font-family: 'Plex Serif', serif; }
 ul.posts li span { font-family: '3270', monospace; font-size: var(--step-sm); color: var(--text-muted); margin-right: 0.5em; }
+ul.posts li a { font-family: '3270', monospace; }
 
 /* --- IMAGES --- */
 
