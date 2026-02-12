@@ -6,7 +6,6 @@
 		<link rel="icon" type="image/png" href="https://github.com/ray-dorai/ray-dorai.github.io/blob/master/raydoraisamy_favicon.png?raw=true" />
 		<title>{{ page.title }}</title>
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
-		<!-- Google tag (gtag.js) -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-E47MS80TWE"></script>
 		<script>
 		  window.dataLayer = window.dataLayer || [];
@@ -16,32 +15,46 @@
 		</script>
 	</head>
 	<body>
+		{% include frame-defs.svg %}
 		<div class="mud-shell">
 			<header class="mud-header">
 				<div class="mud-header__title">Ray Doraisamy</div>
 			</header>
-			<div class="girih-top" aria-hidden="true"></div>
+			{% include frame-header.html %}
 			<div class="mud-layout">
-				<aside class="mud-panel mud-panel--left">
-					<nav>
-						<div class="mud-panel__title">Navigation</div>
-						<ul>
-							<li><a href="/">Base</a></li>
-							<li><a href="/books.html">Books</a></li>
-							<li><a href="/services.html">Services</a></li>
-							<li><a href="/explorations">Blog</a></li>
-							<li><a href="/neighbors.html">Neighbors</a></li>
-							<li><a href="https://anagora.org/@forshaper">Notes</a></li>
-						</ul>
-					</nav>
-				</aside>
+				<div class="mud-sidebar">
+					{% include frame-sidebar.html %}
+					<div class="mud-panel">
+						<nav>
+							<div class="mud-panel__title">Navigation</div>
+							<ul>
+								<li><a href="/">Base</a></li>
+								<li><a href="/books.html">Books</a></li>
+								<li><a href="/services.html">Services</a></li>
+								<li><a href="/explorations">Blog</a></li>
+								<li><a href="/neighbors.html">Neighbors</a></li>
+								<li><a href="https://anagora.org/@forshaper">Notes</a></li>
+							</ul>
+						</nav>
+					</div>
+				</div>
 				<main class="mud-main">
 					<div class="mud-log">
 						{{ content }}
 					</div>
 				</main>
 			</div>
-			<div class="girih-bottom" aria-hidden="true"></div>
+			<div class="mud-nav-mobile">
+				<nav><ul>
+					<li><a href="/">Base</a></li>
+					<li><a href="/books.html">Books</a></li>
+					<li><a href="/services.html">Services</a></li>
+					<li><a href="/explorations">Blog</a></li>
+					<li><a href="/neighbors.html">Neighbors</a></li>
+					<li><a href="https://anagora.org/@forshaper">Notes</a></li>
+				</ul></nav>
+			</div>
+			{% include frame-footer.html %}
 			<footer class="mud-footer">
 				<div class="mud-footer__prompt">Contact:</div>
 				<div class="mud-footer__command">

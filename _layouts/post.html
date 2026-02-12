@@ -4,7 +4,12 @@ layout: default
 <h1>{{ page.title }}</h1>
 <p class="meta">{{ page.date | date_to_string }}</p>
 
-<div class="girih-divider" aria-hidden="true"></div>
+<svg class="frame-divider" width="100%" height="12" preserveAspectRatio="none" aria-hidden="true">
+  <rect y="4" width="100%" height="3" fill="#0e0c08"/>
+  <rect y="4" width="100%" height="1" fill="#000" opacity="0.4"/>
+  <rect y="6.5" width="100%" height="0.5" fill="#4d4030" opacity="0.12"/>
+  <path d="M 5%,5.5 Q 25%,4 50%,5.5 T 95%,5.5" fill="none" stroke="#7a6a3e" stroke-width="0.5" opacity="0.35"/>
+</svg>
 
 <script type="text/javascript" src="https://latest.cactus.chat/cactus.js"></script>
 <link rel="stylesheet" href="https://latest.cactus.chat/style.css" type="text/css">
@@ -13,7 +18,12 @@ layout: default
   {{ content }}
 </div>
 
-<div class="girih-divider" aria-hidden="true" style="margin-top: 3rem;"></div>
+<svg class="frame-divider" width="100%" height="12" preserveAspectRatio="none" aria-hidden="true" style="margin-top: 3rem;">
+  <rect y="4" width="100%" height="3" fill="#0e0c08"/>
+  <rect y="4" width="100%" height="1" fill="#000" opacity="0.4"/>
+  <rect y="6.5" width="100%" height="0.5" fill="#4d4030" opacity="0.12"/>
+  <path d="M 5%,5.5 Q 25%,4 50%,5.5 T 95%,5.5" fill="none" stroke="#7a6a3e" stroke-width="0.5" opacity="0.35"/>
+</svg>
 
 <div id="comment-section"></div>
 
