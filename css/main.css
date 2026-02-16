@@ -1,3 +1,11 @@
+/* ============================================================
+   RAY DORAISAMY — CSS
+   Type: 3270 (frame voice) + IBM Plex Serif (body)
+   Frame: Physarum / jellyfish network in carved stone
+   Layout: MUD-inspired with Butterick reading column
+   ============================================================ */
+
+/* --- FONTS --- */
 
 @font-face {
   font-family: '3270';
@@ -139,7 +147,6 @@ li { margin-bottom: 0.4em; }
 ul.posts { margin: var(--space-md) 0 var(--space-xl); padding: 0; }
 ul.posts li { list-style: none; padding: 0.3em 0; border-bottom: 1px solid var(--border); font-family: 'Plex Serif', serif; }
 ul.posts li span { font-family: '3270', monospace; font-size: var(--step-sm); color: var(--text-muted); margin-right: 0.5em; }
-ul.posts li a { font-family: '3270', monospace; }
 
 /* --- IMAGES --- */
 
@@ -274,43 +281,6 @@ nav ul li a { color: var(--gold); display: inline-block; padding: 0.1em 0; }
 /* Mobile nav */
 .mud-nav-mobile { display: none; }
 
-/* --- HERO ART (index ASCII art frame) --- */
-
-.hero-art__title {
-  font-family: '3270', monospace;
-  font-size: var(--step-sm);
-  color: var(--gold);
-  letter-spacing: 0.08em;
-  text-align: center;
-  margin-bottom: var(--space-sm);
-  max-width: none;
-}
-
-.hero-art__frame {
-  border-left: 3px solid var(--stone-mid);
-  border-right: 3px solid var(--stone-mid);
-  box-shadow:
-    inset 1px 0 0 var(--stone-highlight),
-    inset -1px 0 0 var(--stone-deep),
-    0 2px 8px rgba(0,0,0,0.3);
-  overflow: hidden;
-}
-
-.hero-art__band {
-  display: block;
-  width: 100%;
-  height: 28px;
-  flex-shrink: 0;
-}
-
-.hero-art__frame pre {
-  margin: 0;
-  border: none;
-  border-radius: 0;
-  border-left: 1px solid var(--stone-light);
-  border-right: 1px solid var(--stone-light);
-}
-
 /* --- IFRAMES --- */
 iframe { max-width: 100%; border: 1px solid var(--border); }
 
@@ -324,34 +294,198 @@ iframe { max-width: 100%; border: 1px solid var(--border); }
 ::-webkit-scrollbar-thumb:hover { background: var(--gold-dim); }
 
 /* ============================================================
-   RESPONSIVE
+   RESPONSIVE — mobile as courtyard
+   The frame becomes a trace. The reading becomes everything.
    ============================================================ */
 
+/* --- Tablet: sidebar gone, frame thins --- */
 @media (max-width: 52rem) {
   .mud-layout { grid-template-columns: 1fr; }
   .mud-sidebar { display: none; }
   .mud-main { grid-area: unset; }
-  .mud-log { padding: var(--space-md) 0; max-width: 100%; }
-  .mud-log img { max-width: 100% !important; margin-left: 0 !important; margin-right: 0 !important; }
-  .frame-band { height: 60px; }
-  .corner-node { width: 60px; height: 60px; }
+  .mud-log {
+    padding: var(--space-md) 1rem;
+    max-width: 100%;
+  }
+  .mud-log img {
+    max-width: 100% !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+
+  /* Frame becomes a trace — 8px, just the tile pattern, no nodes */
+  .frame-band { height: 8px; overflow: hidden; }
+  .frame-band svg { opacity: 0.5; }
+
+  /* Corner bosses disappear — no room, no detail at this size */
+  .corner-node { display: none; }
+
+  /* Header tightens */
+  .mud-header { padding: var(--space-sm) 1rem var(--space-xs); }
+
+  /* Mobile nav at bottom — compact horizontal row */
   .mud-nav-mobile {
-    display: block;
-    padding: var(--space-md);
+    display: flex;
+    justify-content: center;
+    gap: 0.3rem;
+    padding: var(--space-sm) 1rem;
+    margin-top: var(--space-sm);
+    border-top: 1px solid var(--stone-mid);
     font-family: '3270', monospace;
     font-size: var(--step-sm);
   }
-  .mud-nav-mobile ul { padding: 0; list-style: none; }
-  .mud-nav-mobile li { display: inline; margin-right: 1em; }
+  .mud-nav-mobile ul { padding: 0; list-style: none; margin: 0; display: flex; gap: 0; flex-wrap: wrap; justify-content: center; }
+  .mud-nav-mobile li { margin: 0; }
+  .mud-nav-mobile li::after { content: '·'; color: var(--gold-faint); margin: 0 0.5em; }
+  .mud-nav-mobile li:last-child::after { content: ''; margin: 0; }
   .mud-nav-mobile a { color: var(--gold); }
+
+  /* Footer tightens */
+  .mud-footer { padding: var(--space-xs) 1rem; justify-content: center; }
+
+  /* Index page: hide ASCII art on mobile */
+  .mud-log pre:first-child,
+  .index-ascii { display: none; }
+
+  /* Index page: tagline compact */
+  .index-tagline {
+    font-family: '3270', monospace;
+    font-size: 0.7rem;
+    letter-spacing: 0.1em;
+    color: var(--gold-dim);
+    text-transform: uppercase;
+    margin-bottom: var(--space-md);
+  }
 }
 
+/* --- Phone: pure reading --- */
 @media (max-width: 32rem) {
-  :root { --step-base: 1.05rem; --step-xl: 1.6rem; --step-lg: 1.3rem; }
-  .mud-shell { padding: 0 var(--space-xs); }
-  .mud-header { padding: var(--space-sm) var(--space-xs) var(--space-xs); }
+  :root {
+    --step-base: 1.0625rem; /* 17px — the sweet spot for mobile serif reading */
+    --step-xl:   1.5rem;
+    --step-lg:   1.25rem;
+    --lh:        1.68; /* slightly tighter on narrow columns */
+  }
+
+  .mud-shell { padding: 0; }
+
+  .mud-header {
+    padding: var(--space-sm) 1rem 0.25rem;
+  }
   .mud-header__title { font-size: var(--step-lg); }
+
+  /* Frame trace: barely there — a whisper */
+  .frame-band { height: 6px; }
+  .frame-band svg { opacity: 0.35; }
+
   h1 { font-size: var(--step-lg); }
-  .frame-band { height: 44px; }
-  .corner-node { width: 44px; height: 44px; }
+
+  .mud-log {
+    padding: var(--space-sm) 1rem;
+  }
+
+  /* Post list items need comfortable tap targets */
+  ul.posts li {
+    padding: 0.6em 0;
+    min-height: 48px;
+    display: flex;
+    align-items: baseline;
+    gap: 0.3em;
+  }
+
+  /* Blockquotes: less indent on small screens */
+  blockquote {
+    margin-left: 0;
+    padding-left: var(--space-sm);
+  }
+
+  /* Footer minimal */
+  .mud-footer { font-size: 0.75rem; }
+  .mud-nav-mobile { font-size: 0.75rem; padding: var(--space-xs) 0.75rem; }
+
+  /* Newsletter inline styling for mobile */
+  .newsletter-inline {
+    margin: 0;
+    padding: 0.5em 0;
+    border-bottom: 1px solid var(--border);
+  }
+  .newsletter-inline input[type="email"] {
+    font-family: 'Plex Serif', Georgia, serif;
+    font-size: var(--step-sm);
+    background: var(--stone-deep);
+    border: 1px solid var(--stone-mid);
+    color: var(--text);
+    padding: 0.4em 0.6em;
+    border-radius: 2px;
+    width: 100%;
+    max-width: 240px;
+  }
+  .newsletter-inline input[type="email"]::placeholder {
+    color: var(--text-muted);
+  }
+  .newsletter-inline button {
+    font-family: '3270', monospace;
+    font-size: var(--step-sm);
+    background: none;
+    border: 1px solid var(--gold-dim);
+    color: var(--gold);
+    padding: 0.35em 0.8em;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-top: 0.3em;
+  }
+  .newsletter-inline button:hover {
+    border-color: var(--gold);
+    color: var(--gold-bright);
+  }
+}
+
+/* --- Newsletter inline: visible on all sizes but styled to fit --- */
+.newsletter-inline {
+  padding: 0.4em 0;
+  border-bottom: 1px solid var(--border);
+  font-family: '3270', monospace;
+  font-size: var(--step-sm);
+  color: var(--text-muted);
+}
+.newsletter-inline input[type="email"] {
+  font-family: 'Plex Serif', Georgia, serif;
+  font-size: var(--step-sm);
+  background: var(--stone-deep);
+  border: 1px solid var(--stone-mid);
+  color: var(--text);
+  padding: 0.3em 0.5em;
+  border-radius: 2px;
+}
+.newsletter-inline input[type="email"]::placeholder {
+  color: var(--text-muted);
+}
+.newsletter-inline input[type="email"]:focus {
+  outline: none;
+  border-color: var(--gold-dim);
+}
+.newsletter-inline button {
+  font-family: '3270', monospace;
+  font-size: var(--step-sm);
+  background: none;
+  border: 1px solid var(--gold-dim);
+  color: var(--gold);
+  padding: 0.25em 0.6em;
+  border-radius: 2px;
+  cursor: pointer;
+  transition: border-color 0.15s, color 0.15s;
+}
+.newsletter-inline button:hover {
+  border-color: var(--gold);
+  color: var(--gold-bright);
+}
+
+/* On desktop, hide the inline newsletter if there's a separate desktop signup */
+@media (min-width: 52rem) {
+  .newsletter-mobile-only { display: none; }
+}
+
+/* On mobile, hide the desktop-only signup block */
+@media (max-width: 52rem) {
+  .newsletter-desktop-only { display: none; }
 }
