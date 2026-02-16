@@ -226,7 +226,7 @@ hr::after {
 }
 
 .hero-art__frame {
-  margin: var(--space-sm) 0;
+  margin: var(--space-md) 0;
 }
 
 .hero-art__band {
@@ -241,7 +241,10 @@ hr::after {
   line-height: 1.35;
   color: var(--text);
   background: #0e0e0e;
-  border: 1px solid var(--border);
+  border-left: 1px solid var(--border);
+  border-right: 1px solid var(--border);
+  border-top: none;
+  border-bottom: none;
   padding: var(--space-md);
   overflow-x: auto;
   margin: 0;
