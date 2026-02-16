@@ -1,5 +1,3 @@
-
-
 @font-face {
   font-family: '3270';
   src: url(/assets/fonts/3270/3270NerdFont-Regular.ttf) format('truetype');
@@ -165,7 +163,7 @@ sup a.footnote { font-family: '3270', monospace; font-size: 0.75em; color: var(-
 sup a.footnote:hover { color: var(--link-hover); }
 a.reversefootnote { text-decoration: none; color: var(--teal); }
 
-/* --- HR (Physarum rosette section break) --- */
+/* --- HR --- */
 
 hr {
   border: none;
@@ -197,7 +195,7 @@ hr::after {
   z-index: 1;
 }
 
-/* --- FRAME DIVIDER (inline SVG) --- */
+/* --- FRAME DIVIDER --- */
 
 .frame-divider { display: block; margin: 0.5rem 0 1.5rem; }
 
@@ -213,6 +211,48 @@ hr::after {
 .corner-node--left { left: 0; }
 .corner-node--right { right: 0; }
 .corner-node svg { width: 100%; height: 100%; }
+
+/* ============================================================
+   INDEX PAGE — hero art and blurb
+   ============================================================ */
+
+.hero-art__title {
+  font-family: '3270', monospace;
+  font-size: var(--step-lg);
+  color: var(--text);
+  letter-spacing: 0.02em;
+  margin-bottom: var(--space-sm);
+  max-width: var(--reading-width);
+}
+
+.hero-art__frame {
+  margin: var(--space-sm) 0;
+}
+
+.hero-art__band {
+  width: 100%;
+  height: 28px;
+  display: block;
+}
+
+.hero-art__frame pre {
+  font-family: '3270', monospace;
+  font-size: var(--step-sm);
+  line-height: 1.35;
+  color: var(--text);
+  background: #0e0e0e;
+  border: 1px solid var(--border);
+  padding: var(--space-md);
+  overflow-x: auto;
+  margin: 0;
+  border-radius: 0;
+}
+
+/* Social links on index — tighten up */
+.blurb h1 {
+  font-size: var(--step-md);
+  margin-top: var(--space-lg);
+}
 
 /* ============================================================
    LAYOUT
@@ -271,7 +311,7 @@ nav ul li a { color: var(--gold); display: inline-block; padding: 0.1em 0; }
 .mud-footer__prompt { text-transform: uppercase; letter-spacing: 0.1em; font-size: 0.7rem; color: var(--teal); }
 .mud-footer__command a { color: var(--gold); }
 
-/* Mobile nav */
+/* Mobile nav — hidden on desktop */
 .mud-nav-mobile { display: none; }
 
 /* --- IFRAMES --- */
@@ -288,10 +328,8 @@ iframe { max-width: 100%; border: 1px solid var(--border); }
 
 /* ============================================================
    RESPONSIVE — mobile as courtyard
-   The frame becomes a trace. The reading becomes everything.
    ============================================================ */
 
-/* --- Tablet: sidebar gone, frame thins --- */
 @media (max-width: 52rem) {
   .mud-layout { grid-template-columns: 1fr; }
   .mud-sidebar { display: none; }
@@ -306,22 +344,47 @@ iframe { max-width: 100%; border: 1px solid var(--border); }
     margin-right: 0 !important;
   }
 
-  /* Frame becomes a trace — 8px, just the tile pattern, no nodes */
+  /* Frame becomes a trace */
   .frame-band { height: 8px; overflow: hidden; }
   .frame-band svg { opacity: 0.5; }
-
-  /* Corner bosses disappear — no room, no detail at this size */
   .corner-node { display: none; }
 
   /* Header tightens */
   .mud-header { padding: var(--space-sm) 1rem var(--space-xs); }
 
-  /* Mobile nav at bottom — compact horizontal row */
+  /* === INDEX PAGE MOBILE === */
+
+  /* Hide ASCII art and its frame bands */
+  .hero-art__frame { display: none; }
+
+  /* Tagline: compact single line */
+  .hero-art__title {
+    font-size: 0.7rem;
+    letter-spacing: 0.08em;
+    color: var(--gold-dim);
+    text-transform: uppercase;
+    margin-bottom: var(--space-sm);
+    line-height: 1.4;
+  }
+
+  /* Social links: horizontal compact row */
+  .blurb h1 {
+    font-size: var(--step-sm);
+    margin-top: var(--space-md);
+    margin-bottom: var(--space-xs);
+  }
+
+  /* Beehiiv iframe: constrain width */
+  .blurb iframe {
+    width: 100%;
+    max-width: 320px;
+  }
+
+  /* Mobile nav */
   .mud-nav-mobile {
     display: flex;
     justify-content: center;
-    gap: 0.3rem;
-    padding: var(--space-sm) 1rem;
+    padding: var(--space-xs) 1rem;
     margin-top: var(--space-sm);
     border-top: 1px solid var(--stone-mid);
     font-family: '3270', monospace;
@@ -335,49 +398,30 @@ iframe { max-width: 100%; border: 1px solid var(--border); }
 
   /* Footer tightens */
   .mud-footer { padding: var(--space-xs) 1rem; justify-content: center; }
-
-  /* Index page: hide ASCII art on mobile */
-  .mud-log pre:first-child,
-  .index-ascii { display: none; }
-
-  /* Index page: tagline compact */
-  .index-tagline {
-    font-family: '3270', monospace;
-    font-size: 0.7rem;
-    letter-spacing: 0.1em;
-    color: var(--gold-dim);
-    text-transform: uppercase;
-    margin-bottom: var(--space-md);
-  }
 }
 
-/* --- Phone: pure reading --- */
+/* --- Phone --- */
 @media (max-width: 32rem) {
   :root {
-    --step-base: 1.0625rem; /* 17px — the sweet spot for mobile serif reading */
-    --step-xl:   1.5rem;
-    --step-lg:   1.25rem;
-    --lh:        1.68; /* slightly tighter on narrow columns */
+    --step-base: 1.0625rem;
+    --step-xl: 1.5rem;
+    --step-lg: 1.25rem;
+    --lh: 1.68;
   }
 
   .mud-shell { padding: 0; }
-
-  .mud-header {
-    padding: var(--space-sm) 1rem 0.25rem;
-  }
+  .mud-header { padding: var(--space-sm) 1rem 0.25rem; }
   .mud-header__title { font-size: var(--step-lg); }
 
-  /* Frame trace: barely there — a whisper */
+  /* Frame trace: barely there */
   .frame-band { height: 6px; }
   .frame-band svg { opacity: 0.35; }
 
   h1 { font-size: var(--step-lg); }
 
-  .mud-log {
-    padding: var(--space-sm) 1rem;
-  }
+  .mud-log { padding: var(--space-sm) 1rem; }
 
-  /* Post list items need comfortable tap targets */
+  /* Post list: comfortable tap targets */
   ul.posts li {
     padding: 0.6em 0;
     min-height: 48px;
@@ -386,99 +430,21 @@ iframe { max-width: 100%; border: 1px solid var(--border); }
     gap: 0.3em;
   }
 
-  /* Blockquotes: less indent on small screens */
+  /* Blockquotes: less indent */
   blockquote {
     margin-left: 0;
     padding-left: var(--space-sm);
   }
 
-  /* Footer minimal */
+  /* Index: social links inline */
+  .blurb br { display: none; }
+  .blurb a {
+    display: inline;
+    margin-right: 0.8em;
+  }
+  /* Hide the icon classes that don't load anyway */
+  .blurb i[class^="cp"] { display: none; }
+
   .mud-footer { font-size: 0.75rem; }
   .mud-nav-mobile { font-size: 0.75rem; padding: var(--space-xs) 0.75rem; }
-
-  /* Newsletter inline styling for mobile */
-  .newsletter-inline {
-    margin: 0;
-    padding: 0.5em 0;
-    border-bottom: 1px solid var(--border);
-  }
-  .newsletter-inline input[type="email"] {
-    font-family: 'Plex Serif', Georgia, serif;
-    font-size: var(--step-sm);
-    background: var(--stone-deep);
-    border: 1px solid var(--stone-mid);
-    color: var(--text);
-    padding: 0.4em 0.6em;
-    border-radius: 2px;
-    width: 100%;
-    max-width: 240px;
-  }
-  .newsletter-inline input[type="email"]::placeholder {
-    color: var(--text-muted);
-  }
-  .newsletter-inline button {
-    font-family: '3270', monospace;
-    font-size: var(--step-sm);
-    background: none;
-    border: 1px solid var(--gold-dim);
-    color: var(--gold);
-    padding: 0.35em 0.8em;
-    border-radius: 2px;
-    cursor: pointer;
-    margin-top: 0.3em;
-  }
-  .newsletter-inline button:hover {
-    border-color: var(--gold);
-    color: var(--gold-bright);
-  }
-}
-
-/* --- Newsletter inline: visible on all sizes but styled to fit --- */
-.newsletter-inline {
-  padding: 0.4em 0;
-  border-bottom: 1px solid var(--border);
-  font-family: '3270', monospace;
-  font-size: var(--step-sm);
-  color: var(--text-muted);
-}
-.newsletter-inline input[type="email"] {
-  font-family: 'Plex Serif', Georgia, serif;
-  font-size: var(--step-sm);
-  background: var(--stone-deep);
-  border: 1px solid var(--stone-mid);
-  color: var(--text);
-  padding: 0.3em 0.5em;
-  border-radius: 2px;
-}
-.newsletter-inline input[type="email"]::placeholder {
-  color: var(--text-muted);
-}
-.newsletter-inline input[type="email"]:focus {
-  outline: none;
-  border-color: var(--gold-dim);
-}
-.newsletter-inline button {
-  font-family: '3270', monospace;
-  font-size: var(--step-sm);
-  background: none;
-  border: 1px solid var(--gold-dim);
-  color: var(--gold);
-  padding: 0.25em 0.6em;
-  border-radius: 2px;
-  cursor: pointer;
-  transition: border-color 0.15s, color 0.15s;
-}
-.newsletter-inline button:hover {
-  border-color: var(--gold);
-  color: var(--gold-bright);
-}
-
-/* On desktop, hide the inline newsletter if there's a separate desktop signup */
-@media (min-width: 52rem) {
-  .newsletter-mobile-only { display: none; }
-}
-
-/* On mobile, hide the desktop-only signup block */
-@media (max-width: 52rem) {
-  .newsletter-desktop-only { display: none; }
 }
