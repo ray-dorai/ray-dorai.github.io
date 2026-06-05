@@ -331,7 +331,7 @@ Getting these answers in a casual, fun way is a skill (and will be different dep
 
 A lower stakes version of this getting her talking about her friends, and the other people in her life.
 
-Use open-ended questions. Repeat back what they say.
+Use open-ended questions. Repeat what she says through rephrasing to reinforce her aspirations.
 
 There are times when someone will be on the verge of overflowing with talk. In time you will come to recognize this precipice. Do or don't do whatever to get over that edge, and keep her talking, regardless of subject. It is in her stream of consciousness that the most useful clues are found.
 
