@@ -39,7 +39,7 @@ If none of the following applies, this will: *figure out what you want and sacri
 [Your Dating Profile Is an Ad: What's in It for Her?](#profile)  
 [Photos Are Your Headlines: Stop Her From Scrolling](#photos)  
 [Every Date Should Be Unforgettable](#dates)  
-[Snake-Charm Her Wants Out, Just Enough to Sort](#sort)  
+[Treat Her Like a Baby and Snake-Charm Her Wants Out, Just Enough to Sort](#sort)  
 [The Point of Dating Is to Stop Dating](#stop)  
 [No Pain No Gain, No Heartbreak No Art](#pain)  
 [What Would You Sacrifice?](#sacrifice)
