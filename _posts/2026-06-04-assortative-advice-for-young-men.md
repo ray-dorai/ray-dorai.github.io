@@ -117,8 +117,8 @@ All this will give you a better idea of what you want.
 > You're not selling a product.  
 > You're not selling a service.  
 > You're not selling a solution. An app. A pair of shoes. A device. A SaaS plan. An upgrade.  
-> Here's the only thing you're selling, no matter what business you're in and what you ship: you're selling your prospects a better version of themselves.
->
+> Here's the only thing you're selling, no matter what business you're in and what you ship: 
+> you're selling your prospects a better version of themselves.
 > — Joanna Wiebe, *Copy Hackers: Where Stellar Messages Come From*
 
 Completely true for dating!
