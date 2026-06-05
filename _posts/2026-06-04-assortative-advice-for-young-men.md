@@ -9,7 +9,7 @@ If you are over 6ft with a symmetric face or are a sincere poet, it's not that y
 
 No matter who you are, you must do everything in your power to learn what you want.
 
-For the rest of you, the 96% of young heterosexual men who want to start a family, it would also be best if you found a way to avoid the seeming shitshow that is dating.
+For the rest of you, the majority of young heterosexual men who want to start a family, it would also be best if you found a way to avoid the seeming shitshow that is dating.
 
 There are three predictable ways to avoid dating and still end up with someone.
 
