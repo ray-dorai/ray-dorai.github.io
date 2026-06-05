@@ -33,7 +33,7 @@ Practical details change, positioning remains the same.
 
 If none of the following applies, this will: *figure out what you want and sacrifice.*
 
-**Contents**  
+
 [We're All Marketers Now](#marketers)  
 [The Woman in Your Dreams Was Constructed by Video Impressions](#dreams)  
 [Your Dating Profile Is an Ad: What's in It for Her?](#profile)  
@@ -208,6 +208,8 @@ What combination of skills and activities makes you feel most misunderstood, whe
 It needs to bump her off her tracks.
 
 Get good at photography, ask one of your photographer friends to help you, or, if all else fails, get a professional. It's all about light.
+
+Also, everything looks good on a fit body. Of all the advice, this is the easiest one to work on, and it's the easiest result to get.
 
 The rest of your photographs have one job: paint a picture of a life that would make her more admired.
 
