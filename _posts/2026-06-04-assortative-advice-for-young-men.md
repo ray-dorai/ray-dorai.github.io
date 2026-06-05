@@ -323,7 +323,7 @@ Jill Konrath was trying to make a sale. She got a call from someone at Southwest
 >
 > — Jill Konrath
 
-For you, this means…sneaking in talk about dating.
+For you, this means…sneaking in talk about dating. Helping her make the best possible decision for herself.
 
 What does she want out of a date? Who else has she found interesting? How is she with her exes? What leads her to a relationship?
 
