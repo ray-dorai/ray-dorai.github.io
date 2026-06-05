@@ -167,7 +167,7 @@ If any of these women interested you, really interested you, you're going to wan
 >
 > Teresa's real motivations are to lose weight in order to prove herself against the skinny girl next door, to prove to her husband that she's desirable, to earn her cranky mother's respect and to love what she sees when she looks in the dressing room mirror. (Don't get me started on body issues. I don't necessarily see eye-to-eye with "Teresa.") She also wants to get these results with very little effort. And she wants to be given permission to love herself without changing who she is or what she does. She skips through all those deep motivations because they're hard to confess. Instead, she tells herself that she just wants a website with info about losing weight. Suuure she does.
 >
-> — Joanna Wiebe
+> — Joanna Wiebe, *Copy Hackers: Where Stellar Messages Come From*
 
 For starters, watch a few episodes of The Office (today I'm guessing it's *The Summer I Turned Pretty* or reading *A Court of Thorns and Roses*).
 
