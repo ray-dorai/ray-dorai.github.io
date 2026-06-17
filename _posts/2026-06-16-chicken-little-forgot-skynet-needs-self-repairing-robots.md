@@ -33,7 +33,6 @@ Yes, the Fox will say, we need Safety. Yes, the Fox will say, the world is falli
 
 Yum, yum.
 
-**Contents**  
 [Outside of Memetic Virality, Fear is Not a Strategy](#fear)  
 [Consider the Ant](#ant)  
 [Consider the Slime Mold](#slime)  
