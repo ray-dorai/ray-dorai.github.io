@@ -138,10 +138,6 @@ li { margin-bottom: 0.4em; }
 ul.posts { margin: var(--space-md) 0 var(--space-xl); padding: 0; }
 ul.posts li { list-style: none; padding: 0.3em 0; border-bottom: 1px solid var(--border); font-family: '3270', monospace; }
 ul.posts li span { font-family: '3270', monospace; font-size: var(--step-sm); color: var(--text-muted); margin-right: 0.5em; }
-ul.posts li a {
-  overflow-wrap: anywhere;
-  word-break: break-word;
-}
 
 /* --- IMAGES --- */
 
@@ -204,88 +200,17 @@ hr::after {
 .frame-divider { display: block; margin: 0.5rem 0 1.5rem; }
 
 /* ============================================================
-   FRAME
+   FRAME — Physarum network in carved stone
    ============================================================ */
 
-.site-frame {
-  --frame-band: clamp(1.55rem, 3vw, 2.35rem);
-  --frame-corner: clamp(5.5rem, 10vw, 8rem);
-  --frame-inset: clamp(0.75rem, 1.8vw, 1.5rem);
-  position: relative;
-  isolation: isolate;
-  flex: 1;
-  margin: 0 clamp(1rem, 3vw, 2.25rem);
-  padding-top: calc(var(--frame-band) + var(--frame-inset));
-  filter: drop-shadow(0 0 18px rgba(201,168,76,0.05));
-}
+.frame-band { width: 100%; height: 84px; position: relative; overflow: hidden; flex-shrink: 0; }
+.frame-band svg { width: 100%; height: 100%; display: block; }
+.frame-band--footer { margin-top: auto; }
 
-.site-frame__edge,
-.site-frame__corner {
-  position: absolute;
-  z-index: 1;
-  pointer-events: none;
-  display: block;
-  max-width: none;
-  height: auto;
-  margin: 0;
-  border-radius: 0;
-  user-select: none;
-}
-
-.site-frame__edge--top {
-  top: 0;
-  left: 0;
-  right: 0;
-  display: block;
-  width: 100%;
-  height: var(--frame-band);
-  background-image: url("/assets/frame/header.svg");
-  background-position: center top;
-  background-repeat: repeat-x;
-  background-size: auto 100%;
-}
-
-.site-frame__edge--bottom {
-  display: none;
-}
-
-.site-frame__edge--left {
-  display: none;
-}
-
-.site-frame__edge--right {
-  display: none;
-}
-
-.site-frame__corner {
-  z-index: 2;
-  width: var(--frame-corner);
-}
-
-.site-frame__corner--tl {
-  top: 0;
-  left: 0;
-  aspect-ratio: 1.4679;
-}
-
-.site-frame__corner--tr {
-  top: 0;
-  right: 0;
-  aspect-ratio: 1.4953;
-}
-
-.site-frame__corner--bl {
-  display: none;
-}
-
-.site-frame__corner--br {
-  display: none;
-}
-
-.site-frame__content {
-  position: relative;
-  z-index: 0;
-}
+.corner-node { position: absolute; width: 84px; height: 84px; z-index: 4; top: 0; }
+.corner-node--left { left: 0; }
+.corner-node--right { right: 0; }
+.corner-node svg { width: 100%; height: 100%; }
 
 /* ============================================================
    INDEX PAGE — hero art and blurb
@@ -336,18 +261,11 @@ hr::after {
    LAYOUT
    ============================================================ */
 
-.mud-shell {
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  max-width: 76rem;
-  margin: 0 auto;
-  padding: 0;
-}
+.mud-shell { min-height: 100vh; display: flex; flex-direction: column; max-width: 72rem; margin: 0 auto; }
 
 .mud-header {
   font-family: '3270', monospace;
-  padding: clamp(1rem, 2.5vw, 2rem) clamp(1rem, 3vw, 2.25rem) var(--space-xs);
+  padding: var(--space-md) var(--space-md) var(--space-sm);
 }
 .mud-header__title { font-size: var(--step-xl); color: var(--gold); letter-spacing: 0.04em; }
 
@@ -357,33 +275,28 @@ hr::after {
   grid-template-columns: auto minmax(0, 1fr);
   align-items: start;
   flex: 1;
-  padding: 0;
+  padding: 0 var(--space-md);
 }
 
-.mud-sidebar {
-  display: flex;
-  align-items: flex-start;
-}
+.mud-sidebar { display: flex; gap: 0; }
+.sidebar-edge { width: 28px; min-height: 100%; flex-shrink: 0; overflow: hidden; }
+.sidebar-edge svg { width: 100%; height: 100%; }
 
 .mud-panel {
   font-family: '3270', monospace;
   font-size: var(--step-sm);
-  padding: var(--space-md) var(--space-lg) var(--space-md) 0;
+  padding: var(--space-md);
   position: sticky;
   top: var(--space-md);
-  min-width: 8rem;
+  min-width: 120px;
 }
 .mud-panel__title { text-transform: uppercase; letter-spacing: 0.12em; font-size: 0.7rem; color: var(--teal); margin-bottom: var(--space-sm); }
 nav ul { padding: 0; list-style: none; margin: 0; }
 nav ul li { margin: 0 0 0.5em; }
 nav ul li a { color: var(--gold); display: inline-block; padding: 0.1em 0; }
 
-.mud-main { display: flex; justify-content: center; min-width: 0; }
-.mud-log {
-  width: 100%;
-  max-width: calc(var(--reading-width) + 4rem);
-  padding: var(--space-md) clamp(1rem, 3vw, 2rem);
-}
+.mud-main { display: flex; justify-content: flex-start; }
+.mud-log { width: 100%; max-width: calc(var(--reading-width) + 3.5rem); padding: var(--space-lg) 1.75rem; }
 .mud-log > p, .mud-log > ul, .mud-log > ol, .mud-log > blockquote { max-width: var(--reading-width); }
 
 .post .meta {
@@ -421,22 +334,6 @@ iframe { max-width: 100%; border: 1px solid var(--border); }
    ============================================================ */
 
 @media (max-width: 52rem) {
-  .site-frame {
-    --frame-band: 0.8rem;
-    --frame-inset: 0.75rem;
-    margin: 0;
-    padding: var(--frame-band) 0 0;
-    filter: none;
-  }
-  .site-frame__edge--top {
-    opacity: 0.48;
-  }
-  .site-frame__edge--bottom,
-  .site-frame__edge--left,
-  .site-frame__edge--right,
-  .site-frame__corner {
-    display: none;
-  }
   .mud-layout { grid-template-columns: 1fr; }
   .mud-sidebar { display: none; }
   .mud-main { grid-area: unset; }
@@ -449,6 +346,12 @@ iframe { max-width: 100%; border: 1px solid var(--border); }
     margin-left: 0 !important;
     margin-right: 0 !important;
   }
+
+  /* Frame becomes a trace */
+  .frame-band { height: 8px; overflow: hidden; }
+  .frame-band svg { opacity: 0.5; }
+  .corner-node { display: none; }
+
   /* Header tightens */
   .mud-header { padding: var(--space-sm) 1rem var(--space-xs); }
 
@@ -513,6 +416,10 @@ iframe { max-width: 100%; border: 1px solid var(--border); }
   .mud-header { padding: var(--space-sm) 1rem 0.25rem; }
   .mud-header__title { font-size: var(--step-lg); }
 
+  /* Frame trace: barely there */
+  .frame-band { height: 6px; }
+  .frame-band svg { opacity: 0.35; }
+
   h1 { font-size: var(--step-lg); }
 
   .mud-log { padding: var(--space-sm) 1rem; }
@@ -521,21 +428,9 @@ iframe { max-width: 100%; border: 1px solid var(--border); }
   ul.posts li {
     padding: 0.6em 0;
     min-height: 48px;
-    display: block;
-  }
-  ul.posts li span {
-    display: inline-block;
-    width: 4.25rem;
-    margin-right: 0;
-  }
-  ul.posts li a {
-    display: block;
-    margin-top: 0.2rem;
-    width: calc(100vw - 2rem);
-    max-width: 100%;
-    overflow-wrap: anywhere;
-    word-break: break-all;
-    white-space: normal;
+    display: flex;
+    align-items: baseline;
+    gap: 0.3em;
   }
 
   /* Blockquotes: less indent */
