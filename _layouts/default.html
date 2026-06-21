@@ -20,38 +20,49 @@
 			<header class="mud-header">
 				<div class="mud-header__title">Ray Doraisamy</div>
 			</header>
-			<div class="mud-layout">
-				<div class="mud-sidebar">
-					{% include frame-sidebar.html %}
-					<div class="mud-panel">
-						<nav>
-							<div class="mud-panel__title">Navigation</div>
-							<ul>
-								<li><a href="/">Base</a></li>
-								<li><a href="/books.html">Books</a></li>
-								<li><a href="/services.html">Services</a></li>
-								<li><a href="/explorations">Blog</a></li>
-								<li><a href="/neighbors.html">Neighbors</a></li>
-								<li><a href="https://anagora.org/@forshaper">Notes</a></li>
-							</ul>
-						</nav>
+			<div class="site-frame">
+				<div class="site-frame__edge site-frame__edge--top"></div>
+				<div class="site-frame__edge site-frame__edge--bottom"></div>
+				<div class="site-frame__edge site-frame__edge--left"></div>
+				<div class="site-frame__edge site-frame__edge--right"></div>
+				<div class="site-frame__corner site-frame__corner--tl"></div>
+				<div class="site-frame__corner site-frame__corner--tr"></div>
+				<div class="site-frame__corner site-frame__corner--bl"></div>
+				<div class="site-frame__corner site-frame__corner--br"></div>
+				<div class="site-frame__content">
+					<div class="mud-layout">
+						<div class="mud-sidebar">
+							<div class="mud-panel">
+								<nav>
+									<div class="mud-panel__title">Navigation</div>
+									<ul>
+										<li><a href="/">Base</a></li>
+										<li><a href="/books.html">Books</a></li>
+										<li><a href="/services.html">Services</a></li>
+										<li><a href="/explorations">Blog</a></li>
+										<li><a href="/neighbors.html">Neighbors</a></li>
+										<li><a href="https://anagora.org/@forshaper">Notes</a></li>
+									</ul>
+								</nav>
+							</div>
+						</div>
+						<main class="mud-main">
+							<div class="mud-log">
+								{{ content }}
+							</div>
+						</main>
+					</div>
+					<div class="mud-nav-mobile" aria-label="Navigation">
+						<nav><ul>
+							<li><a href="/">Base</a></li>
+							<li><a href="/books.html">Books</a></li>
+							<li><a href="/services.html">Services</a></li>
+							<li><a href="/explorations">Blog</a></li>
+							<li><a href="/neighbors.html">Neighbors</a></li>
+							<li><a href="https://anagora.org/@forshaper">Notes</a></li>
+						</ul></nav>
 					</div>
 				</div>
-				<main class="mud-main">
-					<div class="mud-log">
-						{{ content }}
-					</div>
-				</main>
-			</div>
-			<div class="mud-nav-mobile" aria-label="Navigation">
-				<nav><ul>
-					<li><a href="/">Base</a></li>
-					<li><a href="/books.html">Books</a></li>
-					<li><a href="/services.html">Services</a></li>
-					<li><a href="/explorations">Blog</a></li>
-					<li><a href="/neighbors.html">Neighbors</a></li>
-					<li><a href="https://anagora.org/@forshaper">Notes</a></li>
-				</ul></nav>
 			</div>
 			<footer class="mud-footer">
 				<div class="mud-footer__prompt">Contact:</div>
