@@ -138,6 +138,10 @@ li { margin-bottom: 0.4em; }
 ul.posts { margin: var(--space-md) 0 var(--space-xl); padding: 0; }
 ul.posts li { list-style: none; padding: 0.3em 0; border-bottom: 1px solid var(--border); font-family: '3270', monospace; }
 ul.posts li span { font-family: '3270', monospace; font-size: var(--step-sm); color: var(--text-muted); margin-right: 0.5em; }
+ul.posts li a {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
 
 /* --- IMAGES --- */
 
@@ -204,16 +208,15 @@ hr::after {
    ============================================================ */
 
 .site-frame {
-  --frame-band: clamp(2.1rem, 4.6vw, 3.5rem);
-  --frame-side: clamp(2.2rem, 4.9vw, 3.75rem);
-  --frame-corner: clamp(7.5rem, 17vw, 12.5rem);
-  --frame-inset: clamp(0.5rem, 1.5vw, 1.125rem);
+  --frame-band: clamp(1.55rem, 3vw, 2.35rem);
+  --frame-corner: clamp(5.5rem, 10vw, 8rem);
+  --frame-inset: clamp(0.75rem, 1.8vw, 1.5rem);
   position: relative;
   isolation: isolate;
   flex: 1;
-  margin: 0 clamp(0.25rem, 1.6vw, 1rem);
-  padding: calc(var(--frame-band) + var(--frame-inset)) calc(var(--frame-side) + var(--frame-inset));
-  filter: drop-shadow(0 0 24px rgba(201,168,76,0.06));
+  margin: 0 clamp(1rem, 3vw, 2.25rem);
+  padding-top: calc(var(--frame-band) + var(--frame-inset));
+  filter: drop-shadow(0 0 18px rgba(201,168,76,0.05));
 }
 
 .site-frame__edge,
@@ -239,30 +242,15 @@ hr::after {
 }
 
 .site-frame__edge--bottom {
-  bottom: 0;
-  left: 0;
-  right: 0;
-  width: 100%;
-  height: var(--frame-band);
-  object-fit: fill;
+  display: none;
 }
 
 .site-frame__edge--left {
-  top: 0;
-  bottom: 0;
-  left: 0;
-  width: var(--frame-side);
-  height: 100%;
-  object-fit: fill;
+  display: none;
 }
 
 .site-frame__edge--right {
-  top: 0;
-  right: 0;
-  bottom: 0;
-  width: var(--frame-side);
-  height: 100%;
-  object-fit: fill;
+  display: none;
 }
 
 .site-frame__corner {
@@ -283,15 +271,11 @@ hr::after {
 }
 
 .site-frame__corner--bl {
-  bottom: 0;
-  left: 0;
-  aspect-ratio: 1.4713;
+  display: none;
 }
 
 .site-frame__corner--br {
-  right: 0;
-  bottom: 0;
-  aspect-ratio: 1.4918;
+  display: none;
 }
 
 .site-frame__content {
@@ -435,7 +419,6 @@ iframe { max-width: 100%; border: 1px solid var(--border); }
 @media (max-width: 52rem) {
   .site-frame {
     --frame-band: 0.8rem;
-    --frame-side: 0;
     --frame-inset: 0.75rem;
     margin: 0;
     padding: var(--frame-band) 0 0;
@@ -534,9 +517,21 @@ iframe { max-width: 100%; border: 1px solid var(--border); }
   ul.posts li {
     padding: 0.6em 0;
     min-height: 48px;
-    display: flex;
-    align-items: baseline;
-    gap: 0.3em;
+    display: block;
+  }
+  ul.posts li span {
+    display: inline-block;
+    width: 4.25rem;
+    margin-right: 0;
+  }
+  ul.posts li a {
+    display: block;
+    margin-top: 0.2rem;
+    width: calc(100vw - 2rem);
+    max-width: 100%;
+    overflow-wrap: anywhere;
+    word-break: break-all;
+    white-space: normal;
   }
 
   /* Blockquotes: less indent */
