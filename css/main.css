@@ -221,24 +221,30 @@ hr::after {
   position: absolute;
   z-index: 1;
   pointer-events: none;
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
+  display: block;
+  max-width: none;
+  height: auto;
+  margin: 0;
+  border-radius: 0;
+  user-select: none;
 }
 
 .site-frame__edge--top {
   top: 0;
   left: 0;
   right: 0;
+  width: 100%;
   height: var(--frame-band);
-  background-image: url("/assets/frame/header.svg");
+  object-fit: fill;
 }
 
 .site-frame__edge--bottom {
   bottom: 0;
   left: 0;
   right: 0;
+  width: 100%;
   height: var(--frame-band);
-  background-image: url("/assets/frame/footer.svg");
+  object-fit: fill;
 }
 
 .site-frame__edge--left {
@@ -246,7 +252,8 @@ hr::after {
   bottom: 0;
   left: 0;
   width: var(--frame-side);
-  background-image: url("/assets/frame/side.svg");
+  height: 100%;
+  object-fit: fill;
 }
 
 .site-frame__edge--right {
@@ -254,7 +261,8 @@ hr::after {
   right: 0;
   bottom: 0;
   width: var(--frame-side);
-  background-image: url("/assets/frame/side.svg");
+  height: 100%;
+  object-fit: fill;
 }
 
 .site-frame__corner {
@@ -266,28 +274,24 @@ hr::after {
   top: 0;
   left: 0;
   aspect-ratio: 1.4679;
-  background-image: url("/assets/frame/corner-tl.svg");
 }
 
 .site-frame__corner--tr {
   top: 0;
   right: 0;
   aspect-ratio: 1.4953;
-  background-image: url("/assets/frame/corner-tr.svg");
 }
 
 .site-frame__corner--bl {
   bottom: 0;
   left: 0;
   aspect-ratio: 1.4713;
-  background-image: url("/assets/frame/corner-bl.svg");
 }
 
 .site-frame__corner--br {
   right: 0;
   bottom: 0;
   aspect-ratio: 1.4918;
-  background-image: url("/assets/frame/corner-br.svg");
 }
 
 .site-frame__content {
