@@ -200,17 +200,73 @@ hr::after {
 .frame-divider { display: block; margin: 0.5rem 0 1.5rem; }
 
 /* ============================================================
-   FRAME — Physarum network in carved stone
+   FRAME
    ============================================================ */
 
-.frame-band { width: 100%; height: 84px; position: relative; overflow: hidden; flex-shrink: 0; }
-.frame-band svg { width: 100%; height: 100%; display: block; }
-.frame-band--footer { margin-top: auto; }
+.frame-band {
+  width: 100%;
+  height: clamp(4.5rem, 8vw, 7.25rem);
+  position: relative;
+  overflow: visible;
+  flex-shrink: 0;
+  pointer-events: none;
+  filter: drop-shadow(0 0 18px rgba(201,168,76,0.06));
+}
 
-.corner-node { position: absolute; width: 84px; height: 84px; z-index: 4; top: 0; }
-.corner-node--left { left: 0; }
-.corner-node--right { right: 0; }
-.corner-node svg { width: 100%; height: 100%; }
+.frame-band__asset,
+.sidebar-edge__asset,
+.frame-corner {
+  display: block;
+  max-width: none;
+  margin: 0;
+  border-radius: 0;
+  user-select: none;
+}
+
+.frame-band__asset {
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
+}
+
+.frame-band--header {
+  margin-bottom: clamp(0.5rem, 1.5vw, 1.25rem);
+}
+
+.frame-band--footer {
+  margin-top: auto;
+}
+
+.frame-corner {
+  position: absolute;
+  z-index: 2;
+  width: clamp(7rem, 13vw, 11rem);
+  height: auto;
+}
+
+.frame-corner--tl {
+  top: 0;
+  left: 0;
+  transform: translate(-10%, -8%);
+}
+
+.frame-corner--tr {
+  top: 0;
+  right: 0;
+  transform: translate(10%, -8%);
+}
+
+.frame-corner--bl {
+  bottom: 0;
+  left: 0;
+  transform: translate(-10%, 8%);
+}
+
+.frame-corner--br {
+  bottom: 0;
+  right: 0;
+  transform: translate(10%, 8%);
+}
 
 /* ============================================================
    INDEX PAGE — hero art and blurb
@@ -261,11 +317,18 @@ hr::after {
    LAYOUT
    ============================================================ */
 
-.mud-shell { min-height: 100vh; display: flex; flex-direction: column; max-width: 72rem; margin: 0 auto; }
+.mud-shell {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  max-width: 76rem;
+  margin: 0 auto;
+  padding: 0 clamp(0.25rem, 1.6vw, 1rem);
+}
 
 .mud-header {
   font-family: '3270', monospace;
-  padding: var(--space-md) var(--space-md) var(--space-sm);
+  padding: clamp(1rem, 2.5vw, 2rem) clamp(1rem, 3vw, 2.25rem) var(--space-xs);
 }
 .mud-header__title { font-size: var(--step-xl); color: var(--gold); letter-spacing: 0.04em; }
 
@@ -275,28 +338,43 @@ hr::after {
   grid-template-columns: auto minmax(0, 1fr);
   align-items: start;
   flex: 1;
-  padding: 0 var(--space-md);
+  padding: 0 clamp(0.75rem, 2.5vw, 2rem);
 }
 
-.mud-sidebar { display: flex; gap: 0; }
-.sidebar-edge { width: 28px; min-height: 100%; flex-shrink: 0; overflow: hidden; }
-.sidebar-edge svg { width: 100%; height: 100%; }
+.mud-sidebar { display: flex; gap: clamp(0.5rem, 1.5vw, 1rem); }
+.sidebar-edge {
+  width: clamp(1rem, 2vw, 1.75rem);
+  min-height: 100%;
+  flex-shrink: 0;
+  overflow: hidden;
+  opacity: 0.9;
+}
+.sidebar-edge__asset {
+  width: 100%;
+  height: 100%;
+  min-height: 28rem;
+  object-fit: fill;
+}
 
 .mud-panel {
   font-family: '3270', monospace;
   font-size: var(--step-sm);
-  padding: var(--space-md);
+  padding: var(--space-md) var(--space-md) var(--space-md) 0;
   position: sticky;
   top: var(--space-md);
-  min-width: 120px;
+  min-width: 8rem;
 }
 .mud-panel__title { text-transform: uppercase; letter-spacing: 0.12em; font-size: 0.7rem; color: var(--teal); margin-bottom: var(--space-sm); }
 nav ul { padding: 0; list-style: none; margin: 0; }
 nav ul li { margin: 0 0 0.5em; }
 nav ul li a { color: var(--gold); display: inline-block; padding: 0.1em 0; }
 
-.mud-main { display: flex; justify-content: flex-start; }
-.mud-log { width: 100%; max-width: calc(var(--reading-width) + 3.5rem); padding: var(--space-lg) 1.75rem; }
+.mud-main { display: flex; justify-content: center; min-width: 0; }
+.mud-log {
+  width: 100%;
+  max-width: calc(var(--reading-width) + 4rem);
+  padding: clamp(1.5rem, 4vw, 3rem) clamp(1rem, 3vw, 2rem);
+}
 .mud-log > p, .mud-log > ul, .mud-log > ol, .mud-log > blockquote { max-width: var(--reading-width); }
 
 .post .meta {
@@ -348,9 +426,13 @@ iframe { max-width: 100%; border: 1px solid var(--border); }
   }
 
   /* Frame becomes a trace */
-  .frame-band { height: 8px; overflow: hidden; }
-  .frame-band svg { opacity: 0.5; }
-  .corner-node { display: none; }
+  .frame-band {
+    height: 1.25rem;
+    overflow: hidden;
+    opacity: 0.58;
+  }
+  .frame-band--header { margin-bottom: 0; }
+  .frame-corner { display: none; }
 
   /* Header tightens */
   .mud-header { padding: var(--space-sm) 1rem var(--space-xs); }
@@ -417,8 +499,7 @@ iframe { max-width: 100%; border: 1px solid var(--border); }
   .mud-header__title { font-size: var(--step-lg); }
 
   /* Frame trace: barely there */
-  .frame-band { height: 6px; }
-  .frame-band svg { opacity: 0.35; }
+  .frame-band { height: 0.8rem; opacity: 0.42; }
 
   h1 { font-size: var(--step-lg); }
 
