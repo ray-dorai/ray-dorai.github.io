@@ -314,14 +314,14 @@ hr::after {
 
 .mud-sidebar { display: flex; gap: 0; }
 .sidebar-edge {
-  width: 28px;
+  width: 84px;
   min-height: 100%;
   flex-shrink: 0;
   overflow: hidden;
   background-image: url("/assets/border-tiles/side-repeat.png");
   background-position: top center;
   background-repeat: repeat-y;
-  background-size: 28px auto;
+  background-size: 84px auto;
 }
 
 .mud-panel {
