@@ -307,12 +307,12 @@ hr::after {
   display: grid;
   gap: 0;
   grid-template-columns: auto minmax(0, 1fr);
-  align-items: start;
+  align-items: stretch;
   flex: 1;
-  padding: 0 var(--space-md);
+  padding: 0 var(--space-md) 0 0;
 }
 
-.mud-sidebar { display: flex; gap: 0; }
+.mud-sidebar { display: flex; align-items: stretch; gap: 0; }
 .sidebar-edge {
   width: 84px;
   min-height: 100%;
