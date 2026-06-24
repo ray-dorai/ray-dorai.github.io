@@ -226,7 +226,8 @@ hr::after {
   background-image: url("/assets/border-tiles/top-repeat.png");
 }
 .frame-band__track--bottom {
-  background-image: url("/assets/border-tiles/bottom-repeat.png");
+  background-image: url("/assets/border-tiles/top-repeat.png");
+  transform: scaleY(-1);
 }
 .frame-band--footer { margin-top: auto; }
 
@@ -320,6 +321,7 @@ hr::after {
 
 .mud-sidebar { display: flex; align-items: stretch; gap: 0; }
 .sidebar-edge {
+  display: none;
   width: 84px;
   min-height: 100%;
   flex-shrink: 0;
