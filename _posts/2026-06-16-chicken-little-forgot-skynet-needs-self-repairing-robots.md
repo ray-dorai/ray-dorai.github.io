@@ -5,7 +5,9 @@ date: 2026-06-16
 ---
 The 5-15 year AI Safetyist timeline is Chicken Little. In the older Chicken Little stories, all the animals who are convinced by Chicken Little are then persuaded to follow a Fox, who agrees with their fear and leads them to "safety". The Fox then eats them. Our AI Foxes are the US Government, Anthropic, and OpenAI.
 
-![Fox Lox eats Chicken Little and the rest](https://github.com/ray-dorai/ray-dorai.github.io/blob/master/assets/raevskraev.png?raw=true)
+<p style="text-align: center;">
+  <img src="https://github.com/ray-dorai/ray-dorai.github.io/blob/master/assets/raevskraev.png?raw=true" alt="Fox Lox eats Chicken Little and the rest">
+</p>
 
 Yudkowsky and the loudest Safetyists are insulated from maintenance and much of nature. Which is why they can claim 5-15 year timelines for fast takeoff. This has no consideration for what it takes to maintain machines. If they had given a century-long-or-more timeline, and included the means for machines to self-repair, battery technology for repair drones, etc, it might be more believable. However, they don't.
 
